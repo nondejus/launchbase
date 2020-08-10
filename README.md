@@ -9,3 +9,6 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
 bitcoin foundation 
 https://m.youtube.com/watch?v=mJlRN4LtYm4
+
+bitcoincore
+https://doxygen.bitcoincore.org/
