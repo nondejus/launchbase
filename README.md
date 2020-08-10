@@ -11,7 +11,7 @@ bitcoin foundation
 https://m.youtube.com/watch?v=mJlRN4LtYm4
 
 bitstamp.net
-https://web.archive.org/web/20130405190748/https://www.bitstamp.net/about_us/
+https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 
 bitcoincore
 https://doxygen.bitcoincore.org/
