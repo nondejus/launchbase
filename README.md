@@ -4,6 +4,9 @@ origen
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
+diablominer
+https://github.com/nondejus/DiabloMiner
+
 mining.bitcoin.cz 
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 
