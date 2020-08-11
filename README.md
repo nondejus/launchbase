@@ -18,3 +18,6 @@ https://m.youtube.com/watch?v=mJlRN4LtYm4
 
 bitcoincore
 https://doxygen.bitcoincore.org/
+
+history overview
+https://en.bitcoin.it/wiki/Category:History
