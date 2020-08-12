@@ -7,6 +7,9 @@ https://github.com/hashcash-org/hashcash
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
+RPOW
+https://github.com/NakamotoInstitute/RPOW
+
 libbase58
 https://github.com/luke-jr/libbase58
 
