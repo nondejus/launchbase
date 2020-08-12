@@ -16,8 +16,8 @@ https://github.com/sipa/secp256k1
 poclbm 
 https://github.com/m0mchil/poclbm
 
-python bitcoinlib
-https://github.com/petertodd/python-bitcoinlib
+timelock
+https://github.com/petertodd/timelock
 
 pushpoool
 https://github.com/jgarzik/pushpool
