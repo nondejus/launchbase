@@ -16,6 +16,9 @@ https://github.com/m0mchil/poclbm
 secp256k1
 https://github.com/sipa/secp256k1
 
+bitcoin mining pencil and paper
+https://m.youtube.com/watch?v=y3dqhixzGVo
+
 bitcoin miningsim
 https://github.com/gavinandresen/bitcoin_miningsim
 
