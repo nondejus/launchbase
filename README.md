@@ -10,11 +10,11 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 libbase58
 https://github.com/luke-jr/libbase58
 
-poclbm 
-https://github.com/m0mchil/poclbm
-
 secp256k1
 https://github.com/sipa/secp256k1
+
+poclbm 
+https://github.com/m0mchil/poclbm
 
 bitcoin mining pencil and paper
 https://m.youtube.com/watch?v=y3dqhixzGVo
