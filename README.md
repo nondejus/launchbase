@@ -32,7 +32,7 @@ mining.bitcoin.cz
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 
 ckpool 
-https://bitbucket.org/studionondejus/ckpool/src/master/
+https://bitbucket.org/ckolivas/ckpool/src/master/
 
 stratum v2
 https://www.stratumprotocol.org/
