@@ -4,11 +4,11 @@ origen
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
+poclbm 
+https://github.com/m0mchil/poclbm
+
 secp256k1
 https://github.com/sipa/secp256k1
-
-poclbm
-https://github.com/m0mchil/poclbm
 
 hashkill
 https://github.com/nondejus/hashkill
