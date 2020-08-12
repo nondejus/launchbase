@@ -20,7 +20,7 @@ intersango
 https://github.com/nondejus/intersango
 
 ckpool
-https://bitbucket.org/ckolivas/ckpool/src/master/
+https://bitbucket.org/studionondejus/ckpool/src/master/
 
 bitstamp.net 
 https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
