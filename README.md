@@ -28,6 +28,9 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitcoin foundation 
 https://m.youtube.com/watch?v=mJlRN4LtYm4
 
+bitcoin code maintain
+https://laanwj.github.io/
+
 bitcoincore
 https://doxygen.bitcoincore.org/
 
