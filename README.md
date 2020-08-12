@@ -13,6 +13,9 @@ https://github.com/m0mchil/poclbm
 secp256k1
 https://github.com/sipa/secp256k1
 
+bitcoin miningsim
+https://github.com/gavinandresen/bitcoin_miningsim
+
 hashkill
 https://github.com/nondejus/hashkill
 
