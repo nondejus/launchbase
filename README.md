@@ -1,6 +1,9 @@
 origen
 ======
 
+hashcash
+https://github.com/hashcash-org/hashcash
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
