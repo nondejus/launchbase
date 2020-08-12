@@ -36,3 +36,6 @@ https://en.bitcoin.it/wiki/Category:History
 
 simplicity
 https://github.com/ElementsProject/simplicity
+
+design choices for central bank digital currency
+https://github.com/nondejus/design-choices-for-central-bank-digital-currency
