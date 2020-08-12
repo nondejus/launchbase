@@ -16,6 +16,9 @@ https://github.com/sipa/secp256k1
 poclbm 
 https://github.com/m0mchil/poclbm
 
+pushpoool
+https://github.com/jgarzik/pushpool
+
 bitcoin mining pencil and paper
 https://m.youtube.com/watch?v=y3dqhixzGVo
 
