@@ -16,6 +16,9 @@ https://github.com/sipa/secp256k1
 poclbm 
 https://github.com/m0mchil/poclbm
 
+python bitcoinlib
+https://github.com/petertodd/python-bitcoinlib
+
 pushpoool
 https://github.com/jgarzik/pushpool
 
