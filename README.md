@@ -46,6 +46,9 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitcoin foundation 
 https://m.youtube.com/watch?v=mJlRN4LtYm4
 
+bitcoin optech
+https://bitcoinops.org/en/publications/
+
 bitcoin code maintain
 https://laanwj.github.io/
 
