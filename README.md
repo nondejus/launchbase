@@ -16,11 +16,11 @@ https://github.com/nondejus/hashkill
 mining.bitcoin.cz 
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 
+ckpool 
+https://bitbucket.org/studionondejus/ckpool/src/master/
+
 intersango 
 https://github.com/nondejus/intersango
-
-ckpool
-https://bitbucket.org/studionondejus/ckpool/src/master/
 
 bitstamp.net 
 https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
