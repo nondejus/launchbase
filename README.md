@@ -7,8 +7,8 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 secp256k1
 https://github.com/sipa/secp256k1
 
-diablominer
-https://github.com/nondejus/DiabloMiner
+poclbm
+https://github.com/m0mchil/poclbm
 
 hashkill
 https://github.com/nondejus/hashkill
