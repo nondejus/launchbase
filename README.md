@@ -28,6 +28,9 @@ https://github.com/petertodd/timelock
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
+getwork
+https://en.bitcoin.it/wiki/Getwork
+
 bitcoin mining pencil and paper
 https://m.youtube.com/watch?v=y3dqhixzGVo
 
