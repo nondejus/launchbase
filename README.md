@@ -7,6 +7,9 @@ https://github.com/hashcash-org/hashcash
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+getwork 
+https://en.bitcoin.it/wiki/Getwork
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
@@ -27,9 +30,6 @@ https://github.com/petertodd/timelock
 
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
-
-getwork
-https://en.bitcoin.it/wiki/Getwork
 
 bitcoin mining pencil and paper
 https://m.youtube.com/watch?v=y3dqhixzGVo
