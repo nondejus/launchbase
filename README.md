@@ -43,7 +43,7 @@ https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 pushpoool
 https://github.com/jgarzik/pushpool
 
-stratm mining proxy
+stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
 
 p2ppool
