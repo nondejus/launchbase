@@ -25,9 +25,6 @@ https://github.com/m0mchil/poclbm
 timelock
 https://github.com/petertodd/timelock
 
-pushpoool
-https://github.com/jgarzik/pushpool
-
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
@@ -42,6 +39,12 @@ https://github.com/nondejus/hashkill
 
 mining.bitcoin.cz 
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
+
+pushpoool
+https://github.com/jgarzik/pushpool
+
+p2ppool
+https://github.com/p2pool/p2pool
 
 eloipool
 https://github.com/luke-jr/eloipool
