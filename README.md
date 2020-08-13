@@ -43,6 +43,9 @@ https://github.com/nondejus/hashkill
 mining.bitcoin.cz 
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 
+eloipool
+https://github.com/luke-jr/eloipool
+
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
