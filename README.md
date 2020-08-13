@@ -4,6 +4,9 @@ origen
 hashcash
 https://github.com/hashcash-org/hashcash
 
+RPOW 
+https://github.com/NakamotoInstitute/RPOW
+
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
@@ -12,9 +15,6 @@ https://en.bitcoin.it/wiki/Getwork
 
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
-
-RPOW
-https://github.com/NakamotoInstitute/RPOW
 
 libbase58
 https://github.com/luke-jr/libbase58
