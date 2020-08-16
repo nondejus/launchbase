@@ -76,6 +76,9 @@ https://github.com/coinbase/coinbase-ios-sdk
 bitcoin foundation 
 https://m.youtube.com/watch?v=mJlRN4LtYm4
 
+cat-v sidenote
+http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
+
 bitcoin optech
 https://bitcoinops.org/en/publications/
 
