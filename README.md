@@ -73,6 +73,9 @@ https://bitbucket.org/ckolivas/ckpool/src/master/
 stratum v2
 https://www.stratumprotocol.org/
 
+braiins
+https://github.com/braiins/braiins
+
 intersango 
 https://github.com/nondejus/intersango
 
