@@ -10,6 +10,9 @@ https://github.com/NakamotoInstitute/RPOW
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+libbitcoin
+https://github.com/genjix/libbitcoin-c-wrapper
+
 getwork 
 https://en.bitcoin.it/wiki/Getwork
 
