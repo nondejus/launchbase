@@ -31,6 +31,9 @@ https://github.com/jgarzik/python-bitcoinrpc
 timelock
 https://github.com/petertodd/timelock
 
+bitcoinseeder
+https://github.com/sipa/bitcoin-seeder
+
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
