@@ -4,6 +4,9 @@ origen
 hashcash
 https://github.com/hashcash-org/hashcash
 
+nakamotoinsritute.org
+https://github.com/NakamotoInstitute/nakamotoinstitute.org
+
 RPOW 
 https://github.com/NakamotoInstitute/RPOW
 
