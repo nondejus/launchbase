@@ -97,7 +97,7 @@ https://doxygen.bitcoincore.org/
 bitcoin optech
 https://bitcoinops.org/en/publications/
 
-satoshilans
+satoshilabs
 https://github.com/satoshilabs/slips
 
 history overview
