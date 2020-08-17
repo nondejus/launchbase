@@ -40,6 +40,9 @@ https://github.com/petertodd/timelock
 bitcoinseeder
 https://github.com/sipa/bitcoin-seeder
 
+trezor hardware design
+https://github.com/trezor/trezor-hw
+
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
