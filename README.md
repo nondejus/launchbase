@@ -10,6 +10,9 @@ https://github.com/NakamotoInstitute/RPOW
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+bitcoin bips
+https://github.com/bitcoin/bips
+
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
