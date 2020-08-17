@@ -25,6 +25,9 @@ https://github.com/sipa/secp256k1
 poclbm 
 https://github.com/m0mchil/poclbm
 
+bitcoinrpc
+https://github.com/jgarzik/python-bitcoinrpc
+
 timelock
 https://github.com/petertodd/timelock
 
