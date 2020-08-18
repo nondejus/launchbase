@@ -67,11 +67,14 @@ https://github.com/gavinandresen/bitcoin_miningsim
 hashkill
 https://github.com/nondejus/hashkill
 
+pushpoool
+https://github.com/jgarzik/pushpool
+
 mining.bitcoin.cz 
 https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 
-pushpoool
-https://github.com/jgarzik/pushpool
+slushpool
+https://slushpool.com/home/
 
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
