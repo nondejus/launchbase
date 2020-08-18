@@ -40,6 +40,9 @@ https://github.com/petertodd/timelock
 bitcoinseeder
 https://github.com/sipa/bitcoin-seeder
 
+bitcoin abe
+https://github.com/bitcoin-abe/bitcoin-abe
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
