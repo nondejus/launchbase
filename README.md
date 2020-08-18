@@ -13,6 +13,9 @@ https://cs.m.wikipedia.org/wiki/Bitcoin
 bitcoin wayback
 http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 
+block 0
+http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
