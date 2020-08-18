@@ -50,7 +50,7 @@ bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
 instawalket
-https://bitcointalk.org/index.php?topic=6785.0
+https://github.com/finway-china/django-bitcoin-instawallet
 
 trezor hardware design
 https://github.com/trezor/trezor-hw
