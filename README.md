@@ -10,6 +10,9 @@ https://github.com/NakamotoInstitute/nakamotoinstitute.org
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+bitcoin wayback
+http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
