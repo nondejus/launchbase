@@ -1,6 +1,9 @@
 origen
 ======
 
+lists.linuxfoundation.org/bitcoin-dev
+https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
+
 hashcash
 https://github.com/hashcash-org/hashcash
 
