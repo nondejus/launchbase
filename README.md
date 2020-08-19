@@ -136,6 +136,9 @@ https://github.com/satoshilabs/slips
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
+ethereumbook
+https://github.com/ethereumbook/ethereumbook
+
 satellite
 https://github.com/Blockstream/satellite
 
