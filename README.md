@@ -10,6 +10,9 @@ https://github.com/hashcash-org/hashcash
 nakamotoinsritute.org
 https://github.com/NakamotoInstitute/nakamotoinstitute.org
 
+bitcoin forum
+https://bitcointalk.org/
+
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
