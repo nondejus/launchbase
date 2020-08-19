@@ -130,6 +130,9 @@ https://github.com/satoshilabs/slips
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
+satellite
+https://github.com/Blockstream/satellite
+
 simplicity
 https://github.com/ElementsProject/simplicity
 
