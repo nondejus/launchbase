@@ -184,6 +184,9 @@ https://en.bitcoin.it/wiki/Category:History
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
+gavin wood
+http://gavwood.com/
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
