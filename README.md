@@ -181,6 +181,9 @@ https://github.com/ethereumbook/ethereumbook
 satellite
 https://github.com/Blockstream/satellite
 
+c-lightning
+https://github.com/ElementsProject/lightning
+
 simplicity
 https://github.com/ElementsProject/simplicity
 
