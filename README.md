@@ -181,6 +181,9 @@ https://github.com/satoshilabs/slips
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
+coindesk
+https://www.coindesk.com/
+
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
