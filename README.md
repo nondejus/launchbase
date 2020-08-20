@@ -67,6 +67,9 @@ https://github.com/jgarzik/picocoin
 craig wright
 https://craigwright.net/
 
+bitcoin abc
+https://github.com/Bitcoin-ABC/bitcoin-abc
+
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
