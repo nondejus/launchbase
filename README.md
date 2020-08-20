@@ -136,11 +136,11 @@ https://bitcoinops.org/en/publications/
 satoshilabs
 https://github.com/satoshilabs/slips
 
-history overview
-https://en.bitcoin.it/wiki/Category:History
-
 NERD & Future 1000 
 https://m.youtube.com/watch?v=ARhblzz5Hrs
+
+history overview
+https://en.bitcoin.it/wiki/Category:History
 
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
