@@ -13,10 +13,10 @@ https://github.com/hashcash-org/hashcash
 nakamotoinsritute.org
 https://nakamotoinstitute.org/
 
-bitcoin forum
+bitcoin forum.org
 https://bitcointalk.org/
 
-bitcoincharts 
+bitcoincharts.com
 https://bitcoincharts.com
 
 bitcoin
