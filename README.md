@@ -91,14 +91,17 @@ https://github.com/Bitcoin-ABC/bitcoin-abc
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
+coinomi
+https://www.coinomi.com/
+
+mimblewimble
+https://github.com/mimblewimble/grin
+
 licalbitcoins.com
 https://localbitcoins.com/
 
 samouraiwallet
 https://samouraiwallet.com/
-
-mimblewimble
-https://github.com/mimblewimble/grin
 
 trezor hardware design
 https://github.com/trezor/trezor-hw
