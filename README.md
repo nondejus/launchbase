@@ -79,6 +79,9 @@ https://github.com/Bitcoin-ABC/bitcoin-abc
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
+licalbitcoins.com
+https://localbitcoins.com/
+
 samouraiwallet
 https://samouraiwallet.com/
 
