@@ -193,6 +193,9 @@ https://github.com/ethereumbook/ethereumbook
 satellite
 https://github.com/Blockstream/satellite
 
+bitcoinops taproot
+https://github.com/bitcoinops/taproot-workshop
+
 c-lightning
 https://github.com/ElementsProject/lightning
 
