@@ -64,6 +64,9 @@ https://github.com/bitcoin-abe/bitcoin-abe
 spv wallet
 https://github.com/jgarzik/picocoin
 
+craig wright
+https://craigwright.net/
+
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
