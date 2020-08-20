@@ -19,6 +19,9 @@ https://bitcointalk.org/
 bitcoincharts.com
 https://bitcoincharts.com
 
+bitcoin network graph
+http://bitcoin.sipa.be/
+
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
