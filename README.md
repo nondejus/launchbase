@@ -8,7 +8,7 @@ lists.linuxfoundation.org/bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
 
 hashcash
-https://hashcash.org
+https://github.com/hashcash-org/hashcash
 
 nakamotoinsritute.org
 https://nakamotoinstitute.org/
@@ -39,7 +39,7 @@ https://en.bitcoin.it/wiki/Getwork
 
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
-
+ 
 libbase58
 https://github.com/luke-jr/libbase58
 
