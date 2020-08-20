@@ -118,6 +118,9 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 ripple | en.m.wikipedia.org/wiki/Ripple_Labs
 https://github.com/ripple
 
+ethereum
+https://github.com/ethereum
+
 bitstamp
 https://bitstamp.net
 
