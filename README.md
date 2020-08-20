@@ -115,6 +115,9 @@ https://github.com/nondejus/intersango
 bitstamp archive
 https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 
+ripple
+https://en.m.wikipedia.org/wiki/Ripple_Labs
+
 bitstamp
 https://bitstamp.net
 
