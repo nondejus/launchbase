@@ -19,6 +19,9 @@ https://bitcointalk.org/
 bitcoincharts.com
 https://bitcoincharts.com
 
+irc freenode: #bitcoin-core-dev
+https://bitcoincore.org/en/meetings/
+
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
