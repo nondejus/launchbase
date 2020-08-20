@@ -76,6 +76,9 @@ https://github.com/bitcoin-abe/bitcoin-abe
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
+ozcoin
+https://github.com/shadowoneau/ozcoin
+
 bitcoin cash
 https://en.m.wikipedia.org/wiki/Bitcoin_Cash
 
