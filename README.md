@@ -118,6 +118,9 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitstamp
 https://bitstamp.net
 
+btc-e
+https://en.m.wikipedia.org/wiki/BTC-e
+
 binance dex
 https://github.com/BSathvik/binance-dex
 
