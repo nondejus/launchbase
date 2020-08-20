@@ -7,8 +7,7 @@ https://bitcoin.org
 lists.linuxfoundation.org/bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
 
-hashcash
-http://www.hashcash.org/
+www.hashcash.org
 https://github.com/hashcash-org/hashcash
 
 nakamotoinsritute.org
