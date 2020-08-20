@@ -11,7 +11,7 @@ hashcash
 https://github.com/hashcash-org/hashcash
 
 nakamotoinsritute.org
-https://github.com/NakamotoInstitute/nakamotoinstitute.org
+https://nakamotoinstitute.org/
 
 bitcoin forum
 https://bitcointalk.org/
