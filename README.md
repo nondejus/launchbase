@@ -109,6 +109,9 @@ https://www.stratumprotocol.org/
 braiins
 https://github.com/braiins/braiins
 
+namecoin
+https://github.com/namecoin/namecoin-core
+
 intersango 
 https://github.com/nondejus/intersango
 
