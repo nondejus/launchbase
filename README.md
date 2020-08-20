@@ -172,6 +172,9 @@ https://github.com/satoshilabs/slips
 NERD & Future 1000 
 https://m.youtube.com/watch?v=ARhblzz5Hrs
 
+hacktic.nl
+https://hacktic.nl
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
