@@ -64,7 +64,7 @@ https://github.com/sipa/bitcoin-seeder
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
-litecoin
+litecoin.org
 https://github.com/litecoin-project/litecoin
 
 spv wallet
