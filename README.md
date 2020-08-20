@@ -1,7 +1,7 @@
 origen
 ======
 
-bitcoin
+Bitcoin
 https://bitcoin.org
 
 lists.linuxfoundation.org/bitcoin-dev
