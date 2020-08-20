@@ -184,6 +184,9 @@ https://github.com/Blockstream/satellite
 c-lightning
 https://github.com/ElementsProject/lightning
 
+lightningnetwork
+https://github.com/lightningnetwork/lnd
+
 simplicity
 https://github.com/ElementsProject/simplicity
 
