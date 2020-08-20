@@ -181,6 +181,9 @@ https://github.com/satoshilabs/slips
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
+bitcoinmagazine
+https://bitcoinmagazine.com/
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
