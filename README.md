@@ -70,7 +70,7 @@ https://github.com/litecoin-project/litecoin
 spv wallet
 https://github.com/jgarzik/picocoin
 
-craig wright
+craig wright.net
 https://craigwright.net/
 
 bitcoin abc
