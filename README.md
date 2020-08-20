@@ -67,8 +67,8 @@ https://github.com/bitcoin-abe/bitcoin-abe
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
-spv wallet
-https://github.com/jgarzik/picocoin
+bitcoin cash
+https://en.m.wikipedia.org/wiki/Bitcoin_Cash
 
 craig wright.net
 https://craigwright.net/
