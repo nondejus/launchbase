@@ -40,6 +40,9 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 libbase58
 https://github.com/luke-jr/libbase58
 
+openssl
+https://gist.github.com/nondejus/40c3f671d8a1c3615603d3fd1b06d092
+
 secp256k1
 https://github.com/sipa/secp256k1
 
