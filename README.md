@@ -26,7 +26,7 @@ block 0
 http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 
 bitcoincharts
-https://bitcoincharts.com/markets/
+https://bitcoincharts.com
 
 bitcoin bips
 https://github.com/bitcoin/bips
