@@ -97,8 +97,8 @@ https://localbitcoins.com/
 samouraiwallet
 https://samouraiwallet.com/
 
-coinomi
-https://www.coinomi.com/en/
+mimblewimble
+https://github.com/mimblewimble/grin
 
 trezor hardware design
 https://github.com/trezor/trezor-hw
