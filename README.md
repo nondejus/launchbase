@@ -58,6 +58,9 @@ https://github.com/bitcoin-abe/bitcoin-abe
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
+samouraiwallet
+https://samouraiwallet.com/
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
