@@ -73,6 +73,9 @@ https://github.com/sipa/bitcoin-seeder
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
+genesiscreator
+https://github.com/ahmedbodi/python-genesiscreator
+
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
