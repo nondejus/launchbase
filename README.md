@@ -73,6 +73,9 @@ https://github.com/sipa/bitcoin-seeder
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
+cgminer
+https://github.com/ckolivas/cgminer
+
 genesiscreator
 https://github.com/ahmedbodi/python-genesiscreator
 
