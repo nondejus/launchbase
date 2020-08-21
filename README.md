@@ -124,6 +124,9 @@ https://github.com/gavinandresen/bitcoin_miningsim
 hashkill
 https://github.com/nondejus/hashkill
 
+miningcore
+https://github.com/ahmedbodi/miningcore
+
 pushpoool
 https://github.com/jgarzik/pushpool
 
