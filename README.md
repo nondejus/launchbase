@@ -190,6 +190,9 @@ https://m.youtube.com/watch?v=mJlRN4LtYm4
 cat-v sidenote 
 http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 
+MIT digital currency initiative
+https://dci.mit.edu/wladimir-van-der-laan
+
 bitcoin code maintain
 https://laanwj.github.io/
 
