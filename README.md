@@ -97,6 +97,9 @@ https://www.coinomi.com/
 mimblewimble
 https://github.com/mimblewimble/grin
 
+darkwallet
+https://github.com/darkwallet/darkwallet
+
 licalbitcoins.com
 https://localbitcoins.com/
 
