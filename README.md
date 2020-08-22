@@ -76,6 +76,12 @@ https://github.com/bitcoin-abe/bitcoin-abe
 cgminer
 https://github.com/ckolivas/cgminer
 
+genesisblockzero
+https://github.com/Gnaf/GenesisBlockZero
+
+genesishd
+https://github.com/lhartikk/GenesisH0
+
 genesiscreator
 https://github.com/ahmedbodi/python-genesiscreator
 
