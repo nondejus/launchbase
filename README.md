@@ -199,6 +199,9 @@ http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 MIT digital currency initiative
 https://dci.mit.edu/wladimir-van-der-laan
 
+PGP SIGNED MESSAGE
+https://pastebin.com/raw/PWcYtqi3
+
 bitcoin code maintain
 https://laanwj.github.io/
 
