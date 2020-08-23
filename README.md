@@ -115,6 +115,9 @@ https://github.com/darkwallet/darkwallet
 licalbitcoins.com
 https://localbitcoins.com/
 
+bitcoingold.org
+https://github.com/BTCGPU/BTCGPU
+
 samouraiwallet
 https://samouraiwallet.com/
 
