@@ -25,6 +25,9 @@ https://bitcoincharts.com
 bitcoin network graph
 http://bitcoin.sipa.be/
 
+bitcoin testnet
+https://github.com/freewil/bitcoin-testnet-box
+
 bitcoin core
 https://github.com/bitcoin/bitcoin
 
