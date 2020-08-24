@@ -22,6 +22,9 @@ https://bitcoincharts.com
 bitcoin network graph
 http://bitcoin.sipa.be/
 
+bitcoin core
+https://github.com/bitcoin/bitcoin
+
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
