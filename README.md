@@ -13,6 +13,9 @@ https://github.com/hashcash-org/hashcash
 nakamotoinsritute.org
 https://nakamotoinstitute.org/
 
+hal finney
+https://github.com/halfinney/bc_key
+
 bitcoin forum.org
 https://bitcointalk.org/
 
