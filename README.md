@@ -37,6 +37,9 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
+gitian
+https://gitian.org
+
 bitcoin core review
 https://bitcoincore.reviews/
 
