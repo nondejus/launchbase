@@ -197,7 +197,7 @@ coinbase
 https://pro.coinbase.com
 
 bitcoin foundation 
-https://m.youtube.com/watch?v=mJlRN4LtYm4
+https://m.youtube.com/user/BitcoinFoundation/videos
 
 cat-v sidenote 
 http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
