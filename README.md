@@ -183,6 +183,7 @@ https://github.com/namecoin/namecoin-core
 
 mtgox
 https://www.mtgox.com
+https://en.m.wikipedia.org/wiki/Mt._Gox
 
 intersango 
 https://github.com/nondejus/intersango
