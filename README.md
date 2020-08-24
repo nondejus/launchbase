@@ -181,6 +181,9 @@ https://github.com/braiins/braiins
 namecoin
 https://github.com/namecoin/namecoin-core
 
+mt gox
+https://en.m.wikipedia.org/wiki/Mt._Gox
+
 intersango 
 https://github.com/nondejus/intersango
 
