@@ -103,6 +103,9 @@ https://github.com/ahmedbodi/python-genesiscreator
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
+bitcoinxt
+https://github.com/gavinandresen/bitcoinxt
+
 ozcoin
 https://github.com/shadowoneau/ozcoin
 
