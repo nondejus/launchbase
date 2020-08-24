@@ -70,6 +70,9 @@ https://github.com/petertodd/timelock
 bitcoinseeder
 https://github.com/sipa/bitcoin-seeder
 
+heartbleed PoC
+https://github.com/nondejus/heartbleed-PoC
+
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
