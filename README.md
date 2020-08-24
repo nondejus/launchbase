@@ -194,6 +194,9 @@ mtgox
 https://www.mtgox.com
 https://en.m.wikipedia.org/wiki/Mt._Gox
 
+bitfinex
+https://github.com/bitfinexcom/bitfinex-api-py
+
 intersango 
 https://github.com/nondejus/intersango
 
