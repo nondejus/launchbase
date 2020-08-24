@@ -218,6 +218,9 @@ https://github.com/BSathvik/binance-dex
 coinbase
 https://pro.coinbase.com
 
+gavin anderson
+https://en.m.wikipedia.org/wiki/Gavin_Andresen
+
 bitcoin foundation 
 https://m.youtube.com/user/BitcoinFoundation/videos
 
