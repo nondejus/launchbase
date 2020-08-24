@@ -55,6 +55,9 @@ https://github.com/luke-jr/libbase58
 openssl
 https://gist.github.com/nondejus/40c3f671d8a1c3615603d3fd1b06d092
 
+heartbleed PoC 
+https://github.com/nondejus/heartbleed-PoC
+
 secp256k1
 https://github.com/sipa/secp256k1
 
@@ -69,9 +72,6 @@ https://github.com/petertodd/timelock
 
 bitcoinseeder
 https://github.com/sipa/bitcoin-seeder
-
-heartbleed PoC
-https://github.com/nondejus/heartbleed-PoC
 
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
