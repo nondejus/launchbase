@@ -302,6 +302,9 @@ https://ethereum-magicians.org/
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
+ethminer
+https://github.com/ethereum-mining/ethminer
+
 satellite
 https://github.com/Blockstream/satellite
 
