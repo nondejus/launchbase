@@ -106,6 +106,9 @@ https://github.com/ahmedbodi/python-genesiscreator
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
+primecoin
+https://github.com/primecoin/primecoin
+
 bitcoinxt
 https://github.com/gavinandresen/bitcoinxt
 
