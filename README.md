@@ -58,6 +58,9 @@ https://github.com/bitcoin/bips
 riseup
 https://riseup.net/en/about-us/press
 
+coinjoin
+https://github.com/calafou/coinjoin
+
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
