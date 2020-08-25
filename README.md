@@ -275,6 +275,9 @@ https://www.coindesk.com/
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
+long range attack
+https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
+
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
