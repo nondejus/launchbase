@@ -311,6 +311,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+gnark
+https://github.com/ConsenSys/gnark
+
 simplicity
 https://github.com/ElementsProject/simplicity
 
