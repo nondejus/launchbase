@@ -297,7 +297,7 @@ gavin wood
 http://gavwood.com/
 
 ethereum forum
-https://ethereum-magicians.org/t/hardfork-meta-eip-1679-istanbul-discussion/3207
+https://ethereum-magicians.org/
 
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
