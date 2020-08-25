@@ -275,6 +275,9 @@ https://www.coindesk.com/
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
+crypto events
+https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
+
 gavin wood
 http://gavwood.com/
 
