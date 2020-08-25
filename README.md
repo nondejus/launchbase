@@ -230,7 +230,7 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitstamp 
 https://bitstamp.net
 
-ripple | en.m.wikipedia.org/wiki/Ripple_Labs
+ripple
 https://github.com/ripple
 
 ethereum
