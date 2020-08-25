@@ -296,6 +296,9 @@ https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 gavin wood
 http://gavwood.com/
 
+ethereum forum
+https://ethereum-magicians.org/t/hardfork-meta-eip-1679-istanbul-discussion/3207
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
