@@ -157,6 +157,9 @@ https://github.com/BTCGPU/BTCGPU
 samouraiwallet
 https://samouraiwallet.com/
 
+dusting attack
+https://academy.binance.com/security/what-is-a-dusting-attack%3famp=1
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
