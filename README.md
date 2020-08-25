@@ -242,6 +242,9 @@ https://en.m.wikipedia.org/wiki/BTC-e
 binance dex
 https://github.com/BSathvik/binance-dex
 
+stellarterm
+https://github.com/jedmccaleb/stellarterm
+
 coinbase
 https://pro.coinbase.com
 
