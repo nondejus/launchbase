@@ -55,6 +55,9 @@ http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/0000000
 bitcoin bips
 https://github.com/bitcoin/bips
 
+riseup
+https://mail.riseup.net
+
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
