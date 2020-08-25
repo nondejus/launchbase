@@ -109,6 +109,9 @@ https://github.com/litecoin-project/litecoin
 primecoin
 https://github.com/primecoin/primecoin
 
+reaper prime
+https://github.com/nondejus/Reaper_prime
+
 bitcoinxt
 https://github.com/gavinandresen/bitcoinxt
 
