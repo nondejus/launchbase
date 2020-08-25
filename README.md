@@ -56,7 +56,7 @@ bitcoin bips
 https://github.com/bitcoin/bips
 
 riseup
-https://mail.riseup.net
+https://riseup.net/en/about-us/press
 
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
