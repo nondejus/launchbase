@@ -305,6 +305,9 @@ https://github.com/ethereumbook/ethereumbook
 ethminer
 https://github.com/ethereum-mining/ethminer
 
+progpow
+https://github.com/nondejus/ProgPOW
+
 satellite
 https://github.com/Blockstream/satellite
 
