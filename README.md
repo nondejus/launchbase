@@ -112,6 +112,9 @@ https://github.com/primecoin/primecoin
 reaper prime
 https://github.com/nondejus/Reaper_prime
 
+bitcoin scalability
+https://en.m.wikipedia.org/wiki/Bitcoin_scalability_problem
+
 bitcoinxt
 https://github.com/gavinandresen/bitcoinxt
 
