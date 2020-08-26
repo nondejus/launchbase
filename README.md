@@ -287,6 +287,9 @@ https://www.coindesk.com/
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
+zrtp c++
+https://github.com/nondejus/ZRTPCPP
+
 long range attack
 https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
 
