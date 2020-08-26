@@ -55,6 +55,9 @@ http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/0000000
 bitcoin bips
 https://github.com/bitcoin/bips
 
+bitcoin addresses
+https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
+
 riseup
 https://riseup.net/en/about-us/press
 
