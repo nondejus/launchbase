@@ -69,6 +69,9 @@ https://en.bitcoin.it/wiki/Getwork
 
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
+
+opentimestamps
+https://github.com/opentimestamps/python-opentimestamps
  
 libbase58
 https://github.com/luke-jr/libbase58
