@@ -287,7 +287,7 @@ https://www.coindesk.com/
 bitcoinmagazine
 https://bitcoinmagazine.com/
 
-gnu zrtp
+gnu zrtp c++
 https://github.com/nondejus/ZRTPCPP
 
 long range attack
