@@ -139,6 +139,9 @@ https://github.com/ahmedbodi/python-genesiscreator
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
+freicoin
+https://github.com/freicoin/freicoin
+
 primecoin
 https://github.com/primecoin/primecoin
 
