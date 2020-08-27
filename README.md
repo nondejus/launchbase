@@ -329,6 +329,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+bitcoin and liquid explorer
+https://github.com/Blockstream/esplora
+
 gnark
 https://github.com/ConsenSys/gnark
 
