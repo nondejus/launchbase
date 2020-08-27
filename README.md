@@ -332,6 +332,9 @@ https://github.com/lightningnetwork/lnd
 gnark
 https://github.com/ConsenSys/gnark
 
+script
+https://en.bitcoin.it/wiki/Script
+
 miniscript
 https://github.com/rust-bitcoin/rust-miniscript
 
