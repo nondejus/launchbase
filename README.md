@@ -103,6 +103,9 @@ https://github.com/sipa/bitcoin-seeder
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
 
+bitcoin blockchain explorer
+https://github.com/bitpay/insight
+
 cgminer
 https://github.com/ckolivas/cgminer
 
