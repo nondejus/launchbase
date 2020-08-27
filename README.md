@@ -31,6 +31,12 @@ https://github.com/freewil/bitcoin-testnet-box
 bitcoin core
 https://github.com/bitcoin/bitcoin
 
+namecoin 
+https://github.com/namecoin/namecoin-core
+
+mtgox 
+https://www.mtgox.com https://en.m.wikipedia.org/wiki/Mt._Gox
+
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
@@ -228,13 +234,6 @@ https://www.stratumprotocol.org/
 
 braiins
 https://github.com/braiins/braiins
-
-namecoin
-https://github.com/namecoin/namecoin-core
-
-mtgox
-https://www.mtgox.com
-https://en.m.wikipedia.org/wiki/Mt._Gox
 
 bitfinex
 https://github.com/bitfinexcom/bitfinex-api-py
