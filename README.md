@@ -332,6 +332,9 @@ https://github.com/lightningnetwork/lnd
 gnark
 https://github.com/ConsenSys/gnark
 
+miniscript
+https://github.com/rust-bitcoin/rust-miniscript
+
 simplicity
 https://github.com/ElementsProject/simplicity
 
