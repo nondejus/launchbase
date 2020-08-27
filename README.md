@@ -205,6 +205,9 @@ https://m.youtube.com/watch?v=y3dqhixzGVo
 bitcoin miningsim
 https://github.com/gavinandresen/bitcoin_miningsim
 
+weak blocks
+https://github.com/rustyrussell/weak-blocks
+
 hashkill
 https://github.com/nondejus/hashkill
 
