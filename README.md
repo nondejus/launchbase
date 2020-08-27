@@ -271,6 +271,9 @@ https://bitonic.nl/en/
 binance dex
 https://github.com/BSathvik/binance-dex
 
+bithump
+https://m.bithumb.pro
+
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
