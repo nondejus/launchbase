@@ -58,6 +58,12 @@ https://github.com/bitcoin/bips
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
+script 
+https://en.bitcoin.it/wiki/Script
+
+miniscript 
+https://github.com/rust-bitcoin/rust-miniscript
+
 riseup
 https://riseup.net/en/about-us/press
 
@@ -337,12 +343,6 @@ https://github.com/lightningnetwork/lnd
 
 gnark
 https://github.com/ConsenSys/gnark
-
-script
-https://en.bitcoin.it/wiki/Script
-
-miniscript
-https://github.com/rust-bitcoin/rust-miniscript
 
 simplicity
 https://github.com/ElementsProject/simplicity
