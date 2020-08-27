@@ -262,6 +262,9 @@ https://github.com/ethereum
 btc-e
 https://en.m.wikipedia.org/wiki/BTC-e
 
+bitonic
+https://bitonic.nl/en/
+
 binance dex
 https://github.com/BSathvik/binance-dex
 
