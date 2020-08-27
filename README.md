@@ -106,6 +106,9 @@ https://github.com/bitcoin-abe/bitcoin-abe
 bitcoin blockchain explorer
 https://github.com/bitpay/insight
 
+bitcoin and liquid explorer
+https://github.com/Blockstream/esplora
+
 cgminer
 https://github.com/ckolivas/cgminer
 
@@ -331,9 +334,6 @@ https://github.com/ElementsProject/lightning
 
 lightningnetwork
 https://github.com/lightningnetwork/lnd
-
-bitcoin and liquid explorer
-https://github.com/Blockstream/esplora
 
 gnark
 https://github.com/ConsenSys/gnark
