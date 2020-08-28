@@ -97,6 +97,9 @@ https://github.com/reddit-archive/fullnode
 medium
 https://medium.com/
 
+bitcoin atm
+https://en.m.wikipedia.org/wiki/Bitcoin_ATM
+
 bitcoin-otc     
 https://bitcoin-otc.com/
 
