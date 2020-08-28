@@ -382,6 +382,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+lnbook
+https://github.com/cdecker/lnbook
+
 gnark
 https://github.com/ConsenSys/gnark
 
