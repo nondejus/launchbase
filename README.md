@@ -304,6 +304,9 @@ https://github.com/ripple
 ethereum
 https://github.com/ethereum
 
+ethereum istanbul
+https://eips.ethereum.org/EIPS/eip-1679
+
 btc-e
 https://en.m.wikipedia.org/wiki/BTC-e
 
