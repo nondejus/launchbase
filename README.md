@@ -226,6 +226,9 @@ https://github.com/BTCGPU/BTCGPU
 samouraiwallet
 https://samouraiwallet.com/
 
+gnupg
+https://github.com/gpg/gnupg
+
 hashicorp vault
 https://github.com/hashicorp/vault
 
