@@ -85,6 +85,9 @@ https://bitcoinmagazine.com/guides
 coindesk
 https://www.coindesk.com/
 
+reddit javascript bitcoin library
+https://github.com/reddit-archive/fullnode
+
 medium
 https://medium.com/
 
