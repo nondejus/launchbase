@@ -326,7 +326,7 @@ coindesk
 https://www.coindesk.com/
 
 bitcoinmagazine
-https://bitcoinmagazine.com/
+https://bitcoinmagazine.com/guides
 
 gnu zrtp c++
 https://github.com/nondejus/ZRTPCPP
