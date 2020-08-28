@@ -91,8 +91,8 @@ https://github.com/reddit-archive/fullnode
 medium
 https://medium.com/
 
-bitcoin otc     
-https://bitcoin-otc.com/vieworderbook.php
+bitcoin-otc     
+https://bitcoin-otc.com/
 
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
