@@ -85,6 +85,9 @@ https://bitcoinmagazine.com/guides
 coindesk
 https://www.coindesk.com/
 
+medium
+https://medium.com/
+
 coinjoin
 https://github.com/calafou/coinjoin
 
