@@ -94,7 +94,7 @@ https://medium.com/
 bitcoin otc     
 https://bitcoin-otc.com/vieworderbook.php
 
-yofrankie
+yofrankie!
 https://github.com/BlenderVR/yofrankie
 
 nbitcoin
