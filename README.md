@@ -247,6 +247,9 @@ https://m.youtube.com/watch?v=y3dqhixzGVo
 bitcoin miningsim
 https://github.com/gavinandresen/bitcoin_miningsim
 
+otr
+https://github.com/arlolra/otr
+
 weak blocks
 https://github.com/rustyrussell/weak-blocks
 
