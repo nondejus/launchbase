@@ -79,6 +79,9 @@ https://github.com/rust-bitcoin/rust-miniscript
 riseup
 https://riseup.net/en/about-us/press
 
+agoristradio
+https://github.com/AgoristRadio/RealityExploitRoundtable
+
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
 
