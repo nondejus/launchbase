@@ -91,7 +91,7 @@ https://github.com/reddit-archive/fullnode
 medium
 https://medium.com/
 
-bitcoin otc
+bitcoin otc     
 https://bitcoin-otc.com/vieworderbook.php
 
 nbitcoin
