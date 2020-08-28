@@ -82,6 +82,9 @@ https://riseup.net/en/about-us/press
 agoristradio
 https://github.com/AgoristRadio/RealityExploitRoundtable
 
+dhs mtgox warrant
+https://github.com/therealplato/dhs-mtgox-warrant
+
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
 
