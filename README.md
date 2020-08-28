@@ -223,6 +223,9 @@ https://github.com/BTCGPU/BTCGPU
 samouraiwallet
 https://samouraiwallet.com/
 
+hashicorp vault
+https://github.com/hashicorp/vault
+
 dusting attack
 https://academy.binance.com/security/what-is-a-dusting-attack%3famp=1
 
