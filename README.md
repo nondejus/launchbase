@@ -313,9 +313,6 @@ https://bitcoinops.org/en/publications/
 satoshilabs
 https://github.com/satoshilabs/slips
 
-internet monetary layer
-https://medium.com/@thibm/a-monetary-layer-for-the-internet-4b6d412e43d4
-
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
