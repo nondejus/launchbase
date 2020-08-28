@@ -349,6 +349,9 @@ https://github.com/satoshilabs/slips
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
+cryptocurrency
+https://en.m.wikipedia.org/wiki/Cryptocurrency
+
 bitcoinwisdom
 https://bitcoinwisdom.io/
 
