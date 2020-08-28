@@ -79,6 +79,12 @@ https://github.com/rust-bitcoin/rust-miniscript
 riseup
 https://riseup.net/en/about-us/press
 
+bitcoinmagazine
+https://bitcoinmagazine.com/guides
+
+coindesk
+https://www.coindesk.com/
+
 coinjoin
 https://github.com/calafou/coinjoin
 
@@ -318,12 +324,6 @@ https://en.bitcoin.it/wiki/Category:History
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
-
-coindesk
-https://www.coindesk.com/
-
-bitcoinmagazine
-https://bitcoinmagazine.com/guides
 
 gnu zrtp c++
 https://github.com/nondejus/ZRTPCPP
