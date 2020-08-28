@@ -91,6 +91,9 @@ https://github.com/reddit-archive/fullnode
 medium
 https://medium.com/
 
+nbitcoin
+https://github.com/MetacoSA/NBitcoin
+
 coinjoin
 https://github.com/calafou/coinjoin
 
