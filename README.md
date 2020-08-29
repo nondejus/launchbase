@@ -424,6 +424,9 @@ https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 libra
 https://github.com/libra/libra
 
+cups
+https://github.com/nondejus/cups
+
 lnbook
 https://github.com/cdecker/lnbook
 
