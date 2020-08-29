@@ -329,7 +329,7 @@ stellarterm
 https://github.com/jedmccaleb/stellarterm
 
 coinbase
-https://pro.coinbase.com
+https://coinbase.com
 
 gavin anderson
 https://en.m.wikipedia.org/wiki/Gavin_Andresen
