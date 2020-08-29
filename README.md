@@ -409,6 +409,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+authorize.net
+https://github.com/nondejus/accept-sdk-ios
+
 chia           
 https://www.chia.net
 
