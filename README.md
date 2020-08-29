@@ -8,7 +8,7 @@ lists.linuxfoundation.org/bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
 
 cypherpunks
-https://lists.cpunks.org/pipermail/cypherpunks/
+https://lists.cpunks.org/mailman/listinfo/cypherpunks
 
 hashcash.org
 https://github.com/hashcash-org/hashcash
