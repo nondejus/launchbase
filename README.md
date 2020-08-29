@@ -277,6 +277,9 @@ https://slushpool.com/home/
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
 
+btcguild
+https://web.archive.org/web/20110727214951/http://btcguild.com/
+
 p2ppool
 https://github.com/p2pool/p2pool
 
