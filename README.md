@@ -406,6 +406,9 @@ https://github.com/lightningnetwork/lnd
 chia           
 https://www.chia.net
 
+chia bip 158
+https://github.com/Chia-Network/chiabip158
+
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 
