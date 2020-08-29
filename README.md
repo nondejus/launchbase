@@ -196,11 +196,14 @@ https://github.com/gavinandresen/bitcoinxt
 ozcoin
 https://github.com/shadowoneau/ozcoin
 
-bitcoin cash
-https://en.m.wikipedia.org/wiki/Bitcoin_Cash
-
 craig wright.net
 https://craigwright.net/
+
+bitcoin sv
+https://wiki.bitcoinsv.io/index.php/Main_Page
+
+bitcoin cash
+https://en.m.wikipedia.org/wiki/Bitcoin_Cash
 
 bitcoin abc
 https://github.com/Bitcoin-ABC/bitcoin-abc
