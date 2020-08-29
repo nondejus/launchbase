@@ -415,6 +415,9 @@ https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 libra
 https://github.com/libra/libra
 
+cryptonote    
+https://github.com/cryptonotefoundation/cryptonote
+
 lnbook
 https://github.com/cdecker/lnbook
 
