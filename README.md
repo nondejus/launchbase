@@ -215,7 +215,7 @@ instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
 coinomi
-https://www.coinomi.com/
+https://www.coinomi.com
 
 mimblewimble
 https://github.com/mimblewimble/grin
