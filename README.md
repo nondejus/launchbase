@@ -403,7 +403,7 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
-chia
+chia           
 https://www.chia.net
 
 libra wiki
