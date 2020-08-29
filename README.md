@@ -409,7 +409,7 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
-authorize.net
+authorize.net in-app-payments
 https://github.com/nondejus/accept-sdk-ios
 
 chia           
