@@ -403,6 +403,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+libra
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
+
 lnbook
 https://github.com/cdecker/lnbook
 
