@@ -364,6 +364,9 @@ https://bitcoinops.org/en/publications/
 satoshilabs
 https://github.com/satoshilabs/slips
 
+xkcd
+https://xkcd.com/177/
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
