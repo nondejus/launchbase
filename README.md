@@ -280,6 +280,9 @@ https://github.com/slush0/stratum-mining-proxy
 btcguild
 https://web.archive.org/web/20110727214951/http://btcguild.com/
 
+btcguild bitcointalk
+https://bitcointalk.org/index.php?topic=7760.0
+
 p2ppool
 https://github.com/p2pool/p2pool
 
