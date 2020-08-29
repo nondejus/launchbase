@@ -403,6 +403,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+chia
+https://www.chia.net
+
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 
