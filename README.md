@@ -28,14 +28,14 @@ https://bitcoincharts.com
 bitcoin network graph
 http://bitcoin.sipa.be/
 
+bitcoin mempool statistics 
+https://jochen-hoenicke.de/queue/#0,24h
+
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
 
 bitcoin core
 https://github.com/bitcoin/bitcoin
-
-bitcoin mempool statistics
-https://jochen-hoenicke.de/queue/#0,24h
 
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
