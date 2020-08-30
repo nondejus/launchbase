@@ -23,7 +23,7 @@ bitcoin forum.org
 https://bitcointalk.org/
 
 bitcoincharts.com
-https://bitcoincharts.com
+https://bitcoincharts.com/bitcoin/
 
 bitcoin network graph
 http://bitcoin.sipa.be/
