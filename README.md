@@ -352,6 +352,9 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitstamp 
 https://bitstamp.net
 
+coinfloor
+https://en.bitcoin.it/wiki/Coinfloor
+
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
