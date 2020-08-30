@@ -400,9 +400,6 @@ https://en.bitcoin.it/wiki/Category:History
 cryptocurrency
 https://en.m.wikipedia.org/wiki/Cryptocurrency
 
-general ledger
-https://github.com/moov-io/accounts
-
 ripple
 https://github.com/ripple
 
