@@ -118,8 +118,14 @@ https://github.com/nanotube/supybot_fixes
 bitcoin market monitor
 https://github.com/nanotube/supybot-bitcoin-marketmonitor
 
+amd catalyst opencl 
+https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
+
+blender
+https://github.com/blender/blender
 
 coinjoin
 https://github.com/calafou/coinjoin
@@ -129,12 +135,6 @@ https://github.com/genjix/libbitcoin-c-wrapper
 
 getwork 
 https://en.bitcoin.it/wiki/Getwork
-
-blender
-https://github.com/blender/blender
-
-amd catalyst opencl 
-https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
 opentimestamps
 https://github.com/opentimestamps/python-opentimestamps
