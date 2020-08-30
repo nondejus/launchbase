@@ -37,6 +37,9 @@ https://github.com/freewil/bitcoin-testnet-box
 bitcoin core
 https://github.com/bitcoin/bitcoin
 
+bitcoin core release
+https://doxygen.bitcoincore.org/
+
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
@@ -270,9 +273,6 @@ https://samouraiwallet.com/
 
 gnupg
 https://github.com/gpg/gnupg
-
-hashicorp vault
-https://github.com/hashicorp/vault
 
 trezor hardware design
 https://github.com/trezor/trezor-hw
