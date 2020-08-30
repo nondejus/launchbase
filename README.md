@@ -388,6 +388,9 @@ https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 gavin wood
 http://gavwood.com/
 
+ethereum wiki
+https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a
+
 ethereum forum
 https://ethereum-magicians.org/
 
