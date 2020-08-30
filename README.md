@@ -118,6 +118,9 @@ https://en.m.wikipedia.org/wiki/Bitcoin_ATM
 pyton bitcoin server/node
 https://github.com/mikegogulski/caesure
 
+bitlaundy   
+https://web.archive.org/web/20120418065531/http://app.bitlaundry.com/
+
 bitcoin-otc     
 https://bitcoin-otc.com/
 
