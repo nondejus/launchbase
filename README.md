@@ -385,7 +385,7 @@ https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
-ethereum addresses
+ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
 
 gavin wood
