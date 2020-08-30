@@ -38,7 +38,13 @@ namecoin
 https://github.com/namecoin/namecoin-core
 
 mtgox 
-https://www.mtgox.com https://en.m.wikipedia.org/wiki/Mt._Gox
+https://www.mtgox.com 
+
+mtgox wiki
+https://en.m.wikipedia.org/wiki/Mt._Gox
+
+virwox       
+https://www.virwox.com
 
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
@@ -381,9 +387,6 @@ https://github.com/satoshilabs/slips
 
 xkcd     
 https://xkcd.com/177/
-
-virwox
-https://www.virwox.com
 
 history overview
 https://en.bitcoin.it/wiki/Category:History
