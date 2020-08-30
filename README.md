@@ -115,6 +115,9 @@ https://bitcoin-otc.com/
 gribble
 https://github.com/nanotube/supybot_fixes
 
+bitcoin market monitor
+https://github.com/nanotube/supybot-bitcoin-marketmonitor
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
