@@ -328,8 +328,8 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitstamp 
 https://bitstamp.net
 
-ripple
-https://github.com/ripple
+bitpanda    
+https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
 btc-e    
 https://en.m.wikipedia.org/wiki/BTC-e
@@ -393,6 +393,9 @@ https://en.bitcoin.it/wiki/Category:History
 
 cryptocurrency
 https://en.m.wikipedia.org/wiki/Cryptocurrency
+
+ripple
+https://github.com/ripple
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
