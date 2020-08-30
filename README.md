@@ -391,6 +391,9 @@ https://en.m.wikipedia.org/wiki/Ethereum
 sha3
 https://en.m.wikipedia.org/wiki/SHA-3
 
+ethash
+https://github.com/ethereum/ethash
+
 gavin wood
 http://gavwood.com/
 
