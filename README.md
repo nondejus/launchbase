@@ -424,6 +424,9 @@ https://github.com/nondejus/ProgPOW
 go-etheteum
 https://github.com/ethereum/go-ethereum
 
+ethereum dissectors
+https://github.com/ConsenSys/ethereum-dissectors
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
