@@ -415,14 +415,17 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 busd contract
 https://github.com/nondejus/busd-contract
 
-ethereumbook
-https://github.com/ethereumbook/ethereumbook
-
 ethminer
 https://github.com/ethereum-mining/ethminer
 
 progpow
 https://github.com/nondejus/ProgPOW
+
+go-etheteum
+https://github.com/ethereum/go-ethereum
+
+ethereumbook
+https://github.com/ethereumbook/ethereumbook
 
 satellite
 https://github.com/Blockstream/satellite
