@@ -46,6 +46,9 @@ https://en.m.wikipedia.org/wiki/Mt._Gox
 virwox       
 https://www.virwox.com
 
+virxow wiki
+https://en.bitcoin.it/wiki/VirWoX
+
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
