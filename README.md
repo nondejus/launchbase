@@ -130,6 +130,9 @@ https://github.com/genjix/libbitcoin-c-wrapper
 getwork 
 https://en.bitcoin.it/wiki/Getwork
 
+blender
+https://github.com/blender/blender
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
