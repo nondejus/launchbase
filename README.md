@@ -43,6 +43,12 @@ https://doxygen.bitcoincore.org/
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
+bitcoin bips
+https://github.com/bitcoin/bips
+
+satoshilabs slips
+https://github.com/satoshilabs/slips
+
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
@@ -60,9 +66,6 @@ http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 
 block 0
 http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
-
-bitcoin bips
-https://github.com/bitcoin/bips
 
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
