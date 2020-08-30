@@ -385,6 +385,9 @@ https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
+ethereum addresses
+https://en.m.wikipedia.org/wiki/Ethereum
+
 gavin wood
 http://gavwood.com/
 
@@ -393,9 +396,6 @@ https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec1235
 
 ethereum forum
 https://ethereum-magicians.org/
-
-ethereum addresses
-https://en.m.wikipedia.org/wiki/Ethereum#Addresses
 
 erc20 token
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
