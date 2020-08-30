@@ -406,6 +406,9 @@ https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec1235
 ethereum forum
 https://ethereum-magicians.org/
 
+cbc casper
+https://github.com/ethereum/cbc-casper/wiki
+
 erc20 token
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
