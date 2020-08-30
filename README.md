@@ -121,6 +121,9 @@ https://github.com/nanotube/supybot-bitcoin-marketmonitor
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
+cryptonote
+https://github.com/cryptonotefoundation/cryptonote
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
@@ -328,25 +331,25 @@ https://bitstamp.net
 ripple
 https://github.com/ripple
 
-btc-e
+btc-e    
 https://en.m.wikipedia.org/wiki/BTC-e
 
-bitonic
+bitonic      
 https://bitonic.nl/en/
 
 binance dex
 https://github.com/BSathvik/binance-dex
 
-bithump
+bithump     
 https://m.bithumb.pro
 
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
-coinbase
+coinbase     
 https://coinbase.com
 
-gdax
+gdax     
 https://github.com/nondejus/gdax-java
 
 gavin anderson
@@ -376,7 +379,7 @@ https://bitcoinops.org/en/publications/
 satoshilabs
 https://github.com/satoshilabs/slips
 
-xkcd
+xkcd     
 https://xkcd.com/177/
 
 history overview
@@ -468,9 +471,6 @@ https://www.chia.net
 
 chia bip 158
 https://github.com/Chia-Network/chiabip158
-
-cryptonote
-https://github.com/cryptonotefoundation/cryptonote
 
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
