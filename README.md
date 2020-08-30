@@ -32,7 +32,7 @@ bitcoin mempool statistics
 https://jochen-hoenicke.de/queue/#0,24h
 
 bitcoin blockchain explorer
-https://github.com/bitpay/insight
+https://insight.bitpay.com
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
