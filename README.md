@@ -325,12 +325,6 @@ https://bitstamp.net
 ripple
 https://github.com/ripple
 
-ethereum
-https://github.com/ethereum
-
-ethereum istanbul
-https://eips.ethereum.org/EIPS/eip-1679
-
 btc-e
 https://en.m.wikipedia.org/wiki/BTC-e
 
@@ -400,8 +394,14 @@ https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
+smart contract
+https://en.m.wikipedia.org/wiki/Smart_contract
+
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
+
+ethereum
+https://github.com/ethereum
 
 sha3
 https://en.m.wikipedia.org/wiki/SHA-3
@@ -435,6 +435,9 @@ https://github.com/nondejus/ProgPOW
 
 go-etheteum
 https://github.com/ethereum/go-ethereum
+
+ethereum istanbul
+https://eips.ethereum.org/EIPS/eip-1679
 
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
