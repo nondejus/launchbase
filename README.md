@@ -29,7 +29,13 @@ bitcoin network graph
 http://bitcoin.sipa.be/
 
 bitcoin mempool statistics     
- https://jochen-hoenicke.de/queue/#0,24h
+https://jochen-hoenicke.de/queue/#0,24h
+
+bitcoin blockchain explorer
+https://github.com/bitpay/insight
+
+bitcoinwisdom
+https://bitcoinwisdom.io/
 
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
@@ -192,9 +198,6 @@ https://github.com/sipa/bitcoin-seeder
 
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
-
-bitcoin blockchain explorer
-https://github.com/bitpay/insight
 
 bitcoin and liquid explorer
 https://github.com/Blockstream/esplora
@@ -408,9 +411,6 @@ https://en.m.wikipedia.org/wiki/Cryptocurrency
 
 ripple
 https://github.com/ripple
-
-bitcoinwisdom
-https://bitcoinwisdom.io/
 
 gnu zrtp c++
 https://github.com/nondejus/ZRTPCPP
