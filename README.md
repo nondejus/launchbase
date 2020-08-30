@@ -400,6 +400,9 @@ https://ethereum-magicians.org/
 erc20 token
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
+busd contract
+https://github.com/nondejus/busd-contract
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
