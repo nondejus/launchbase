@@ -34,6 +34,9 @@ https://github.com/freewil/bitcoin-testnet-box
 bitcoin core
 https://github.com/bitcoin/bitcoin
 
+bitcoin mempool stats
+https://jochen-hoenicke.de/queue/#0,24h
+
 namecoin 
 https://github.com/namecoin/namecoin-core
 
