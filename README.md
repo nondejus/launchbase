@@ -385,9 +385,6 @@ https://xkcd.com/177/
 virwox
 https://www.virwox.com
 
-bitpanda
-https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
-
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
