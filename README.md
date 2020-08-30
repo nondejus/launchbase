@@ -94,6 +94,12 @@ https://github.com/jnewbery/bitcoin-wireshark
 namecoin 
 https://github.com/namecoin/namecoin-core
 
+litecoin.org
+https://github.com/litecoin-project/litecoin
+
+litecoin scrypt     
+https://en.m.wikipedia.org/wiki/Scrypt
+
 riseup
 https://riseup.net/en/about-us/press
 
@@ -216,9 +222,6 @@ https://github.com/lhartikk/GenesisH0
 
 genesiscreator
 https://github.com/ahmedbodi/python-genesiscreator
-
-litecoin.org
-https://github.com/litecoin-project/litecoin
 
 freicoin
 https://github.com/freicoin/freicoin
