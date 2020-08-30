@@ -79,6 +79,9 @@ https://en.bitcoin.it/wiki/Script
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
 
+bitcoin wireshark
+https://github.com/jnewbery/bitcoin-wireshark
+
 riseup
 https://riseup.net/en/about-us/press
 
