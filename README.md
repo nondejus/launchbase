@@ -34,23 +34,8 @@ https://github.com/freewil/bitcoin-testnet-box
 bitcoin core
 https://github.com/bitcoin/bitcoin
 
-bitcoin mempool stats
+bitcoin mempool statistics
 https://jochen-hoenicke.de/queue/#0,24h
-
-namecoin 
-https://github.com/namecoin/namecoin-core
-
-mtgox 
-https://www.mtgox.com 
-
-mtgox wiki
-https://en.m.wikipedia.org/wiki/Mt._Gox
-
-virwox       
-https://www.virwox.com
-
-virxow wiki
-https://en.bitcoin.it/wiki/VirWoX
 
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
@@ -94,6 +79,9 @@ https://github.com/rust-bitcoin/rust-miniscript
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
+namecoin 
+https://github.com/namecoin/namecoin-core
+
 riseup
 https://riseup.net/en/about-us/press
 
@@ -102,6 +90,18 @@ https://github.com/AgoristRadio/RealityExploitRoundtable
 
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
+
+mtgox 
+https://www.mtgox.com 
+
+mtgox wiki
+https://en.m.wikipedia.org/wiki/Mt._Gox
+
+virwox       
+https://www.virwox.com
+
+virxow wiki
+https://en.bitcoin.it/wiki/VirWoX
 
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
