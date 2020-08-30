@@ -394,6 +394,9 @@ https://ethereum-magicians.org/
 ethereum addresses
 https://en.m.wikipedia.org/wiki/Ethereum#Addresses
 
+erc20
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
