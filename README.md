@@ -112,6 +112,9 @@ https://github.com/mikegogulski/caesure
 bitcoin-otc     
 https://bitcoin-otc.com/
 
+gribble
+https://github.com/nanotube/supybot_fixes
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
