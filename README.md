@@ -337,6 +337,9 @@ https://github.com/jedmccaleb/stellarterm
 coinbase
 https://coinbase.com
 
+gdax
+https://github.com/nondejus/gdax-java
+
 gavin anderson
 https://en.m.wikipedia.org/wiki/Gavin_Andresen
 
