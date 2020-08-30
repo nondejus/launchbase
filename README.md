@@ -382,6 +382,9 @@ https://github.com/satoshilabs/slips
 xkcd     
 https://xkcd.com/177/
 
+virwox
+https://www.virwox.com
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
