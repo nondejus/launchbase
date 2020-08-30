@@ -391,6 +391,9 @@ http://gavwood.com/
 ethereum forum
 https://ethereum-magicians.org/
 
+ethereum addresses
+https://en.m.wikipedia.org/wiki/Ethereum#Addresses
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
