@@ -476,7 +476,7 @@ ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
 ethereum miningpoolhub
-https://ethereum.miningpoolhub.com/
+https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
