@@ -67,6 +67,12 @@ https://bitcoincore.reviews/
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+amd catalyst opencl 
+https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
+
+nvidia cuda
+https://en.m.wikipedia.org/wiki/CUDA
+
 bitcoin wayback
 http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 
@@ -150,9 +156,6 @@ https://github.com/nanotube/supybot_fixes
 
 bitcoin market monitor
 https://github.com/nanotube/supybot-bitcoin-marketmonitor
-
-amd catalyst opencl 
-https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
