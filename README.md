@@ -80,6 +80,9 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
+opencl bitcoin miner
+https://github.com/tcatm/oclminer
+
 bitcoin wayback
 http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 
