@@ -34,6 +34,9 @@ https://jochen-hoenicke.de/queue/#0,24h
 bitcoin blockchain explorer
 https://insight.bitpay.com
 
+bitcoin mining distribution
+https://github.com/in3rsha/bitcoin-mining-distribution
+
 bitcoinwisdom
 https://bitcoinwisdom.io/
 
