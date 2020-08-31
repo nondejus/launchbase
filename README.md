@@ -35,8 +35,8 @@ bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
 
 blockchain explorer
-github.com/nondejus/blockchain.info
 https://www.blockchain.com/explorer
+github.com/nondejus/blockchain.info
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
