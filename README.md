@@ -334,6 +334,9 @@ https://github.com/luke-jr/eloipool
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
+node open mining portal
+https://github.com/nondejus/node-open-mining-portal
+
 stratum v2
 https://www.stratumprotocol.org/
 
