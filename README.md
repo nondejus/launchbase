@@ -535,6 +535,9 @@ https://spacechain.com
 satellite
 https://github.com/Blockstream/satellite
 
+spacechainos
+https://github.com/spacechain/SpaceChainOS
+
 bitcoinops taproot
 https://github.com/bitcoinops/taproot-workshop
 
