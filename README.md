@@ -296,6 +296,9 @@ https://samouraiwallet.com/
 gnupg
 https://github.com/gpg/gnupg
 
+gnu zrtp c++
+https://github.com/nondejus/ZRTPCPP
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
@@ -449,12 +452,6 @@ https://en.m.wikipedia.org/wiki/Cryptocurrency
 ripple
 https://github.com/ripple
 
-gnu zrtp c++
-https://github.com/nondejus/ZRTPCPP
-
-long range attack
-https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
-
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
@@ -499,6 +496,9 @@ https://github.com/nondejus/ProgPOW
 
 go-etheteum
 https://github.com/ethereum/go-ethereum
+
+long range attack
+https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
 
 ethereum istanbul
 https://eips.ethereum.org/EIPS/eip-1679
