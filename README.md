@@ -475,6 +475,9 @@ https://eips.ethereum.org/EIPS/eip-1679
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
+ethereum miningpoolhub
+https://ethereum.miningpoolhub.com/
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
