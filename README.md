@@ -520,6 +520,9 @@ https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
+bitcoins in space
+https://www.prlog.org/12313639-bitcoins-in-space-one-step-closer.html
+
 satellite
 https://github.com/Blockstream/satellite
 
