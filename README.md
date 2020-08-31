@@ -85,7 +85,7 @@ https://github.com/tcatm/oclminer
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
-bitcoin blockchain explorer 
+bitcoin blockchain insight
 https://insight.bitpay.com
 
 bitcoin wayback
