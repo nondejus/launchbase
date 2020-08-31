@@ -83,6 +83,9 @@ https://en.m.wikipedia.org/wiki/CUDA
 opencl bitcoin miner
 https://github.com/tcatm/oclminer
 
+bitcoin abe
+https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
+
 bitcoin wayback
 http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 
