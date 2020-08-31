@@ -437,6 +437,9 @@ https://github.com/zone117x/node-multi-hashing
 xkcd     
 https://xkcd.com/177/
 
+bitcoincharts
+https://bitcoincharts.com
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
