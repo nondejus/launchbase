@@ -472,6 +472,9 @@ https://github.com/ethereum
 sha3
 https://en.m.wikipedia.org/wiki/SHA-3
 
+keccak
+https://github.com/nondejus/keccak
+
 ethash
 https://github.com/ethereum/ethash
 
