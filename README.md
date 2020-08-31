@@ -304,6 +304,9 @@ https://m.youtube.com/watch?v=y3dqhixzGVo
 bitcoin miningsim
 https://github.com/gavinandresen/bitcoin_miningsim
 
+sha256 animation
+https://github.com/nondejus/sha256-animation
+
 otr
 https://github.com/arlolra/otr
 
