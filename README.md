@@ -328,6 +328,9 @@ https://bitcointalk.org/index.php?topic=7760.0
 p2ppool
 https://github.com/p2pool/p2pool
 
+p2ppool ui
+https://github.com/justino/p2pool-ui-punchy
+
 eloipool
 https://github.com/luke-jr/eloipool
 
