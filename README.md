@@ -526,6 +526,9 @@ https://github.com/ethereumbook/ethereumbook
 bitcoins in space
 https://www.prlog.org/12313639-bitcoins-in-space-one-step-closer.html
 
+spacechain
+https://spacechain.com
+
 satellite
 https://github.com/Blockstream/satellite
 
