@@ -307,6 +307,9 @@ https://github.com/nondejus/ZRTPCPP
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
+nano-x
+https://github.com/LedgerHQ/ledger-nano-s
+
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
