@@ -334,6 +334,9 @@ https://github.com/justino/p2pool-ui-punchy
 eloipool
 https://github.com/luke-jr/eloipool
 
+wizstats
+https://github.com/wizkid057/wizstats
+
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
