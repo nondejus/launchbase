@@ -67,11 +67,11 @@ https://bitcoincore.reviews/
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+difficulty    
+https://en.bitcoin.it/wiki/Difficulty
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
-
-difficulty
-https://en.bitcoin.it/wiki/Difficulty
 
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
