@@ -406,6 +406,9 @@ https://bitcoinops.org/en/publications/
 satoshilabs
 https://github.com/satoshilabs/slips
 
+node multi hashing
+https://github.com/zone117x/node-multi-hashing
+
 xkcd     
 https://xkcd.com/177/
 
