@@ -22,9 +22,6 @@ https://github.com/halfinney/bc_key
 bitcoin forum.org
 https://bitcointalk.org/
 
-bitcoincharts.com
-https://bitcoincharts.com/bitcoin/
-
 bitcoin network graph
 http://bitcoin.sipa.be/
 
@@ -36,6 +33,9 @@ https://insight.bitpay.com
 
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
+
+blickchain info
+https://github.com/nondejus/blockchain.info
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
