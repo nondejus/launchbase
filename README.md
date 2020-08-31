@@ -33,7 +33,9 @@ https://github.com/in3rsha/bitcoin-mining-distribution
 
 blockchain explorer
 https://www.blockchain.com/explorer
-github.com/nondejus/blockchain.info
+
+blockchain exploter github
+https://github.com/nondejus/blockchain.info
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
