@@ -400,7 +400,7 @@ https://en.m.wikipedia.org/wiki/BTC-e
 bitonic      
 https://bitonic.nl/en/
 
-ideal mollie
+mollie api node
 https://github.com/nondejus/mollie-api-node
 
 binance dex
