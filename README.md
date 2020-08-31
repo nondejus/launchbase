@@ -34,8 +34,9 @@ https://insight.bitpay.com
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
 
-blickchain info
-https://github.com/nondejus/blockchain.info
+blockchain explorer
+github.com/nondejus/blockchain.info
+https://www.blockchain.com/explorer
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
