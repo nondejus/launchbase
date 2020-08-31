@@ -28,9 +28,6 @@ http://bitcoin.sipa.be/
 bitcoin mempool statistics     
 https://jochen-hoenicke.de/queue/#0,24h
 
-bitcoin blockchain explorer
-https://insight.bitpay.com
-
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
 
@@ -85,6 +82,9 @@ https://github.com/tcatm/oclminer
 
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
+
+bitcoin blockchain explorer 
+https://insight.bitpay.com
 
 bitcoin wayback
 http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
