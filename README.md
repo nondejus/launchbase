@@ -198,6 +198,9 @@ https://en.bitcoin.it/wiki/Getwork
 
 opentimestamps
 https://github.com/opentimestamps/python-opentimestamps
+
+base58 check
+https://en.bitcoin.it/wiki/Base58Check_encoding
  
 libbase58
 https://github.com/luke-jr/libbase58
