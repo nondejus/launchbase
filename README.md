@@ -14,7 +14,7 @@ hashcash.org
 https://github.com/hashcash-org/hashcash
 
 nakamotoinsritute.org
-https://nakamotoinstitute.org/
+https://nakamotoinstitute.org
 
 bitcoin wiki
 https://en.bitcoin.it
