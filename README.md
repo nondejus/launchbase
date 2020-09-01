@@ -16,6 +16,9 @@ https://github.com/hashcash-org/hashcash
 nakamotoinsritute.org
 https://nakamotoinstitute.org/
 
+bitcoin wiki
+https://en.bitcoin.it/wiki/Main_Page
+
 hal finney
 https://github.com/halfinney/bc_key
 
