@@ -13,9 +13,6 @@ https://github.com/hashcash-org/hashcash
 nakamotoinsritute.org
 https://nakamotoinstitute.org
 
-bitcoin wiki
-https://en.bitcoin.it
-
 RPOW
 https://github.com/NakamotoInstitute/RPOW
 
@@ -24,6 +21,12 @@ https://github.com/halfinney/bc_key
 
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
+
+crypto++
+https://github.com/weidai11/cryptopp
+
+bitcoin wiki
+https://en.bitcoin.it
 
 bitcoin            
 https://bitcoin.org
