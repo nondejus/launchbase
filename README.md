@@ -205,6 +205,9 @@ https://en.bitcoin.it/wiki/Base58Check_encoding
 libbase58
 https://github.com/luke-jr/libbase58
 
+double soending
+https://en.m.wikipedia.org/wiki/Double-spending
+
 openssl
 https://gist.github.com/nondejus/40c3f671d8a1c3615603d3fd1b06d092
 
