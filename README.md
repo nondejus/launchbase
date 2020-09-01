@@ -106,9 +106,6 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
-opencl
-https://github.com/KhronosGroup/OpenCL-ICD-Loader
-
 opencl bitcoin miner
 https://github.com/tcatm/oclminer
 
