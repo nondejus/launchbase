@@ -382,6 +382,9 @@ https://github.com/luke-jr/eloipool
 wizstats
 https://github.com/wizkid057/wizstats
 
+ghash.io
+https://en.m.wikipedia.org/wiki/Ghash.io
+
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
