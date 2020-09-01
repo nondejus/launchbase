@@ -34,12 +34,6 @@ https://en.bitcoin.it
 bitcoin            
 https://bitcoin.org
 
-bitnodes.io
-https://bitnodes.io/
-
-bitnodes 
-https://github.com/nondejus/bitnodes
-
 bitcoin forum.org
 https://bitcointalk.org/
 
@@ -63,6 +57,12 @@ https://github.com/nondejus/blockchain.info
 
 bitcoinwisdom
 https://bitcoinwisdom.io/
+
+bitnodes.io
+https://bitnodes.io/
+
+bitnodes 
+https://github.com/nondejus/bitnodes
 
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
