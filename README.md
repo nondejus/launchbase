@@ -466,6 +466,9 @@ https://github.com/ripple
 crypto events
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
+caitlinf long
+https://caitlin-long.com/about-caitlin/
+
 smart contract
 https://en.m.wikipedia.org/wiki/Smart_contract
 
