@@ -193,6 +193,9 @@ https://github.com/nanotube/supybot_fixes
 bitcoin market monitor
 https://github.com/nanotube/supybot-bitcoin-marketmonitor
 
+GOdl
+https://github.com/HOdlcoin/GOdl
+
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
