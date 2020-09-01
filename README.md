@@ -4,7 +4,7 @@ launchbase
 cypherpunks
 https://lists.cpunks.org/mailman/listinfo/cypherpunks
 
-lists.linuxfoundation.org/bitcoin-dev
+bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
 
 hashcash
