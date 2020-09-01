@@ -7,7 +7,10 @@ https://lists.cpunks.org/mailman/listinfo/cypherpunks
 lists.linuxfoundation.org/bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
 
-hashcash.org
+hashcash
+https://hashcash.org
+
+hashcash-org
 https://github.com/hashcash-org/hashcash
 
 nakamotoinsritute.org
