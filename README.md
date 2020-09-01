@@ -439,6 +439,9 @@ https://laanwj.github.io/
 bitcoincore
 https://doxygen.bitcoincore.org/
 
+bitcoinops taproot
+https://github.com/bitcoinops/taproot-workshop
+
 bitcoin optech
 https://bitcoinops.org/en/publications/
 
@@ -541,8 +544,8 @@ https://github.com/Blockstream/satellite
 spacechainos
 https://github.com/spacechain/SpaceChainOS
 
-bitcoinops taproot
-https://github.com/bitcoinops/taproot-workshop
+liquid
+https://github.com/ElementsProject/elements
 
 c-lightning
 https://github.com/ElementsProject/lightning
