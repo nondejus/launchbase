@@ -169,6 +169,9 @@ https://bitcoinmagazine.com/guides
 coindesk
 https://www.coindesk.com/
 
+bitcoinbook 
+https://github.com/bitcoinbook/bitcoinbook
+
 reddit javascript bitcoin library
 https://github.com/reddit-archive/fullnode
 
