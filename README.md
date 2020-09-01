@@ -31,6 +31,9 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
+protocol documentation
+https://en.bitcoin.it/wiki/Protocol_documentation
+
 bitcoin            
 https://bitcoin.org
 
