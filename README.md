@@ -22,6 +22,9 @@ https://en.bitcoin.it
 hal finney
 https://github.com/halfinney/bc_key
 
+proof of work
+https://en.m.wikipedia.org/wiki/Proof_of_work
+
 bitcoin forum.org
 https://bitcointalk.org/
 
