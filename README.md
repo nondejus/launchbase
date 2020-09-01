@@ -46,6 +46,9 @@ https://jochen-hoenicke.de/queue/#0,24h
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
 
+blockchain info
+https://blockchain.info
+
 blockchain explorer
 https://www.blockchain.com/explorer
 
