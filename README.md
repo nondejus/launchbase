@@ -17,7 +17,7 @@ nakamotoinsritute.org
 https://nakamotoinstitute.org/
 
 bitcoin wiki
-https://en.bitcoin.it/wiki/Main_Page
+https://en.bitcoin.it
 
 hal finney
 https://github.com/halfinney/bc_key
