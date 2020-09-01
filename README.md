@@ -121,6 +121,9 @@ https://github.com/litecoin-project/litecoin
 litecoin scrypt     
 https://en.m.wikipedia.org/wiki/Scrypt
 
+cpuminer
+https://github.com/pooler/cpuminer
+
 riseup
 https://riseup.net/en/about-us/press
 
