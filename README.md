@@ -19,6 +19,9 @@ https://nakamotoinstitute.org
 bitcoin wiki
 https://en.bitcoin.it
 
+RPOW
+https://github.com/NakamotoInstitute/RPOW
+
 hal finney
 https://github.com/halfinney/bc_key
 
