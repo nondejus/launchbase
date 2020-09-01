@@ -1,14 +1,11 @@
 launchbase
 ==========
 
-bitcoin            
-https://bitcoin.org
+cypherpunks
+https://lists.cpunks.org/mailman/listinfo/cypherpunks
 
 lists.linuxfoundation.org/bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
-
-cypherpunks
-https://lists.cpunks.org/mailman/listinfo/cypherpunks
 
 hashcash.org
 https://github.com/hashcash-org/hashcash
@@ -27,6 +24,9 @@ https://github.com/halfinney/bc_key
 
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
+
+bitcoin            
+https://bitcoin.org
 
 bitcoin forum.org
 https://bitcointalk.org/
