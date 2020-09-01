@@ -34,8 +34,11 @@ https://en.bitcoin.it
 bitcoin            
 https://bitcoin.org
 
-bitnodes
+bitnodes.io
 https://bitnodes.io/
+
+bitnodes 
+https://github.com/nondejus/bitnodes
 
 bitcoin forum.org
 https://bitcointalk.org/
