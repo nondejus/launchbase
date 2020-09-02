@@ -118,6 +118,9 @@ https://github.com/colinrgodsey/rpcminer-mod
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
+electrum
+https://github.com/spesmilo/electrum
+
 btcd
 https://github.com/btcsuite/btcd
 
