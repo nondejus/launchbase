@@ -307,6 +307,9 @@ https://craigwright.net/
 bitcoin sv
 https://wiki.bitcoinsv.io/index.php/Main_Page
 
+coinjar
+https://www.coinjar.com/eu/
+
 bitcoin cash
 https://en.m.wikipedia.org/wiki/Bitcoin_Cash
 
