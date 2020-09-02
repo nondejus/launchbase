@@ -208,6 +208,9 @@ https://github.com/nanotube/supybot-bitcoin-marketmonitor
 GOdl
 https://github.com/HOdlcoin/GOdl
 
+dash
+https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
+
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
