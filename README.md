@@ -151,6 +151,12 @@ https://en.m.wikipedia.org/wiki/Scrypt
 cpuminer
 https://github.com/pooler/cpuminer
 
+rpcminer mod
+https://github.com/colinrgodsey/rpcminer-mod
+
+rpcmined mod xt
+https://github.com/cdmackie/rpcminer-mod
+
 riseup
 https://riseup.net/en/about-us/press
 
