@@ -112,6 +112,9 @@ https://github.com/tcatm/oclminer
 cpuminer
 https://github.com/jgarzik/cpuminer
 
+rpcminer mod
+https://github.com/colinrgodsey/rpcminer-mod
+
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
@@ -154,10 +157,7 @@ https://en.m.wikipedia.org/wiki/Scrypt
 cpuminer
 https://github.com/pooler/cpuminer
 
-rpcminer mod
-https://github.com/colinrgodsey/rpcminer-mod
-
-rpcmined mod xt
+rpcmined mod (win)
 https://github.com/cdmackie/rpcminer-mod
 
 riseup
