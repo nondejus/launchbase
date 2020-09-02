@@ -118,6 +118,9 @@ https://github.com/colinrgodsey/rpcminer-mod
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
+btcd
+https://github.com/btcsuite/btcd
+
 bitcoin blockchain insight
 https://insight.bitpay.com
 
