@@ -442,6 +442,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 btc-e    
 https://en.m.wikipedia.org/wiki/BTC-e
 
+kraken websockets
+https://docs.kraken.com/websockets/
+
 bitonic      
 https://bitonic.nl/en/
 
