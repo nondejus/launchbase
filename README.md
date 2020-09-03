@@ -118,6 +118,12 @@ https://github.com/Diablo-D3/DiabloMiner
 rpcminer mod
 https://github.com/colinrgodsey/rpcminer-mod
 
+cgminer
+https://github.com/ckolivas/cgminer
+
+bfgminer
+https://github.com/luke-jr/bfgminer
+
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
