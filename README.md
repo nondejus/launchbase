@@ -460,6 +460,9 @@ https://github.com/luke-jr/eloipool
 wizstats
 https://github.com/wizkid057/wizstats
 
+btcpool
+https://github.com/btccom/btcpool
+
 ghash.io
 https://en.m.wikipedia.org/wiki/Ghash.io
 
