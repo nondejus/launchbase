@@ -478,6 +478,9 @@ https://github.com/nondejus/node-open-mining-portal
 ether proxy
 https://github.com/nondejus/ether-proxy
 
+ethpool
+https://github.com/bitmaintech/ethpool-core
+
 stratum v2
 https://www.stratumprotocol.org/
 
