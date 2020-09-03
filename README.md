@@ -112,6 +112,9 @@ https://en.m.wikipedia.org/wiki/CUDA
 opencl bitcoin miner
 https://github.com/tcatm/oclminer
 
+poclbm
+https://github.com/m0mchil/poclbm
+
 cpuminer
 https://github.com/jgarzik/cpuminer
 
