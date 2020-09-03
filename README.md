@@ -32,7 +32,7 @@ bitcoin wiki
 https://en.bitcoin.it
 
 bitcoin sourceforge
-https://sourceforge.net/projects/bitcoin/files/
+https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
 bitcoin github
 https://github.com/bitcoin/bitcoin
