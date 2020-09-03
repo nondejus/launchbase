@@ -475,6 +475,9 @@ https://bitbucket.org/ckolivas/ckpool/src/master/
 node open mining portal
 https://github.com/nondejus/node-open-mining-portal
 
+ether proxy
+https://github.com/nondejus/ether-proxy
+
 stratum v2
 https://www.stratumprotocol.org/
 
