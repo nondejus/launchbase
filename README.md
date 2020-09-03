@@ -109,6 +109,9 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
+remote rpc pooled mining (2010-12-24)
+https://bitcointalk.org/index.php?topic=1458.0
+
 opencl bitcoin miner
 https://github.com/tcatm/oclminer
 
