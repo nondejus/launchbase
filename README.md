@@ -118,6 +118,9 @@ https://github.com/m0mchil/bitcoin-getwork
 poclbm
 https://github.com/m0mchil/poclbm
 
+poclbm gui
+https://github.com/Kiv/poclbm
+
 cpuminer
 https://github.com/jgarzik/cpuminer
 
