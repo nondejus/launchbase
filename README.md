@@ -463,6 +463,9 @@ https://github.com/wizkid057/wizstats
 btcpool
 https://github.com/btccom/btcpool
 
+poolbtc.com
+https://pool.btc.com
+
 ghash.io
 https://en.m.wikipedia.org/wiki/Ghash.io
 
