@@ -40,6 +40,9 @@ https://github.com/bitcoin/bitcoin
 bitcoin.org            
 https://bitcoin.org
 
+bitcoin core
+https://doxygen.bitcoincore.org/
+
 bitcoin forum.org
 https://bitcointalk.org/
 
