@@ -118,6 +118,9 @@ https://github.com/colinrgodsey/rpcminer-mod
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
+libbitcoin
+https://github.com/libbitcoin/libbitcoin-system
+
 electrum
 https://github.com/spesmilo/electrum
 
