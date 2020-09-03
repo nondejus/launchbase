@@ -208,6 +208,12 @@ https://www.mtgox.com
 mtgox wiki
 https://en.m.wikipedia.org/wiki/Mt._Gox
 
+satoshi dice
+https://en.bitcoin.it/wiki/Satoshi_Dice
+
+satoshidice.com
+https://satoshidice.com
+
 virwox       
 https://www.virwox.com
 
