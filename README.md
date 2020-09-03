@@ -37,11 +37,11 @@ https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 bitcoin github
 https://github.com/bitcoin/bitcoin
 
-bitcoin.org            
-https://bitcoin.org
-
 bitcoin core
 https://doxygen.bitcoincore.org/
+
+bitcoin.org            
+https://bitcoin.org
 
 bitcoin forum.org
 https://bitcointalk.org/
@@ -75,12 +75,6 @@ https://github.com/nondejus/bitnodes
 
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
-
-bitcoin core
-https://github.com/bitcoin/bitcoin
-
-bitcoin core release
-https://doxygen.bitcoincore.org/
 
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
