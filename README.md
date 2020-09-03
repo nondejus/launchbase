@@ -328,6 +328,9 @@ https://github.com/ahmedbodi/python-genesiscreator
 freicoin
 https://github.com/freicoin/freicoin
 
+primecoin.io
+https://github.com/primecoin/primecoin
+
 primecoin
 https://github.com/primecoin/primecoin
 
