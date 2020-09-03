@@ -112,6 +112,9 @@ https://github.com/tcatm/oclminer
 cpuminer
 https://github.com/jgarzik/cpuminer
 
+diablominer
+https://github.com/Diablo-D3/DiabloMiner
+
 rpcminer mod
 https://github.com/colinrgodsey/rpcminer-mod
 
