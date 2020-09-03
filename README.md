@@ -580,6 +580,9 @@ https://xkcd.com/177/
 bitcoincharts
 https://bitcoincharts.com
 
+sierrachartfeed
+https://github.com/slush0/sierrachartfeed
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
