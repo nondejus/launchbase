@@ -331,6 +331,9 @@ https://github.com/freicoin/freicoin
 primecoin
 https://github.com/primecoin/primecoin
 
+cuda-rsa
+https://github.com/dmatlack/cuda-rsa
+
 reaper prime
 https://github.com/nondejus/Reaper_prime
 
