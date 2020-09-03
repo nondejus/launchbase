@@ -31,10 +31,13 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
-protocol documentation
-https://en.bitcoin.it/wiki/Protocol_documentation
+bitcoin sourceforge
+https://sourceforge.net/projects/bitcoin/files/
 
-bitcoin            
+bitcoin github
+https://github.com/bitcoin/bitcoin
+
+bitcoin.org            
 https://bitcoin.org
 
 bitcoin forum.org
