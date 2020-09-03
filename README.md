@@ -229,6 +229,9 @@ https://www.coindesk.com/
 bitcoinbook 
 https://github.com/bitcoinbook/bitcoinbook
 
+blockbook
+https://github.com/trezor/blockbook
+
 reddit javascript bitcoin library
 https://github.com/reddit-archive/fullnode
 
