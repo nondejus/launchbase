@@ -43,6 +43,9 @@ https://doxygen.bitcoincore.org/
 bitcoin.org            
 https://bitcoin.org
 
+bitcoin perf
+https://github.com/chaincodelabs/bitcoinperf
+
 bitcoin forum.org
 https://bitcointalk.org/
 
