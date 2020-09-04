@@ -115,6 +115,9 @@ https://www.json.org/json-en.html
 json rpc
 https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 
+dumb block explorer
+https://bitcoin.jonasschnelli.ch/explorer/
+
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
 
