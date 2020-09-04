@@ -583,6 +583,9 @@ https://pastebin.com/raw/PWcYtqi3
 bitcoin code maintain
 https://laanwj.github.io/
 
+bitcoin-maintainer-tools
+https://github.com/bitcoin-core/bitcoin-maintainer-tools
+
 bitcoincore
 https://doxygen.bitcoincore.org/
 
