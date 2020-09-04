@@ -118,6 +118,9 @@ https://bitcoin.jonasschnelli.ch/explorer/
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
 
+clinfo
+https://github.com/nondejus/clinfo
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
