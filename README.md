@@ -190,6 +190,12 @@ https://github.com/rust-bitcoin/rust-miniscript
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
+colored coins wiki
+https://en.bitcoin.it/wiki/Colored_Coins
+
+colored coins sdk
+https://github.com/Colored-Coins/colored-coins-sdk
+
 uasf
 https://github.com/OPUASF/UASF
 
