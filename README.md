@@ -166,6 +166,9 @@ http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/0000000
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
+utxo
+https://en.m.wikipedia.org/wiki/Unspent_transaction_output
+
 vanitygen
 https://github.com/samr7/vanitygen
 
