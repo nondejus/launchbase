@@ -750,6 +750,3 @@ https://github.com/ElementsProject/simplicity
 
 ecb
 https://github.com/expersso/ecb
-
-design choices for central bank digital currency
-https://github.com/nondejus/design-choices-for-central-bank-digital-currency
