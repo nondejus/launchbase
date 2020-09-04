@@ -46,6 +46,9 @@ https://github.com/bitcoin/bitcoin
 bitcoin core
 https://doxygen.bitcoincore.org/
 
+bitcoin core review
+https://bitcoincore.reviews
+
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
@@ -103,11 +106,11 @@ https://bitcoincore.org/en/meetings/
 gitian      
 https://gitian.org
 
-bitcoin core review
-https://bitcoincore.reviews/
-
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
+
+json rpc
+https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
