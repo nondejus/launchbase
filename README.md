@@ -559,6 +559,9 @@ https://github.com/nondejus/mollie-api-node
 binance dex
 https://github.com/BSathvik/binance-dex
 
+node binance api
+https://github.com/nondejus/node-binance-api
+
 open source assets exchange
 https://github.com/nondejus/peatio
 
