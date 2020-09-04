@@ -52,9 +52,6 @@ https://bitcoincore.reviews
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
-bitcoin perf
-https://github.com/chaincodelabs/bitcoinperf
-
 bitcoin.org            
 https://bitcoin.org
 
