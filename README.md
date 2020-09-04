@@ -496,6 +496,9 @@ https://bitbucket.org/ckolivas/ckpool/src/master/
 node open mining portal
 https://github.com/nondejus/node-open-mining-portal
 
+miningcore
+https://github.com/nondejus/miningcore
+
 ether proxy
 https://github.com/nondejus/ether-proxy
 
