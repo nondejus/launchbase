@@ -109,6 +109,9 @@ https://gitian.org
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+json
+https://www.json.org/json-en.html
+
 json rpc
 https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 
