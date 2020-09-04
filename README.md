@@ -127,7 +127,7 @@ https://en.m.wikipedia.org/wiki/CUDA
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
 
-puddinpop bitcoin remte rpc
+puddinpop bitcoin remote rpc
 http://www.mediafire.com/file/ve608cl5mk1ka3l/bitcoin-remote-rpc-20110227-src.zip/file
 
 opencl bitcoin miner
