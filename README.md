@@ -40,11 +40,14 @@ https://github.com/bitcoin/bitcoin
 bitcoin core
 https://doxygen.bitcoincore.org/
 
-bitcoin.org            
-https://bitcoin.org
+bitcoin core benchmark
+https://codespeed.bitcoinperf.com/changes/
 
 bitcoin perf
 https://github.com/chaincodelabs/bitcoinperf
+
+bitcoin.org            
+https://bitcoin.org
 
 bitcoin forum.org
 https://bitcointalk.org/
