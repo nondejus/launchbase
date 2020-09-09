@@ -469,6 +469,9 @@ https://github.com/nondejus/hashkill
 miningcore
 https://github.com/ahmedbodi/miningcore
 
+bitcoin pooled mining reward system
+https://github.com/nondejus/bitcoin-pooled-mining-reward-system
+
 pushpoool
 https://github.com/jgarzik/pushpool
 
