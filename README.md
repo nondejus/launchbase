@@ -649,6 +649,9 @@ https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 caitlinf long
 https://caitlin-long.com/about-caitlin/
 
+steamr
+https://github.com/nondejus/streamr-client-java
+
 smart contract
 https://en.m.wikipedia.org/wiki/Smart_contract
 
