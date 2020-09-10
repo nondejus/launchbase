@@ -221,7 +221,7 @@ rpcmined mod (win)
 https://github.com/cdmackie/rpcminer-mod
 
 riseup
-https://riseup.net/en/about-us/press
+https://riseup.net/en/about-us/press/fbi-seizes-anonymous-remailer
 
 agoristradio
 https://github.com/AgoristRadio/RealityExploitRoundtable
