@@ -202,6 +202,9 @@ https://github.com/rust-bitcoin/rust-miniscript
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
+bc seedtool cli
+https://github.com/BlockchainCommons/bc-seedtool-cli
+
 colored coins wiki
 https://en.bitcoin.it/wiki/Colored_Coins
 
