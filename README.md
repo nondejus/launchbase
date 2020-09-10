@@ -526,7 +526,7 @@ https://en.m.wikipedia.org/wiki/Ghash.io
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
--zapwallettxes (unconfirmed transaction from eloipool walket lock: patch tnx to bitcoin-dev gmaxwell and jgarzik)
+-zapwallettxes (unconfirmed transaction from eloipool locked my wallet: patch tnx to bitcoin-dev gmaxwell and jgarzik)
 https://bitcoin.org/en/release/v0.9.0#how-to-upgrade
 
 node open mining portal
