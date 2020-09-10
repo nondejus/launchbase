@@ -274,6 +274,12 @@ https://github.com/reddit-archive/fullnode
 blocksize limit
 https://en.bitcoin.it/wiki/Block_size_limit_controversy#:~:text=Originally%2C%20Bitcoin's%20block%20size%20was,into%20Bitcoin%20by%20Satoshi%20Nakamoto.
 
+coursera crypto 1
+https://www.coursera.org/learn/crypto
+
+coursera crypto 2
+https://www.coursera.org/learn/crypto2
+
 managed infrastructure for building on blockchain networks
 https://www.bloq.com/
 
