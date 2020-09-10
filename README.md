@@ -280,6 +280,12 @@ https://www.coursera.org/learn/crypto
 coursera crypto 2
 https://www.coursera.org/learn/crypto2
 
+coursera algorithms part1
+https://www.coursera.org/learn/algorithms-part1
+
+coursera algorithms part1
+https://www.coursera.org/learn/algorithms-part2
+
 algs4
 https://github.com/kevin-wayne/algs4
 
