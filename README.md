@@ -466,6 +466,9 @@ https://github.com/gpg/gnupg
 gnu zrtp c++
 https://github.com/nondejus/ZRTPCPP
 
+privatebin
+https://github.com/nondejus/PrivateBin
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
