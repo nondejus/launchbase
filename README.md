@@ -163,6 +163,9 @@ https://github.com/luke-jr/bfgminer
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
+libbitcoin tutorial
+https://github.com/nondejus/LibbitcoinTutorial
+
 libbitcoin
 https://github.com/libbitcoin/libbitcoin-system
 
