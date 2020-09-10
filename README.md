@@ -259,6 +259,9 @@ https://github.com/bitcoinbook/bitcoinbook
 blockbook
 https://github.com/trezor/blockbook
 
+ghostguns
+https://github.com/ghostguns/80lower
+
 reddit javascript bitcoin library
 https://github.com/reddit-archive/fullnode
 
