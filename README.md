@@ -118,6 +118,9 @@ https://bitcoin.jonasschnelli.ch/explorer/
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
 
+bitcoin halving
+https://www.bitcoinhalving.com/talks/what-is-the-halving-with-amiti-uttarwar
+
 clinfo
 https://github.com/nondejus/clinfo
 
