@@ -280,6 +280,9 @@ https://www.coursera.org/learn/crypto
 coursera crypto 2
 https://www.coursera.org/learn/crypto2
 
+algs4
+https://github.com/kevin-wayne/algs4
+
 managed infrastructure for building on blockchain networks
 https://www.bloq.com/
 
