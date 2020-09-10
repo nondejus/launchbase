@@ -226,6 +226,9 @@ https://riseup.net/en/about-us/press
 agoristradio
 https://github.com/AgoristRadio/RealityExploitRoundtable
 
+ghostguns
+https://github.com/ghostguns/80lower
+
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
 
@@ -258,9 +261,6 @@ https://github.com/bitcoinbook/bitcoinbook
 
 blockbook
 https://github.com/trezor/blockbook
-
-ghostguns
-https://github.com/ghostguns/80lower
 
 reddit javascript bitcoin library
 https://github.com/reddit-archive/fullnode
