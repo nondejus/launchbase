@@ -106,6 +106,9 @@ https://gitian.org
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+bitcoinica
+https://en.bitcoin.it/wiki/Bitcoinica
+
 json
 https://www.json.org/json-en.html
 
