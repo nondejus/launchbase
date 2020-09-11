@@ -109,6 +109,9 @@ https://cs.m.wikipedia.org/wiki/Bitcoin
 bitcoinica
 https://en.bitcoin.it/wiki/Bitcoinica
 
+bitcoinica press release
+https://www.reddit.com/r/Bitcoin/comments/w6xen/bitcoinica_press_release/
+
 json
 https://www.json.org/json-en.html
 
