@@ -761,7 +761,7 @@ ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
 district0x
-https://registry.district0x.io/
+https://district0x.io/
 
 bitcoins in space
 https://www.prlog.org/12313639-bitcoins-in-space-one-step-closer.html
