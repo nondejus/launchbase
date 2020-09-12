@@ -631,7 +631,7 @@ https://github.com/jedmccaleb/stellarterm
 coinbase     
 https://coinbase.com
 
-brian armstrinf
+brian armstrong
 https://www.brianarmstrong.org/
 
 gdax     
