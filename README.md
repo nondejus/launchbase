@@ -574,12 +574,6 @@ https://www.stratumprotocol.org/
 braiins
 https://github.com/braiins/braiins
 
-bitfinex
-https://github.com/bitfinexcom/bitfinex-api-py
-
-bitfinex honeyfranework server
-https://github.com/nondejus/bfx-hf-server
-
 intersango 
 https://github.com/nondejus/intersango
 
@@ -591,6 +585,15 @@ https://bitstamp.net
 
 coinfloor
 https://en.bitcoin.it/wiki/Coinfloor
+
+bitfinex honey framework backtest
+https://github.com/nondejus/bfx-hf-backtest
+
+bitfinex honeyfranework server
+https://github.com/nondejus/bfx-hf-server
+
+bitfinex honeyframework data server
+https://github.com/nondejus/bfx-hf-data-server
 
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
