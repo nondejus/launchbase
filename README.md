@@ -577,6 +577,9 @@ https://github.com/braiins/braiins
 bitfinex
 https://github.com/bitfinexcom/bitfinex-api-py
 
+bitfinex honeyfranework server
+https://github.com/nondejus/bfx-hf-server
+
 intersango 
 https://github.com/nondejus/intersango
 
