@@ -457,6 +457,9 @@ https://github.com/mimblewimble/grin
 darkwallet
 https://github.com/darkwallet/darkwallet
 
+Blockstream Green Development Kit
+https://github.com/nondejus/gdk
+
 localbitcoins.com
 https://localbitcoins.com/
 
