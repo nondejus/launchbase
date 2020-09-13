@@ -769,6 +769,9 @@ https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
+karma
+https://github.com/sirin-labs/karma.js
+
 district0x
 https://district0x.io/
 
