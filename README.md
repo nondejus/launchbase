@@ -586,6 +586,9 @@ https://bitstamp.net
 coinfloor
 https://en.bitcoin.it/wiki/Coinfloor
 
+cpptrader
+https://github.com/nondejus/CppTrader
+
 bitfinex honey framework backtest
 https://github.com/nondejus/bfx-hf-backtest
 
