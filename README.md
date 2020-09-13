@@ -592,6 +592,9 @@ https://bitstamp.net
 cpptrader
 https://github.com/nondejus/CppTrader
 
+pax contracts
+https://github.com/nondejus/pax-contracts
+
 bitfinex honey framework backtest
 https://github.com/nondejus/bfx-hf-backtest
 
