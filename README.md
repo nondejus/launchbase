@@ -514,7 +514,7 @@ https://github.com/ahmedbodi/miningcore
 bitcoin pooled mining reward system
 https://github.com/nondejus/bitcoin-pooled-mining-reward-system
 
-pushpoool
+pushpool
 https://github.com/jgarzik/pushpool
 
 mining.bitcoin.cz 
@@ -696,6 +696,9 @@ https://bitcoincharts.com
 
 sierrachartfeed
 https://github.com/slush0/sierrachartfeed
+
+doctl
+https://github.com/nondejus/doctl
 
 history overview
 https://en.bitcoin.it/wiki/Category:History
