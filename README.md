@@ -670,6 +670,9 @@ https://github.com/bitcoin-core/bitcoin-maintainer-tools
 bitcoincore
 https://doxygen.bitcoincore.org/
 
+conceptnet.ii
+http://conceptnet.io/
+
 conceptnet5
 https://github.com/nondejus/conceptnet5
 
