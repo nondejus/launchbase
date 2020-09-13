@@ -577,14 +577,14 @@ https://github.com/braiins/braiins
 intersango 
 https://github.com/nondejus/intersango
 
+coinfloor
+https://en.bitcoin.it/wiki/Coinfloor
+
 bitstamp archive
 https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 
 bitstamp 
 https://bitstamp.net
-
-coinfloor
-https://en.bitcoin.it/wiki/Coinfloor
 
 cpptrader
 https://github.com/nondejus/CppTrader
