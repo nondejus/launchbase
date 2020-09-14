@@ -82,6 +82,9 @@ https://bitcoinwisdom.io/
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
+getpeerinfo
+https://bitcoin-rpc.github.io/en/doc/0.17.99/rpc/network/getpeerinfo/
+
 bitnodes.io
 https://bitnodes.io/
 
