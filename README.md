@@ -52,6 +52,9 @@ https://bitcoincore.reviews
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
+bitcoin core dev meetbot
+http://www.erisian.com.au/meetbot/bitcoin-core-dev/
+
 bitcoin.org            
 https://bitcoin.org
 
