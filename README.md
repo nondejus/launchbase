@@ -67,6 +67,9 @@ http://bitcoin.sipa.be/
 bitcoin mempool statistics     
 https://jochen-hoenicke.de/queue/#0,24h
 
+bitcoin performance monitoring
+https://github.com/chaincodelabs/bitcoinperf
+
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
 
