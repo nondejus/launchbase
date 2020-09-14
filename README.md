@@ -721,11 +721,14 @@ https://github.com/nondejus/streamr-client-java
 smart contract
 https://en.m.wikipedia.org/wiki/Smart_contract
 
-proof of stake
-https://eth.wiki/en/concepts/proof-of-stake-faqs
-
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
+
+pos
+https://en.m.wikipedia.org/wiki/Proof_of_stake
+
+pos eth
+https://eth.wiki/en/concepts/proof-of-stake-faqs
 
 ethereum
 https://github.com/ethereum
