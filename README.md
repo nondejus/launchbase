@@ -79,6 +79,9 @@ https://github.com/nondejus/blockchain.info
 bitcoinwisdom
 https://bitcoinwisdom.io/
 
+bitcoin-cli cpp
+https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
+
 bitnodes.io
 https://bitnodes.io/
 
