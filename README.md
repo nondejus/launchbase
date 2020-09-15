@@ -511,6 +511,9 @@ https://github.com/gavinandresen/bitcoin_miningsim
 sha256 animation
 https://github.com/nondejus/sha256-animation
 
+special hash
+https://ehash.iaik.tugraz.at/wiki/Spectral_Hash
+
 otr
 https://github.com/arlolra/otr
 
