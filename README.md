@@ -514,6 +514,9 @@ https://github.com/nondejus/sha256-animation
 special hash
 https://ehash.iaik.tugraz.at/wiki/Spectral_Hash
 
+rust crypto
+https://github.com/RustCrypto
+
 otr
 https://github.com/arlolra/otr
 
