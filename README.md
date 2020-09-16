@@ -850,6 +850,9 @@ https://www.chia.net
 chia bip 158
 https://github.com/Chia-Network/chiabip158
 
+bittorrent v2
+https://blog.libtorrent.org/2020/09/bittorrent-v2/
+
 ipfs
 https://github.com/ipfs/go-ipfs#system-requirements
 
