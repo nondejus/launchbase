@@ -520,6 +520,9 @@ https://ehash.iaik.tugraz.at/wiki/Spectral_Hash
 rust crypto
 https://github.com/RustCrypto
 
+buttelproofs
+https://github.com/isislovecruft/bulletproofs
+
 otr
 https://github.com/arlolra/otr
 
