@@ -784,6 +784,9 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 busd contract
 https://github.com/nondejus/busd-contract
 
+compound-protocol
+https://github.com/nondejus/compound-protocol
+
 ethminer
 https://github.com/ethereum-mining/ethminer
 
