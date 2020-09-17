@@ -876,3 +876,6 @@ https://github.com/ElementsProject/simplicity
 
 ecb
 https://github.com/expersso/ecb
+
+quantitative easing
+https://en.m.wikipedia.org/wiki/Quantitative_easing
