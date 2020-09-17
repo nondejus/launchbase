@@ -226,6 +226,9 @@ https://github.com/jnewbery/bitcoin-wireshark
 bc seedtool cli
 https://github.com/BlockchainCommons/bc-seedtool-cli
 
+heartbleed
+https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptography
+
 colored coins wiki
 https://en.bitcoin.it/wiki/Colored_Coins
 
