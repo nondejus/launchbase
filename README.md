@@ -667,6 +667,9 @@ https://github.com/jedmccaleb/stellarterm
 coinbase     
 https://coinbase.com
 
+uniswap
+https://github.com/Uniswap/uniswap-lib
+
 brian armstrong
 https://www.brianarmstrong.org/
 
