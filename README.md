@@ -736,9 +736,6 @@ https://github.com/nondejus/doctl
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
-dat
-https://github.com/nondejus/dat
-
 cryptocurrency
 https://en.m.wikipedia.org/wiki/Cryptocurrency
 
