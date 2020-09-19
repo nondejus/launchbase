@@ -313,6 +313,9 @@ https://www.coursera.org/learn/algorithms-part1
 coursera algorithms part1
 https://www.coursera.org/learn/algorithms-part2
 
+courseraresearchexports
+https://github.com/coursera/courseraresearchexports
+
 algs4
 https://github.com/kevin-wayne/algs4
 
