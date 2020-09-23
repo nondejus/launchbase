@@ -2,7 +2,7 @@ launchbase
 ==========
 
 grub
-https://github.com/nondejus/grub
+http://www.gnu.org/software/grub/grub.html
 
 cypherpunks
 https://lists.cpunks.org/mailman/listinfo/cypherpunks
