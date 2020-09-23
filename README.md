@@ -151,6 +151,9 @@ https://bitcoin.org/en/release/v0.8.1#how-to-upgrade
 clinfo
 https://github.com/nondejus/clinfo
 
+mempool dat
+https://godoc.org/github.com/0xB10C/mempool-dat/lib
+
 amd catalyst opencl 
 https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 
