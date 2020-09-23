@@ -157,6 +157,9 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
+x64dbg
+https://github.com/nondejus/x64dbg
+
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
 
