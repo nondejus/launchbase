@@ -64,6 +64,9 @@ https://bitcoin.org
 bitcoin forum.org
 https://bitcointalk.org/
 
+bitcoin api
+https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+
 bitcoin network graph
 http://bitcoin.sipa.be/
 
