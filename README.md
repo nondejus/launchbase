@@ -850,6 +850,9 @@ https://github.com/paritytech/substrate
 polkadot
 https://github.com/paritytech/polkadot
 
+kusama
+https://kusama.network/
+
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
