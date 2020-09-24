@@ -655,6 +655,9 @@ https://github.com/nondejus/bfx-hf-server
 bitfinex honeyframework data server
 https://github.com/nondejus/bfx-hf-data-server
 
+gemini
+https://github.com/nondejus/gemini-python
+
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
