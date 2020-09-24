@@ -556,6 +556,9 @@ https://github.com/rustyrussell/weak-blocks
 hashkill
 https://github.com/nondejus/hashkill
 
+hashcat
+https://github.com/hashcat/hashcat
+
 miningcore
 https://github.com/ahmedbodi/miningcore
 
