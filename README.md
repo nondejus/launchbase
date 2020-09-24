@@ -844,6 +844,9 @@ https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
+substrate
+https://github.com/paritytech/substrate
+
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
