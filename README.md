@@ -877,6 +877,9 @@ https://memefactory.io/
 menefactory
 https://github.com/nondejus/memefactory
 
+confidential transactions
+https://elementsproject.org/features/confidential-transactions
+
 bitcoins in space
 https://www.prlog.org/12313639-bitcoins-in-space-one-step-closer.html
 
