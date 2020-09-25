@@ -127,12 +127,6 @@ https://github.com/libvirt/libvirt
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
-bitcoinica
-https://en.bitcoin.it/wiki/Bitcoinica
-
-bitcoinica press release
-https://www.reddit.com/r/Bitcoin/comments/w6xen/bitcoinica_press_release/
-
 json
 https://www.json.org/json-en.html
 
@@ -270,6 +264,12 @@ https://github.com/pooler/cpuminer
 
 rpcmined mod (win)
 https://github.com/cdmackie/rpcminer-mod
+
+bitcoinica
+https://en.bitcoin.it/wiki/Bitcoinica
+
+bitcoinica press release
+https://www.reddit.com/r/Bitcoin/comments/w6xen/bitcoinica_press_release/
 
 riseup
 https://riseup.net/en/about-us/press/fbi-seizes-anonymous-remailer
