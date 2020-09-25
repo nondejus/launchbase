@@ -34,6 +34,9 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
+satoshi unit
+https://en.bitcoin.it/wiki/Satoshi_(unit)
+
 utxo   
 https://en.m.wikipedia.org/wiki/Unspent_transaction_output
 
