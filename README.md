@@ -691,6 +691,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+huobi
+https://github.com/HuobiRDCenter/huobi_Python
+
 bitonic      
 https://bitonic.nl/en/
 
