@@ -241,6 +241,9 @@ https://github.com/rust-bitcoin/rust-miniscript
 taproot workshop
 https://github.com/bitcoinops/taproot-workshop
 
+taproot review
+https://github.com/ajtowns/taproot-review
+
 bitcoin dev kit
 https://bitcoindevkit.org/
 
