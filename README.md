@@ -31,6 +31,9 @@ https://en.m.wikipedia.org/wiki/Proof_of_work
 crypto++
 https://github.com/weidai11/cryptopp
 
+pycryptopp
+https://tahoe-lafs.org/trac/pycryptopp
+
 bitcoin wiki
 https://en.bitcoin.it
 
