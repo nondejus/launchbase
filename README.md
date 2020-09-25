@@ -664,6 +664,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 btc-e    
 https://en.m.wikipedia.org/wiki/BTC-e
 
+btc-e api
+https://github.com/CodeReclaimers/btce-api
+
 kraken websockets
 https://docs.kraken.com/websockets/
 
