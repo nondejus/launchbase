@@ -238,6 +238,9 @@ https://en.bitcoin.it/wiki/Script
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
 
+taproot workshop
+https://github.com/bitcoinops/taproot-workshop
+
 bitcoin dev kit
 https://bitcoindevkit.org/
 
