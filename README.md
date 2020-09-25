@@ -37,6 +37,9 @@ https://tahoe-lafs.org/trac/pycryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
+genesis block
+https://en.bitcoin.it/wiki/Genesis_block
+
 satoshi unit
 https://en.bitcoin.it/wiki/Satoshi_(unit)
 
