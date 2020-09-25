@@ -868,6 +868,9 @@ https://github.com/ConsenSys/ethereum-dissectors
 ethereum miningpoolhub
 https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 
+walletconnect
+https://github.com/shiryakhat/walletconnect-monorepo
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
