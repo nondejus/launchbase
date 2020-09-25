@@ -868,6 +868,9 @@ https://github.com/paritytech/polkadot
 kusama
 https://kusama.network/
 
+telemetry
+https://telemetry.polkadot.io/#/Polkadot
+
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
