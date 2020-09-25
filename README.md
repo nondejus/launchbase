@@ -445,6 +445,9 @@ https://github.com/Blockstream/esplora
 blockchair
 https://blockchair.com/bitcoin/mempool/transactions
 
+zcash observatory
+https://github.com/Electric-Coin-Company/observatory
+
 cgminer
 https://github.com/ckolivas/cgminer
 
