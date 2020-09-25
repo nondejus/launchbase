@@ -52,6 +52,9 @@ https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 bitcoin sourceforge
 https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
+wxwidgets
+https://github.com/wxWidgets/wxPython-Classic
+
 bitcoin github
 https://github.com/bitcoin/bitcoin
 
