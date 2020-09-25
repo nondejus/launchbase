@@ -289,17 +289,26 @@ https://www.mtgox.com
 mtgox wiki
 https://en.m.wikipedia.org/wiki/Mt._Gox
 
-satoshi dice
-https://en.bitcoin.it/wiki/Satoshi_Dice
-
-satoshidice.com
-https://satoshidice.com
+intersango 
+https://github.com/nondejus/intersango
 
 virwox       
 https://www.virwox.com
 
 virxow wiki
 https://en.bitcoin.it/wiki/VirWoX
+
+btc-e
+https://en.m.wikipedia.org/wiki/BTC-e
+
+btc-e api
+https://github.com/CodeReclaimers/btce-api
+
+satoshi dice
+https://en.bitcoin.it/wiki/Satoshi_Dice
+
+satoshidice.com
+https://satoshidice.com
 
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
@@ -628,9 +637,6 @@ https://www.stratumprotocol.org/
 braiins
 https://github.com/braiins/braiins
 
-intersango 
-https://github.com/nondejus/intersango
-
 coinfloor
 https://en.bitcoin.it/wiki/Coinfloor
 
@@ -660,12 +666,6 @@ https://github.com/nondejus/gemini-python
 
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
-
-btc-e    
-https://en.m.wikipedia.org/wiki/BTC-e
-
-btc-e api
-https://github.com/CodeReclaimers/btce-api
 
 kraken websockets
 https://docs.kraken.com/websockets/
