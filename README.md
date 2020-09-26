@@ -928,6 +928,9 @@ https://memefactory.io/
 menefactory
 https://github.com/nondejus/memefactory
 
+bitcoingold
+https://bitcoingold.org/
+
 confidential transactions
 https://elementsproject.org/features/confidential-transactions
 
