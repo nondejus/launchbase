@@ -916,6 +916,9 @@ https://github.com/sirin-labs/karma.js
 district0x
 https://district0x.io/
 
+openzkp
+https://github.com/0xProject/OpenZKP
+
 memefactory.io
 https://memefactory.io/
 
