@@ -919,14 +919,11 @@ https://github.com/sirin-labs/karma.js
 district0x
 https://district0x.io/
 
-openzkp
-https://github.com/0xProject/OpenZKP
-
-memefactory.io
-https://memefactory.io/
-
 menefactory
 https://github.com/nondejus/memefactory
+
+openzkp
+https://github.com/0xProject/OpenZKP
 
 bitcoingold
 https://bitcoingold.org/
