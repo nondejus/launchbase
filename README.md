@@ -901,6 +901,9 @@ https://kusama.network/
 telemetry
 https://telemetry.polkadot.io/#/Polkadot
 
+synthetix
+https://github.com/Synthetixio/synthetix
+
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
