@@ -287,6 +287,9 @@ https://github.com/coblee/litecoin-old
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
+electrum ltc
+https://github.com/pooler/electrum-ltc
+
 cpuminer
 https://github.com/pooler/cpuminer
 
