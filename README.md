@@ -281,12 +281,8 @@ https://github.com/namecoin/namecoin-core
 scryot
 https://en.m.wikipedia.org/wiki/Scrypt
 
-litecoin scrypt     
-https://en.m.wikipedia.org/wiki/Scrypt
-
 litecoin.org
 https://github.com/litecoin-project/litecoin
-
 
 cpuminer
 https://github.com/pooler/cpuminer
