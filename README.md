@@ -949,6 +949,9 @@ https://petertodd.org/2017/bitcoin-mining-space-hard-sci-fi
 liquid
 https://github.com/ElementsProject/elements
 
+Green Development Kit
+https://github.com/Blockstream/gdk
+
 aqua wallet
 https://github.com/Blockstream/aqua_ios
 
