@@ -281,6 +281,9 @@ https://github.com/namecoin/namecoin-core
 scryot
 https://en.m.wikipedia.org/wiki/Scrypt
 
+litecoin-old
+https://github.com/coblee/litecoin-old
+
 litecoin.org
 https://github.com/litecoin-project/litecoin
 
