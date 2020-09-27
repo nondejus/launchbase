@@ -128,6 +128,9 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 bitcoin bips
 https://github.com/bitcoin/bips
 
+bip 0050
+https://en.bitcoin.it/wiki/BIP_0050
+
 satoshilabs slips
 https://github.com/satoshilabs/slips
 
