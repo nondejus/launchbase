@@ -344,6 +344,9 @@ https://en.bitcoin.it/wiki/Satoshi_Dice
 satoshidice.com
 https://satoshidice.com
 
+bitcoimagazone wiki
+https://en.m.wikipedia.org/wiki/Bitcoin_Magazine
+
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
 
