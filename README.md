@@ -929,6 +929,9 @@ https://github.com/Synthetixio/synthetix
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
+solidity-underhanded-contest
+https://solidity.ethereum.org/2020/09/21/solidity-underhanded-contest/
+
 DeFi
 https://github.com/nondejus/defi-sdk
 
