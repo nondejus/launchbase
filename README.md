@@ -3,7 +3,7 @@ launchbase
 
 
 cypherpunks
-https://lists.cpunks.org/mailman/listinfo/cypherpunks
+https://lists.cpunks.org/pipermail/cypherpunks/
 
 bitcoin-dev
 https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev
