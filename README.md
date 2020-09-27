@@ -137,6 +137,9 @@ https://github.com/satoshilabs/slips
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
+bitcoin foundation
+https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
+
 gitian      
 https://gitian.org
 
