@@ -350,6 +350,9 @@ https://en.m.wikipedia.org/wiki/Bitcoin_Magazine
 bitcoinmagazine
 https://bitcoinmagazine.com/guides
 
+coindesk wiki
+https://en.m.wikipedia.org/wiki/CoinDesk
+
 coindesk
 https://www.coindesk.com/
 
