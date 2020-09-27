@@ -999,3 +999,6 @@ https://github.com/expersso/ecb
 
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
+
+magical cryptoconference 2020
+https://www.magicalcryptoconference.com/2020-vr
