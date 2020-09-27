@@ -311,6 +311,9 @@ https://github.com/AgoristRadio/RealityExploitRoundtable
 ghostguns
 https://github.com/ghostguns/80lower
 
+loic
+https://github.com/PresidentObama/LOIC
+
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
 
