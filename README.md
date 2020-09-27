@@ -288,7 +288,7 @@ litecoin.org
 https://github.com/litecoin-project/litecoin
 
 electrum ltc
-https://github.com/pooler/electrum-ltc
+https://electrum-ltc.org/
 
 cpuminer
 https://github.com/pooler/cpuminer
