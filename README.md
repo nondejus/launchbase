@@ -922,6 +922,9 @@ https://district0x.io/
 menefactory
 https://github.com/nondejus/memefactory
 
+magical cryptofriends
+https://www.magicalcryptofriends.com/about
+
 openzkp
 https://github.com/0xProject/OpenZKP
 
