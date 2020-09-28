@@ -315,7 +315,7 @@ loic
 https://github.com/PresidentObama/LOIC
 
 bitcoin foundation
-bitcoin foundation https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
+https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
 
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
