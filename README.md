@@ -314,6 +314,9 @@ https://github.com/AgoristRadio/RealityExploitRoundtable
 ghostguns
 https://github.com/ghostguns/80lower
 
+supercop
+http://bench.cr.yp.to/supercop.html
+
 loic
 https://github.com/PresidentObama/LOIC
 
