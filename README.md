@@ -692,6 +692,9 @@ https://www.stratumprotocol.org/
 braiins
 https://github.com/braiins/braiins
 
+btc china
+https://en.m.wikipedia.org/wiki/BTCC_(company)
+
 coinfloor
 https://en.bitcoin.it/wiki/Coinfloor
 
