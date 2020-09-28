@@ -725,6 +725,12 @@ https://github.com/nondejus/bfx-hf-data-server
 gemini
 https://github.com/nondejus/gemini-python
 
+synthetix stats
+https://stats.synthetix.io/
+
+synthetix blog
+https://blog.synthetix.io/
+
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
