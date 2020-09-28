@@ -695,6 +695,9 @@ https://github.com/braiins/braiins
 btc china
 https://en.m.wikipedia.org/wiki/BTCC_(company)
 
+btcc
+https://www.btcc.com/
+
 coinfloor
 https://en.bitcoin.it/wiki/Coinfloor
 
