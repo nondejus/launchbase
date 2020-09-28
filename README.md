@@ -293,6 +293,9 @@ https://github.com/litecoin-project/litecoin
 electrum ltc
 https://electrum-ltc.org/
 
+britcoin
+https://github.com/Brit-Coin/britcoin
+
 cpuminer
 https://github.com/pooler/cpuminer
 
