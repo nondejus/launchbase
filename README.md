@@ -941,6 +941,9 @@ https://github.com/paritytech/substrate
 polkadot
 https://github.com/paritytech/polkadot
 
+polkadot subscan
+https://polkadot.subscan.io/
+
 kusama
 https://kusama.network/
 
