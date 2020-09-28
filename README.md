@@ -725,12 +725,6 @@ https://github.com/nondejus/bfx-hf-data-server
 gemini
 https://github.com/nondejus/gemini-python
 
-synthetix stats
-https://stats.synthetix.io/
-
-synthetix blog
-https://blog.synthetix.io/
-
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
@@ -949,6 +943,12 @@ https://telemetry.polkadot.io/#/Polkadot
 
 synthetix
 https://github.com/Synthetixio/synthetix
+
+synthetix blog
+https://blog.synthetix.io/
+
+synthetix stats
+https://stats.synthetix.io/
 
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
