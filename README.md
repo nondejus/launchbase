@@ -962,6 +962,9 @@ https://stats.synthetix.io/
 openzeppelin contracts
 https://github.com/nondejus/openzeppelin-contracts
 
+openzeppelin forum
+https://forum.openzeppelin.com/t/openzeppelin-truffle-upgrades-step-by-step-tutorial/3579
+
 solidity-underhanded-contest
 https://solidity.ethereum.org/2020/09/21/solidity-underhanded-contest/
 
@@ -1010,7 +1013,7 @@ https://petertodd.org/2017/bitcoin-mining-space-hard-sci-fi
 liquid
 https://github.com/ElementsProject/elements
 
-Green Development Kit
+green development kit
 https://github.com/Blockstream/gdk
 
 aqua wallet
