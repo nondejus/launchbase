@@ -125,6 +125,9 @@ https://github.com/freewil/bitcoin-testnet-box
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
+bitcoin security research
+https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
