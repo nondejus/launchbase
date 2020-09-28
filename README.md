@@ -314,8 +314,11 @@ https://github.com/ghostguns/80lower
 loic
 https://github.com/PresidentObama/LOIC
 
-bitcoin foundation
+bitcoinfoundation
 https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
+
+bitcoinfoundation org
+https://bitcoinfoundation.org/
 
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
