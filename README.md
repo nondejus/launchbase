@@ -137,9 +137,6 @@ https://github.com/satoshilabs/slips
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
-bitcoin foundation
-https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
-
 gitian      
 https://gitian.org
 
@@ -316,6 +313,9 @@ https://github.com/ghostguns/80lower
 
 loic
 https://github.com/PresidentObama/LOIC
+
+bitcoin foundation
+bitcoin foundation https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
 
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
