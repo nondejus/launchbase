@@ -938,9 +938,6 @@ https://github.com/ethereumbook/ethereumbook
 substrate
 https://github.com/paritytech/substrate
 
-substrate dev
-https://substrate.dev/
-
 polkadot
 https://github.com/paritytech/polkadot
 
