@@ -1059,7 +1059,7 @@ gnark
 https://github.com/ConsenSys/gnark
 
 simplicity
-https://github.com/ElementsProject/simplicity
+https://github.com/nondejus/simplicity
 
 ecb
 https://github.com/expersso/ecb
