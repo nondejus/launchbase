@@ -257,6 +257,9 @@ https://github.com/bitcoinops/taproot-workshop
 taproot review
 https://github.com/ajtowns/taproot-review
 
+bitcoin mast
+https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f?source=social.tw
+
 bitcoin dev kit
 https://bitcoindevkit.org/
 
