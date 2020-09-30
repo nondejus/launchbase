@@ -380,6 +380,12 @@ https://en.m.wikipedia.org/wiki/CoinDesk
 coindesk
 https://www.coindesk.com/
 
+binance wiki
+https://en.m.wikipedia.org/wiki/Binance
+
+binance academy
+https://academy.binance.com/
+
 bitcoinbook 
 https://github.com/bitcoinbook/bitcoinbook
 
