@@ -689,7 +689,7 @@ https://en.m.wikipedia.org/wiki/Ghash.io
 ckpool 
 https://bitbucket.org/ckolivas/ckpool/src/master/
 
-bitcoin 0.9.0 -zapwallettxes (winter 2013, i recieved a small unconfirmed negative balanced bitcoin transaction in my wallet(standard full node) from an eloipool and it locked my whole wallet. (and i wasn't mining on eloipool for months) : patch tnx to bitcoin-dev gmaxwell and jgarzik)
+bitcoin 0.9.0 -zapwallettxes
 https://bitcoin.org/en/release/v0.9.0#how-to-upgrade
 
 node open mining portal
