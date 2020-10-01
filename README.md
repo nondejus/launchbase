@@ -29,9 +29,6 @@ https://en.m.wikipedia.org/wiki/Proof_of_work
 crypto++
 https://github.com/weidai11/cryptopp
 
-pycryptopp   
-https://tahoe-lafs.org/trac/pycryptopp
-
 cryptlib
 https://www.cs.auckland.ac.nz/~pgut001/cryptlib/
 
@@ -1081,6 +1078,9 @@ https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 
 libra
 https://github.com/libra/libra
+
+pycryptopp
+https://tahoe-lafs.org/trac/pycryptopp
 
 lnbook
 https://github.com/cdecker/lnbook
