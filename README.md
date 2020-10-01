@@ -60,16 +60,16 @@ bitcoin github
 https://github.com/bitcoin/bitcoin
 
 bitcoin core
-https://doxygen.bitcoincore.org/
-
-bitcoin core review
-https://bitcoincore.reviews
+https://doxygen.bitcoincore.org
 
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
 bitcoin core dev meetbot
 http://www.erisian.com.au/meetbot/bitcoin-core-dev/
+
+bitcoin core review   
+https://bitcoincore.reviews
 
 bitcoin.org            
 https://bitcoin.org
