@@ -863,6 +863,9 @@ https://en.m.wikipedia.org/wiki/Cryptocurrency
 ripple
 https://github.com/ripple
 
+xrp ledger
+https://livenet.xrpl.org/
+
 xumm sdk
 https://github.com/XRPL-Labs/XUMM-SDK
 
