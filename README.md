@@ -32,6 +32,9 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
+bitcoin network
+https://en.m.wikipedia.org/wiki/Bitcoin_network
+
 genesis block
 https://en.bitcoin.it/wiki/Genesis_block
 
