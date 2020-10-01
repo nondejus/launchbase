@@ -857,9 +857,6 @@ https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
-0x143C9F41D8F056DD PGP
-https://pgp.key-server.io/search/0x143C9F41D8F056DD
-
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
@@ -1006,6 +1003,9 @@ https://github.com/sirin-labs/karma.js
 
 district0x
 https://district0x.io/
+
+0x143C9F41D8F056DD PGP     
+https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
 menefactory
 https://github.com/nondejus/memefactory
