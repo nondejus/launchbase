@@ -275,9 +275,6 @@ https://github.com/BlockchainCommons/bc-seedtool-cli
 TLS
 https://en.m.wikipedia.org/wiki/Transport_Layer_Security
 
-openssl
-https://en.m.wikipedia.org/wiki/OpenSSL
-
 heartbleed vulnerability bitcoin
 https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptography
 
@@ -483,7 +480,7 @@ double soending
 https://en.m.wikipedia.org/wiki/Double-spending
 
 openssl
-https://gist.github.com/nondejus/40c3f671d8a1c3615603d3fd1b06d092
+https://en.m.wikipedia.org/wiki/OpenSSL
 
 heartbleed PoC 
 https://github.com/nondejus/heartbleed-PoC
