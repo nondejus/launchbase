@@ -32,6 +32,9 @@ https://github.com/weidai11/cryptopp
 pycryptopp   
 https://tahoe-lafs.org/trac/pycryptopp
 
+cryptlib
+https://www.cs.auckland.ac.nz/~pgut001/cryptlib/
+
 bitcoin wiki
 https://en.bitcoin.it
 
