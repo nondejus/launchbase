@@ -518,9 +518,6 @@ https://github.com/Electric-Coin-Company/observatory
 cgminer
 https://github.com/ckolivas/cgminer
 
-cryptlib
-https://www.cs.auckland.ac.nz/~pgut001/cryptlib/
-
 openssl
 https://en.m.wikipedia.org/wiki/OpenSSL
 
