@@ -29,9 +29,6 @@ https://en.m.wikipedia.org/wiki/Proof_of_work
 crypto++
 https://github.com/weidai11/cryptopp
 
-cryptlib
-https://www.cs.auckland.ac.nz/~pgut001/cryptlib/
-
 bitcoin wiki
 https://en.bitcoin.it
 
@@ -517,6 +514,12 @@ https://github.com/Electric-Coin-Company/observatory
 
 cgminer
 https://github.com/ckolivas/cgminer
+
+cryptlib
+https://www.cs.auckland.ac.nz/~pgut001/cryptlib/
+
+openssl
+https://en.m.wikipedia.org/wiki/OpenSSL
 
 genesisblockzero
 https://github.com/Gnaf/GenesisBlockZero
