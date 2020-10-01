@@ -272,6 +272,9 @@ https://github.com/jnewbery/bitcoin-wireshark
 bc seedtool cli
 https://github.com/BlockchainCommons/bc-seedtool-cli
 
+TLS
+https://en.m.wikipedia.org/wiki/Transport_Layer_Security
+
 heartbleed vulnerability bitcoin
 https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptography
 
