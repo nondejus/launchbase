@@ -275,6 +275,9 @@ https://github.com/BlockchainCommons/bc-seedtool-cli
 TLS
 https://en.m.wikipedia.org/wiki/Transport_Layer_Security
 
+openssl
+https://en.m.wikipedia.org/wiki/OpenSSL
+
 heartbleed vulnerability bitcoin
 https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptography
 
