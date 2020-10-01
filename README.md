@@ -1049,6 +1049,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+xud exchange union
+https://github.com/ExchangeUnion/xud
+
 authorize.net in-app-payments
 https://github.com/nondejus/accept-sdk-ios
 
