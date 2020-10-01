@@ -863,11 +863,11 @@ https://en.m.wikipedia.org/wiki/Cryptocurrency
 ripple
 https://github.com/ripple
 
+xrp ledger full history
+https://xrpl.ws
+
 xrp ledger
 https://livenet.xrpl.org/
-
-xrpl ws
-https://xrpl.ws
 
 xumm sdk
 https://github.com/XRPL-Labs/XUMM-SDK
