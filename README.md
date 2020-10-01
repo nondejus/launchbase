@@ -989,6 +989,9 @@ https://forum.openzeppelin.com/t/openzeppelin-truffle-upgrades-step-by-step-tuto
 solidity-underhanded-contest
 https://solidity.ethereum.org/2020/09/21/solidity-underhanded-contest/
 
+solidity bytes utils
+https://github.com/GNSPS/solidity-bytes-utils
+
 DeFi
 https://github.com/nondejus/defi-sdk
 
