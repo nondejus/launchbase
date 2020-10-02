@@ -810,12 +810,6 @@ https://github.com/bitcoin-core/bitcoin-maintainer-tools
 bitcoincore
 https://doxygen.bitcoincore.org/
 
-conceptnet.iio
-http://conceptnet.io/
-
-conceptnet5
-https://github.com/nondejus/conceptnet5
-
 0x143C9F41D8F056DD PGP     
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
