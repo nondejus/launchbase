@@ -869,6 +869,9 @@ https://en.m.wikipedia.org/wiki/Freedom_Press
 blauwe aanslag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
+poortgebouw
+https://en.m.wikipedia.org/wiki/Poortgebouw
+
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
