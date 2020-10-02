@@ -846,6 +846,9 @@ https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
+crypto events 
+https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
+
 Hackers Congress Paralelni Polis 2020
 https://www.paralelnipolis.cz/event/hcpp20/
 
@@ -866,9 +869,6 @@ https://livenet.xrpl.org/
 
 xumm sdk
 https://github.com/XRPL-Labs/XUMM-SDK
-
-crypto events
-https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
 caitlinf long  
 https://caitlin-long.com/about-caitlin/
