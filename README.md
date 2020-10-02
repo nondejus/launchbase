@@ -1105,3 +1105,6 @@ https://github.com/expersso/ecb
 
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
+
+Hackers Congress Paralelni Polis 2020
+https://www.paralelnipolis.cz/event/hcpp20/
