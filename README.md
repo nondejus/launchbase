@@ -875,6 +875,9 @@ https://en.m.wikipedia.org/wiki/Poortgebouw
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
 
+de as (anarchistisch tijdschrift)
+https://www.tijdschrift-de-as.nl/
+
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
