@@ -866,11 +866,14 @@ https://en.m.wikipedia.org/wiki/Cryptocurrency
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
-blauwe aanslag
+blauwe aanslag den haag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
-poortgebouw
+poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
+
+anarchist bookfair amsterdam
+https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
 
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
