@@ -869,6 +869,9 @@ https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
+Hackers Congress Paralelni Polis 2020
+https://www.paralelnipolis.cz/event/hcpp20/
+
 history overview
 https://en.bitcoin.it/wiki/Category:History
 
@@ -1105,6 +1108,3 @@ https://github.com/expersso/ecb
 
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
-
-Hackers Congress Paralelni Polis 2020
-https://www.paralelnipolis.cz/event/hcpp20/
