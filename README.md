@@ -824,6 +824,9 @@ http://conceptnet.io/
 conceptnet5
 https://github.com/nondejus/conceptnet5
 
+0x143C9F41D8F056DD PGP     
+https://pgp.key-server.io/search/0x143C9F41D8F056DD
+
 bitcoinops taproot
 https://github.com/bitcoinops/taproot-workshop
 
@@ -1003,9 +1006,6 @@ https://github.com/sirin-labs/karma.js
 
 district0x
 https://district0x.io/
-
-0x143C9F41D8F056DD PGP     
-https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
 menefactory
 https://github.com/nondejus/memefactory
