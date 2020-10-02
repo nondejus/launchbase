@@ -455,11 +455,14 @@ https://github.com/cryptonotefoundation/cryptonote
 sdl collide
 https://sourceforge.net/projects/sdl-collide/
 
-nbitcoin
-https://github.com/MetacoSA/NBitcoin
-
 blender
 https://github.com/blender/blender
+
+blenderVR yofrankie
+https://github.com/BlenderVR/yofrankie
+
+nbitcoin
+https://github.com/MetacoSA/NBitcoin
 
 coinjoin
 https://github.com/calafou/coinjoin
