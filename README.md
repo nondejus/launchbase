@@ -452,6 +452,9 @@ https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
+sdl collide
+https://sourceforge.net/projects/sdl-collide/
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
