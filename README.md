@@ -878,6 +878,9 @@ https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterda
 de as (anarchistisch tijdschrift)
 https://www.tijdschrift-de-as.nl/
 
+hacktic
+https://hacktic.nl
+
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
