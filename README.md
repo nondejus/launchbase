@@ -452,6 +452,9 @@ https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
+simple directmedia layer
+https://en.m.wikipedia.org/wiki/Simple_DirectMedia_Layer
+
 sdl collide
 https://sourceforge.net/projects/sdl-collide/
 
