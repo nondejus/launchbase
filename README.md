@@ -389,6 +389,24 @@ https://en.m.wikipedia.org/wiki/Binance
 binance academy
 https://academy.binance.com/
 
+libra wiki
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
+
+libra
+https://github.com/libra/libra
+
+ripple
+https://github.com/ripple
+
+xrp ledger full history
+https://xrpl.ws
+
+xrp ledger
+https://livenet.xrpl.org/
+
+xumm sdk
+https://github.com/XRPL-Labs/XUMM-SDK
+
 bitcoinbook 
 https://github.com/bitcoinbook/bitcoinbook
 
@@ -400,7 +418,6 @@ https://github.com/reddit-archive/fullnode
 
 blocksize limit
 https://en.bitcoin.it/wiki/Block_size_limit_controversy#:~:text=Originally%2C%20Bitcoin's%20block%20size%20was,into%20Bitcoin%20by%20Satoshi%20Nakamoto.
-
 
 managed infrastructure for building on blockchain networks
 https://www.bloq.com/
@@ -777,6 +794,9 @@ https://github.com/jedmccaleb/stellarterm
 coinbase     
 https://coinbase.com
 
+caitlinf long  
+https://caitlin-long.com/about-caitlin/
+
 uniswap
 https://github.com/Uniswap/uniswap-lib
 
@@ -837,6 +857,12 @@ https://github.com/slush0/sierrachartfeed
 doctl
 https://github.com/nondejus/doctl
 
+history overview
+https://en.bitcoin.it/wiki/Category:History
+
+cryptocurrency
+https://en.m.wikipedia.org/wiki/Cryptocurrency
+
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
@@ -851,27 +877,6 @@ https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 
 Hackers Congress Paralelni Polis 2020
 https://www.paralelnipolis.cz/event/hcpp20/
-
-history overview
-https://en.bitcoin.it/wiki/Category:History
-
-cryptocurrency
-https://en.m.wikipedia.org/wiki/Cryptocurrency
-
-ripple
-https://github.com/ripple
-
-xrp ledger full history
-https://xrpl.ws
-
-xrp ledger
-https://livenet.xrpl.org/
-
-xumm sdk
-https://github.com/XRPL-Labs/XUMM-SDK
-
-caitlinf long  
-https://caitlin-long.com/about-caitlin/
 
 steamr
 https://github.com/nondejus/streamr-client-java
@@ -1061,12 +1066,6 @@ https://blog.libtorrent.org/2020/09/bittorrent-v2/
 
 ipfs
 https://github.com/ipfs/go-ipfs#system-requirements
-
-libra wiki
-https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
-
-libra
-https://github.com/libra/libra
 
 pycryptopp
 https://tahoe-lafs.org/trac/pycryptopp
