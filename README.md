@@ -614,6 +614,9 @@ https://github.com/BTCGPU/BTCGPU
 samouraiwallet
 https://samouraiwallet.com/
 
+ronindojo
+https://ronindojo.io
+
 gnupg
 https://github.com/gpg/gnupg
 
