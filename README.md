@@ -635,6 +635,9 @@ https://wiki.trezor.io
 trezor connect
 https://github.com/trezor/connect
 
+coldcatd ckcc protocol
+https://github.com/Coldcard/ckcc-protocol
+
 nano-x
 https://github.com/LedgerHQ/ledger-nano-s
 
