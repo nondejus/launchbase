@@ -596,7 +596,7 @@ https://github.com/mimblewimble/grin
 darkwallet
 https://github.com/darkwallet/darkwallet
 
-Blockstream Green Development Kit
+blockstream green development kit
 https://github.com/nondejus/gdk
 
 localbitcoins.com
@@ -622,6 +622,9 @@ https://github.com/nondejus/PrivateBin
 
 trezor hardware design
 https://github.com/trezor/trezor-hw
+
+trezor wiki
+https://wiki.trezor.io
 
 nano-x
 https://github.com/LedgerHQ/ledger-nano-s
