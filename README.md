@@ -1061,6 +1061,9 @@ https://github.com/ElementsProject/lightning
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
+lightningnetwork statistics
+https://1ml.com/statistics
+
 xud exchange union
 https://github.com/ExchangeUnion/xud
 
