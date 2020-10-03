@@ -452,6 +452,9 @@ https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
+Useful primitives for wallets
+https://github.com/nondejus/libwally-core
+
 simple directmedia layer
 https://en.m.wikipedia.org/wiki/Simple_DirectMedia_Layer
 
