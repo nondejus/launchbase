@@ -74,6 +74,9 @@ http://www.erisian.com.au/meetbot/bitcoin-core-dev/
 bitcoin core review   
 https://bitcoincore.reviews
 
+bitcoinacks
+https://bitcoinacks.com
+
 bitcoin.org            
 https://bitcoin.org
 
