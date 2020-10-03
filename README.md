@@ -626,6 +626,9 @@ https://github.com/trezor/trezor-hw
 trezor wiki
 https://wiki.trezor.io
 
+trezor connect
+https://github.com/trezor/connect
+
 nano-x
 https://github.com/LedgerHQ/ledger-nano-s
 
