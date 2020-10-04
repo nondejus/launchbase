@@ -914,6 +914,9 @@ https://en.m.wikipedia.org/wiki/Otpor
 guerilla art
 https://en.m.wikipedia.org/wiki/Guerrilla_art
 
+eff
+https://www.eff.org
+
 capture
 https://paolocirio.net/work/capture/
 
