@@ -938,6 +938,9 @@ https://hacktic.nl
 tor
 https://gitweb.torproject.org/tor.git
 
+bitcoin tor
+https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
+
 eff     
 https://www.eff.org
 
