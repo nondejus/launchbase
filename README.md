@@ -443,6 +443,9 @@ https://medium.com/
 bitcoin atm
 https://en.m.wikipedia.org/wiki/Bitcoin_ATM
 
+bleskomat v1 raspberrypi
+https://github.com/samotari/bleskomat-v1-raspberrypi
+
 pyton bitcoin server/node
 https://github.com/mikegogulski/caesure
 
