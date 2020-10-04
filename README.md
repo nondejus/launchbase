@@ -911,6 +911,9 @@ https://en.m.wikipedia.org/wiki/Guerrilla_art
 capture
 https://paolocirio.net/work/capture/
 
+Ban Facial Recognition Europe!
+https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-europe
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
