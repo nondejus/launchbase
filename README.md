@@ -902,14 +902,14 @@ https://en.m.wikipedia.org/wiki/Freedom_Press
 blauwe aanslag den haag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
-otpor!
-https://wiki.p2pfoundation.net/Otpor
-
-otpor wiki
+otpor
 https://en.m.wikipedia.org/wiki/Otpor
 
 guerilla art
 https://en.m.wikipedia.org/wiki/Guerrilla_art
+
+capture
+https://paolocirio.net/work/capture/
 
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
