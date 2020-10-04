@@ -1073,6 +1073,9 @@ https://github.com/0xProject/OpenZKP
 bitcoingold
 https://bitcoingold.org/
 
+azure blockchain projects
+https://github.com/Azure/azure-blockchain-projects
+
 confidential transactions
 https://elementsproject.org/features/confidential-transactions
 
