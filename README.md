@@ -939,6 +939,9 @@ tor
 https://gitweb.torproject.org/tor.git
 
 bitcoin tor
+https://en.bitcoin.it/wiki/Tor
+
+bitcoin core tor
 https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
 
 eff     
