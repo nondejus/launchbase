@@ -896,6 +896,9 @@ https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 otpor!
 https://wiki.p2pfoundation.net/Otpor
 
+guerilla art
+https://en.m.wikipedia.org/wiki/Guerrilla_art
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
