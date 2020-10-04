@@ -938,6 +938,9 @@ https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
 Hackers Congress Paralelni Polis 2020
 https://www.paralelnipolis.cz/event/hcpp20/
 
+cryptohippie
+http://cryptohippie.net
+
 steamr
 https://github.com/nondejus/streamr-client-java
 
