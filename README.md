@@ -1151,5 +1151,8 @@ https://github.com/nondejus/simplicity
 ecb
 https://github.com/expersso/ecb
 
+digital euro
+https://www.ecb.europa.eu/euro/html/digitaleuro.en.html
+
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
