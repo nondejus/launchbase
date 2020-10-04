@@ -893,6 +893,9 @@ https://en.m.wikipedia.org/wiki/Freedom_Press
 blauwe aanslag den haag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
+otpor!
+https://wiki.p2pfoundation.net/Otpor
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
