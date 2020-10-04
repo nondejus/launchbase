@@ -914,9 +914,6 @@ https://en.m.wikipedia.org/wiki/Otpor
 guerilla art
 https://en.m.wikipedia.org/wiki/Guerrilla_art
 
-eff
-https://www.eff.org
-
 capture
 https://paolocirio.net/work/capture/
 
@@ -937,6 +934,9 @@ https://en.m.wikipedia.org/wiki/Bound_Together
 
 hacktic    
 https://hacktic.nl
+
+eff
+https://www.eff.org
 
 crypto events 
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
