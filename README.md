@@ -80,6 +80,9 @@ https://bitcoinacks.com
 bitcoin.org            
 https://bitcoin.org
 
+bitcoin dot org
+https://github.com/bitcoin-dot-org/Bitcoin.org
+
 bitcoin forum.org
 https://bitcointalk.org/
 
