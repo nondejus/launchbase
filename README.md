@@ -632,6 +632,9 @@ https://github.com/nondejus/ZRTPCPP
 privatebin
 https://github.com/nondejus/PrivateBin
 
+contactless smart card
+https://en.m.wikipedia.org/wiki/Contactless_smart_card
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
