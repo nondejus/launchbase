@@ -476,6 +476,9 @@ https://github.com/BlenderVR/yofrankie
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
+anonymously create joint shared transactions using blind signatures
+https://github.com/maaku/coinjoin
+
 coinjoin
 https://github.com/calafou/coinjoin
 
