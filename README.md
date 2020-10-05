@@ -1052,6 +1052,12 @@ https://txpool.zengo.com/#0,24h
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
+openzkp
+https://github.com/0xProject/OpenZKP
+
+gnark
+https://github.com/ConsenSys/gnark
+
 ethereum miningpoolhub
 https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 
@@ -1121,9 +1127,6 @@ https://www.magicalcryptofriends.com/about
 magical cryptoconference 2020
 https://www.magicalcryptoconference.com/2020-vr
 
-openzkp
-https://github.com/0xProject/OpenZKP
-
 bitcoingold
 https://bitcoingold.org/
 
@@ -1192,9 +1195,6 @@ https://tahoe-lafs.org/trac/pycryptopp
 
 lnbook
 https://github.com/cdecker/lnbook
-
-gnark
-https://github.com/ConsenSys/gnark
 
 simplicity
 https://github.com/nondejus/simplicity
