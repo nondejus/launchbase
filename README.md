@@ -20,10 +20,10 @@ https://nakamotoinstitute.org
 RPOW
 https://github.com/NakamotoInstitute/RPOW
 
-hal finney message
-hal finney 1992 https://cryptome.org/2014/09/hal-finney-cpunks-1992.htm
-
 hal finney
+https://cryptome.org/2014/09/hal-finney-cpunks-1992.htm
+
+hal finney bc_key
 https://github.com/halfinney/bc_key
 
 proof of work
