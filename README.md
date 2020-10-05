@@ -137,6 +137,9 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
+bugzilla
+https://gcc.gnu.org/bugzilla/
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
