@@ -1136,6 +1136,9 @@ https://github.com/Blockstream/aqua_ios
 c-lightning
 https://github.com/ElementsProject/lightning
 
+node lightning
+https://github.com/nondejus/node-lightning
+
 lightningnetwork
 https://github.com/lightningnetwork/lnd
 
