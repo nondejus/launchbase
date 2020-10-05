@@ -941,6 +941,9 @@ https://github.com/ipfs/go-ipfs#system-requirements
 pycryptopp
 https://tahoe-lafs.org/trac/pycryptopp
 
+angela merkel - i lived in a squat
+https://www.thelocal.de/20080227/10367
+
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
