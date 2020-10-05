@@ -500,6 +500,9 @@ https://github.com/BlenderVR/yofrankie
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
+joinmarket client
+https://github.com/JoinMarket-Org/joinmarket-clientserver
+
 anonymously create joint shared transactions using blind signatures
 https://github.com/maaku/coinjoin
 
