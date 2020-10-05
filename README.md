@@ -674,8 +674,11 @@ https://github.com/trezor/connect
 coldcatd ckcc protocol
 https://github.com/Coldcard/ckcc-protocol
 
-nano-x
+nano-s
 https://github.com/LedgerHQ/ledger-nano-s
+
+app bitcoin nano-s
+https://github.com/LedgerHQ/app-bitcoin
 
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
