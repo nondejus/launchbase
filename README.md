@@ -917,6 +917,21 @@ https://en.bitcoin.it/wiki/Category:History
 cryptocurrency
 https://en.m.wikipedia.org/wiki/Cryptocurrency
 
+chia           
+https://www.chia.net
+
+chia bip 158
+https://github.com/Chia-Network/chiabip158
+
+bittorrent v2
+https://blog.libtorrent.org/2020/09/bittorrent-v2/
+
+ipfs
+https://github.com/ipfs/go-ipfs#system-requirements
+
+pycryptopp
+https://tahoe-lafs.org/trac/pycryptopp
+
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
@@ -1172,29 +1187,14 @@ https://1ml.com/statistics
 raspiblitz
 https://github.com/rootzoll/raspiblitz
 
+lnbook
+https://github.com/cdecker/lnbook
+
 xud exchange union
 https://github.com/ExchangeUnion/xud
 
 authorize.net in-app-payments
 https://github.com/nondejus/accept-sdk-ios
-
-chia           
-https://www.chia.net
-
-chia bip 158
-https://github.com/Chia-Network/chiabip158
-
-bittorrent v2
-https://blog.libtorrent.org/2020/09/bittorrent-v2/
-
-ipfs
-https://github.com/ipfs/go-ipfs#system-requirements
-
-pycryptopp
-https://tahoe-lafs.org/trac/pycryptopp
-
-lnbook
-https://github.com/cdecker/lnbook
 
 simplicity
 https://github.com/nondejus/simplicity
