@@ -983,6 +983,9 @@ https://github.com/nondejus/streamr-client-java
 smart contract
 https://en.m.wikipedia.org/wiki/Smart_contract
 
+capstone
+https://github.com/aquynh/capstone
+
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
 
