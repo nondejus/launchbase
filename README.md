@@ -38,6 +38,9 @@ https://en.bitcoin.it
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
 
+Y2038
+https://en.m.wikipedia.org/wiki/Year_2038_problem
+
 genesis block
 https://en.bitcoin.it/wiki/Genesis_block
 
@@ -91,9 +94,6 @@ https://bitcointalk.org/
 
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
-
-Y2038
-https://en.m.wikipedia.org/wiki/Year_2038_problem
 
 bitcoin network graph
 http://bitcoin.sipa.be/
