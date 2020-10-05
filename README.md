@@ -503,6 +503,9 @@ https://github.com/maaku/coinjoin
 coinjoin
 https://github.com/calafou/coinjoin
 
+whirlpool samouraiwallet chaumian coinjoin
+https://github.com/Samourai-Wallet/Whirlpool
+
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
