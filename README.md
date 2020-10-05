@@ -95,6 +95,9 @@ https://bitcointalk.org/
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
+bitcoincharts
+https://bitcoincharts.com/about/
+
 bitcoin network graph
 http://bitcoin.sipa.be/
 
