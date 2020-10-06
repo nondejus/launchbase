@@ -1157,6 +1157,9 @@ https://app.uniswap.org
 DeFi
 https://github.com/nondejus/defi-sdk
 
+sovryn
+https://sovryn.app
+
 peggy
 https://github.com/ProxideFi/peggy
 
