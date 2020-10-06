@@ -983,6 +983,9 @@ https://www.tijdschrift-de-as.nl/
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
+ccc
+https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
+
 hacktic    
 https://hacktic.nl
 
