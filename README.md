@@ -995,6 +995,9 @@ https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
 hacktic    
 https://hacktic.nl
 
+dblp
+https://dblp.uni-trier.de/pid/b/MBellare.html
+
 tor
 https://gitweb.torproject.org/tor.git
 
