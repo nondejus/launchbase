@@ -161,6 +161,12 @@ https://github.com/satoshilabs/slips
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
+stack exchange wiki
+https://en.m.wikipedia.org/wiki/Stack_Exchange
+
+stack exchange
+https://crypto.stackexchange.com
+
 gitian      
 https://gitian.org
 
