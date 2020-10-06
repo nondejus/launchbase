@@ -509,8 +509,11 @@ https://github.com/BlenderVR/yofrankie
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
-nft
+NFT
 https://academy.binance.com/en/articles/a-guide-to-crypto-collectibles-and-non-fungible-tokens-nfts
+
+BEP 7 NFT
+https://github.com/amazingandyyy/BEPs/blob/new-proposal/BEP7.md
 
 joinmarket client
 https://github.com/JoinMarket-Org/joinmarket-clientserver
