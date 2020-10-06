@@ -512,6 +512,9 @@ https://github.com/MetacoSA/NBitcoin
 BEP 7 NFT
 https://github.com/amazingandyyy/BEPs/blob/new-proposal/BEP7.md
 
+trustwallet
+https://github.com/trustwallet/wallet-core
+
 joinmarket client
 https://github.com/JoinMarket-Org/joinmarket-clientserver
 
