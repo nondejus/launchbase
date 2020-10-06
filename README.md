@@ -989,11 +989,14 @@ https://www.tijdschrift-de-as.nl/
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
 
-ccc
-https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
-
 hacktic    
 https://hacktic.nl
+
+ccc wiki
+https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
+
+ccc
+https://www.ccc.de
 
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
