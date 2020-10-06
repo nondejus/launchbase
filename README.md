@@ -374,6 +374,9 @@ https://www.mtgox.com
 mtgox wiki
 https://en.m.wikipedia.org/wiki/Mt._Gox
 
+tradehill
+https://github.com/sferik/tradehill
+
 intersango 
 https://github.com/nondejus/intersango
 
