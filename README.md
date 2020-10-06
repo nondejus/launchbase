@@ -509,6 +509,9 @@ https://github.com/BlenderVR/yofrankie
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
+nft
+https://academy.binance.com/en/articles/a-guide-to-crypto-collectibles-and-non-fungible-tokens-nfts
+
 joinmarket client
 https://github.com/JoinMarket-Org/joinmarket-clientserver
 
