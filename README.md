@@ -29,6 +29,9 @@ https://github.com/halfinney/bc_key
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
 
+wei dai
+http://www.weidai.com/bmoney.txt
+
 crypto++
 https://github.com/weidai11/cryptopp
 
