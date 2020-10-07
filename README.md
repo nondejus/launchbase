@@ -321,6 +321,9 @@ https://github.com/trezor/connect
 trezor wallet account addresses
 https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
 
+cryptosteel
+https://github.com/cryptosteel/cryptosteel
+
 slushpool
 https://slushpool.com/home/
 
