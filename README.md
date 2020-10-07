@@ -237,6 +237,9 @@ https://en.m.wikipedia.org/wiki/CUDA
 x64dbg
 https://github.com/nondejus/x64dbg
 
+bitcoin mining
+https://en.bitcoin.it/wiki/Mining_software
+
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
 
