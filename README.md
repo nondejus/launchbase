@@ -318,6 +318,9 @@ https://wiki.trezor.io
 trezor connect
 https://github.com/trezor/connect
 
+trezor wallet account addresses
+https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
+
 slushpool
 https://slushpool.com/home/
 
