@@ -152,6 +152,15 @@ https://gcc.gnu.org/bugzilla/
 bug bounty
 https://hackerone.com/github?type=team
 
+loic
+https://github.com/PresidentObama/LOIC
+
+bitcoinfoundation
+https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
+
+bitcoinfoundation org
+https://bitcoinfoundation.org/
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
@@ -358,15 +367,6 @@ https://github.com/ghostguns/80lower
 
 supercop
 http://bench.cr.yp.to/supercop.html
-
-loic
-https://github.com/PresidentObama/LOIC
-
-bitcoinfoundation
-https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
-
-bitcoinfoundation org
-https://bitcoinfoundation.org/
 
 dhs mtgox warrant
 https://github.com/therealplato/dhs-mtgox-warrant
