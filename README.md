@@ -404,6 +404,9 @@ https://en.m.wikipedia.org/wiki/BTC-e
 btc-e api
 https://github.com/CodeReclaimers/btce-api
 
+coingecko api
+https://www.coingecko.com/api/documentations/v3
+
 satoshi dice
 https://en.bitcoin.it/wiki/Satoshi_Dice
 
