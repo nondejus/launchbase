@@ -149,6 +149,9 @@ https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 bugzilla
 https://gcc.gnu.org/bugzilla/
 
+bug bounty
+https://hackerone.com/github?type=team
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
