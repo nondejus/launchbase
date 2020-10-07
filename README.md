@@ -774,6 +774,9 @@ https://slushpool.com/home/
 linode hack
 https://pastebin.com/UW7iT5fj
 
+linode hack discussion
+https://news.ycombinator.com/item?id=3654110
+
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
 
