@@ -771,6 +771,9 @@ https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
 slushpool
 https://slushpool.com/home/
 
+slushpool linode
+https://news.ycombinator.com/item?id=3654110
+
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
 
