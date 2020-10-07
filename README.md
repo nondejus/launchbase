@@ -1,8 +1,10 @@
 launchbase
 ==========
 
+cypherpunk
+https://en.m.wikipedia.org/wiki/Cypherpunk
 
-cypherpunks
+cypherpunk mailing list
 https://lists.cpunks.org/pipermail/cypherpunks/
 
 bitcoin-dev
