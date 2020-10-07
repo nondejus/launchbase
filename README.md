@@ -437,8 +437,11 @@ https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 libra
 https://github.com/libra/libra
 
-ripple
-https://github.com/ripple
+ripple wiki
+https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
+
+rippled
+https://github.com/ripple/rippled/commit/e9ae645e3b94c6ebeec36e4f8f83aaf519ea7e12
 
 xrp ledger full history
 https://xrpl.ws
