@@ -1244,6 +1244,9 @@ https://github.com/nondejus/simplicity
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
 
+eurooean troika
+https://en.m.wikipedia.org/wiki/European_troika
+
 ecb
 https://github.com/expersso/ecb
 
