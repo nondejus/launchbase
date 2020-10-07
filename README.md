@@ -92,6 +92,12 @@ https://github.com/bitcoin-dot-org/Bitcoin.org
 bitcoin forum.org
 https://bitcointalk.org/
 
+script   
+https://en.bitcoin.it/wiki/Script
+
+btcdeb   
+https://github.com/bitcoin-core/btcdeb
+
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
@@ -283,12 +289,6 @@ https://github.com/samr7/vanitygen
 
 vanitysearch
 https://github.com/JeanLucPons/VanitySearch
-
-script 
-https://en.bitcoin.it/wiki/Script
-
-btcdeb
-https://github.com/bitcoin-core/btcdeb
 
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
