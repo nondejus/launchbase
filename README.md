@@ -1,8 +1,13 @@
 launchbase
 ==========
 
+
+
 cypherpunk
 https://en.m.wikipedia.org/wiki/Cypherpunk
+
+cypherpunk manifesto
+https://www.activism.net/cypherpunk/manifesto.html
 
 cypherpunk mailing list
 https://lists.cpunks.org/pipermail/cypherpunks/
