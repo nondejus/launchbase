@@ -287,6 +287,9 @@ https://github.com/JeanLucPons/VanitySearch
 script 
 https://en.bitcoin.it/wiki/Script
 
+btcdeb
+https://github.com/bitcoin-core/btcdeb
+
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
 
