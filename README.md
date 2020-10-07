@@ -294,6 +294,39 @@ http://web.archive.org/web/20130120064812/http://en.m.wikipedia.org/wiki/Bitcoin
 block 0
 http://web.archive.org/web/20130114015639/http://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 
+pushpool
+https://github.com/jgarzik/pushpool
+
+mining.bitcoin.cz 
+https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
+
+linode hack  
+https://pastebin.com/UW7iT5fj
+
+linode hack discussion
+https://news.ycombinator.com/item?id=3654110
+
+slushpool
+https://slushpool.com/home/
+
+stratum mining proxy
+https://github.com/slush0/stratum-mining-proxy
+
+btcguild
+https://web.archive.org/web/20110727214951/http://btcguild.com/
+
+btcguild bitcointalk
+https://bitcointalk.org/index.php?topic=7760.0
+
+p2ppool
+https://github.com/p2pool/p2pool
+
+p2ppool ui
+https://github.com/justino/p2pool-ui-punchy
+
+eloipool
+https://github.com/luke-jr/eloipool
+
 vanitygen
 https://github.com/samr7/vanitygen
 
@@ -762,38 +795,6 @@ https://github.com/ahmedbodi/miningcore
 bitcoin pooled mining reward system
 https://github.com/nondejus/bitcoin-pooled-mining-reward-system
 
-pushpool
-https://github.com/jgarzik/pushpool
-
-mining.bitcoin.cz 
-https://web.archive.org/web/20110923151034/http://mining.bitcoin.cz/
-
-linode hack  
-https://pastebin.com/UW7iT5fj
-
-linode hack discussion
-https://news.ycombinator.com/item?id=3654110
-
-slushpool
-https://slushpool.com/home/
-
-stratum mining proxy
-https://github.com/slush0/stratum-mining-proxy
-
-btcguild
-https://web.archive.org/web/20110727214951/http://btcguild.com/
-
-btcguild bitcointalk
-https://bitcointalk.org/index.php?topic=7760.0
-
-p2ppool
-https://github.com/p2pool/p2pool
-
-p2ppool ui
-https://github.com/justino/p2pool-ui-punchy
-
-eloipool
-https://github.com/luke-jr/eloipool
 
 wizstats
 https://github.com/wizkid057/wizstats
