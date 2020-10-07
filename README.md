@@ -309,6 +309,15 @@ https://pastebin.com/UW7iT5fj
 linode hack discussion
 https://news.ycombinator.com/item?id=3654110
 
+trezor hardware design
+https://github.com/trezor/trezor-hw
+
+trezor wiki
+https://wiki.trezor.io
+
+trezor connect
+https://github.com/trezor/connect
+
 slushpool
 https://slushpool.com/home/
 
@@ -740,15 +749,6 @@ https://github.com/nondejus/PrivateBin
 
 contactless smart card
 https://en.m.wikipedia.org/wiki/Contactless_smart_card
-
-trezor hardware design
-https://github.com/trezor/trezor-hw
-
-trezor wiki
-https://wiki.trezor.io
-
-trezor connect
-https://github.com/trezor/connect
 
 coldcatd ckcc protocol
 https://github.com/Coldcard/ckcc-protocol
