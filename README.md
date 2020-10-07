@@ -1182,6 +1182,9 @@ https://solidity.ethereum.org/2020/09/21/solidity-underhanded-contest/
 solidity bytes utils
 https://github.com/GNSPS/solidity-bytes-utils
 
+solidity bug
+https://solidity.ethereum.org/2020/10/07/solidity-dynamic-array-cleanup-bug/
+
 app uniswap
 https://app.uniswap.org
 
