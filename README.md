@@ -105,6 +105,9 @@ https://bitcointalk.org
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
 
+bitcoin core secp256k1
+https://github.com/bitcoin-core/secp256k1
+
 script   
 https://en.bitcoin.it/wiki/Script
 
