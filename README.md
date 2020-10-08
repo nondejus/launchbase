@@ -189,6 +189,9 @@ https://github.com/satoshilabs/slips
 mullvad
 https://github.com/mullvad/mullvadvpn-app
 
+mullvad bitcointalk
+https://bitcointalk.org/index.php?topic=5801.0
+
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
 
