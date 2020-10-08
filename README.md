@@ -100,7 +100,10 @@ bitcoin dot org
 https://github.com/bitcoin-dot-org/Bitcoin.org
 
 bitcoin forum.org
-https://bitcointalk.org/
+https://bitcointalk.org
+
+secp256k1
+https://en.bitcoin.it/wiki/Secp256k1
 
 script   
 https://en.bitcoin.it/wiki/Script
