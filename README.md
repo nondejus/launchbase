@@ -1018,6 +1018,9 @@ https://github.com/occipital/openni2
 kiinect 2 face hd
 https://github.com/Vangos/kinect-2-face-hd
 
+unity3d kinect
+https://hackaday.io/project/13213-unity3d-and-kinect-for-face-tracking
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
