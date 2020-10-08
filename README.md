@@ -1008,6 +1008,9 @@ https://openkinect.org/wiki/Main_Page
 openni2
 https://github.com/occipital/openni2
 
+kiinect 2 face hd
+https://github.com/Vangos/kinect-2-face-hd
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
