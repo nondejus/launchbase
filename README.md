@@ -1003,9 +1003,6 @@ https://en.m.wikipedia.org/wiki/Otpor
 guerilla art
 https://en.m.wikipedia.org/wiki/Guerrilla_art
 
-capture
-https://paolocirio.net/work/capture/
-
 openkinect
 https://openkinect.org/wiki/Main_Page
 
@@ -1023,6 +1020,9 @@ https://github.com/indyjo/bitwrk
 
 ban facial recognition europe!  
 https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-europe
+
+capture
+https://paolocirio.net/work/capture/
 
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
