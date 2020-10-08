@@ -1113,6 +1113,9 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 busd contract
 https://github.com/nondejus/busd-contract
 
+usdn erc-20
+https://telegra.ph/Almost-everything-you-should-know-about-USDN-ERC-20-and-how-to-get-it-10-08
+
 compound-protocol
 https://github.com/nondejus/compound-protocol
 
