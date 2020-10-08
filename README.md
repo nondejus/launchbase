@@ -1021,6 +1021,9 @@ https://github.com/Vangos/kinect-2-face-hd
 unity3d kinect
 https://hackaday.io/project/13213-unity3d-and-kinect-for-face-tracking
 
+blender 3d
+https://github.com/indyjo/bitwrk
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
