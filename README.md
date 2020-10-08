@@ -1299,3 +1299,5 @@ https://github.com/expersso/ecb
 digital euro
 https://www.ecb.europa.eu/euro/html/digitaleuro.en.html
 
+cbdc
+https://en.m.wikipedia.org/wiki/Central_bank_digital_currency
