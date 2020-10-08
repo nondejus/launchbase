@@ -183,7 +183,13 @@ https://github.com/bitcoin/bips
 bip 0050
 https://en.bitcoin.it/wiki/BIP_0050
 
-bitcoin block size limit
+bitcoin scalability
+https://en.m.wikipedia.org/wiki/Bitcoin_scalability_problem
+
+blocksize limit
+https://en.bitcoin.it/wiki/Block_size_limit_controversy#:~:text=Originally%2C%20Bitcoin's%20block%20size%20was,into%20Bitcoin%20by%20Satoshi%20Nakamoto.
+
+blocksize limit bitcointalk
 https://bitcointalk.org/index.php?topic=1347.0
 
 satoshilabs slips
@@ -510,9 +516,6 @@ https://github.com/trezor/blockbook
 reddit javascript bitcoin library
 https://github.com/reddit-archive/fullnode
 
-blocksize limit
-https://en.bitcoin.it/wiki/Block_size_limit_controversy#:~:text=Originally%2C%20Bitcoin's%20block%20size%20was,into%20Bitcoin%20by%20Satoshi%20Nakamoto.
-
 managed infrastructure for building on blockchain networks
 https://www.bloq.com/
 
@@ -668,9 +671,6 @@ https://github.com/dmatlack/cuda-rsa
 
 reaper prime
 https://github.com/nondejus/Reaper_prime
-
-bitcoin scalability
-https://en.m.wikipedia.org/wiki/Bitcoin_scalability_problem
 
 bitcoinxt
 https://github.com/gavinandresen/bitcoinxt
