@@ -492,12 +492,6 @@ https://en.m.wikipedia.org/wiki/Binance
 binance academy
 https://academy.binance.com/
 
-libra wiki
-https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
-
-libra
-https://github.com/libra/libra
-
 ripple wiki
 https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
 
@@ -1286,6 +1280,12 @@ https://github.com/nondejus/accept-sdk-ios
 
 simplicity
 https://github.com/nondejus/simplicity
+
+libra wiki
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
+
+libra
+https://github.com/libra/libra
 
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
