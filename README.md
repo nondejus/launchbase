@@ -1005,6 +1005,9 @@ https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-eu
 openkinect
 https://openkinect.org/wiki/Main_Page
 
+openni2
+https://github.com/occipital/openni2
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
