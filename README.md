@@ -1288,6 +1288,9 @@ https://github.com/nondejus/accept-sdk-ios
 simplicity
 https://github.com/nondejus/simplicity
 
+web monetazation
+https://en.m.wikipedia.org/wiki/Website_monetization
+
 ripple wiki
 https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
 
@@ -1311,6 +1314,9 @@ https://interledger.org
 
 interledger open payments
 https://github.com/interledger/open-payments
+
+xpring sdk
+https://github.com/xpring-eng/Xpring-SDK
 
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
