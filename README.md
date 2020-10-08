@@ -183,6 +183,9 @@ https://github.com/bitcoin/bips
 bip 0050
 https://en.bitcoin.it/wiki/BIP_0050
 
+bitcoin block size limit
+https://bitcointalk.org/index.php?topic=1347.0
+
 satoshilabs slips
 https://github.com/satoshilabs/slips
 
