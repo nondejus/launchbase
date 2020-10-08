@@ -186,11 +186,14 @@ https://en.bitcoin.it/wiki/BIP_0050
 satoshilabs slips
 https://github.com/satoshilabs/slips
 
-mullvad
-https://github.com/mullvad/mullvadvpn-app
+mullvad wiki
+https://en.m.wikipedia.org/wiki/Mullvad
 
 mullvad bitcointalk
 https://bitcointalk.org/index.php?topic=5801.0
+
+mullvad
+https://github.com/mullvad/mullvadvpn-app
 
 irc freenode: #bitcoin-core-dev
 https://bitcoincore.org/en/meetings/
