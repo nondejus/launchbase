@@ -384,12 +384,6 @@ https://en.m.wikipedia.org/wiki/Transport_Layer_Security
 heartbleed vulnerability bitcoin
 https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptography
 
-colored coins wiki
-https://en.bitcoin.it/wiki/Colored_Coins
-
-colored coins sdk
-https://github.com/Colored-Coins/colored-coins-sdk
-
 uasf
 https://github.com/OPUASF/UASF
 
@@ -474,6 +468,12 @@ https://en.bitcoin.it/wiki/Satoshi_Dice
 satoshidice.com
 https://satoshidice.com
 
+colored coins wiki
+https://en.bitcoin.it/wiki/Colored_Coins
+
+colored coins sdk
+https://github.com/Colored-Coins/colored-coins-sdk
+
 bitcoimagazone wiki
 https://en.m.wikipedia.org/wiki/Bitcoin_Magazine
 
@@ -491,30 +491,6 @@ https://en.m.wikipedia.org/wiki/Binance
 
 binance academy
 https://academy.binance.com/
-
-ripple wiki
-https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
-
-rippled
-https://github.com/ripple/rippled/commit/e9ae645e3b94c6ebeec36e4f8f83aaf519ea7e12
-
-xrp ledger full history
-https://xrpl.ws
-
-xrp ledger
-https://livenet.xrpl.org/
-
-xumm sdk
-https://github.com/XRPL-Labs/XUMM-SDK
-
-xrpscan
-https://xrpscan.com
-
-interledger
-https://interledger.org
-
-interledger open payments
-https://github.com/interledger/open-payments
 
 bitcoinbook 
 https://github.com/bitcoinbook/bitcoinbook
@@ -1280,6 +1256,30 @@ https://github.com/nondejus/accept-sdk-ios
 
 simplicity
 https://github.com/nondejus/simplicity
+
+ripple wiki
+https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
+
+rippled
+https://github.com/ripple/rippled/commit/e9ae645e3b94c6ebeec36e4f8f83aaf519ea7e12
+
+xrp ledger full history
+https://xrpl.ws
+
+xrp ledger
+https://livenet.xrpl.org/
+
+xumm sdk
+https://github.com/XRPL-Labs/XUMM-SDK
+
+xrpscan
+https://xrpscan.com
+
+interledger
+https://interledger.org
+
+interledger open payments
+https://github.com/interledger/open-payments
 
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
