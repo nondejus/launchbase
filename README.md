@@ -1002,6 +1002,9 @@ https://paolocirio.net/work/capture/
 ban facial recognition europe!  
 https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-europe
 
+openkinect
+https://openkinect.org/wiki/Main_Page
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
