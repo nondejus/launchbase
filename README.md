@@ -1213,6 +1213,9 @@ https://solidity.ethereum.org/2020/10/07/solidity-dynamic-array-cleanup-bug/
 app uniswap
 https://app.uniswap.org
 
+uniswap v2
+https://uniswap.org/blog/uni/
+
 DeFi
 https://github.com/nondejus/defi-sdk
 
