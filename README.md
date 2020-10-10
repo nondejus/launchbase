@@ -183,6 +183,9 @@ https://en.bitcoin.it/wiki/Consensus
 libbitcoin consensus
 https://github.com/libbitcoin/libbitcoin-consensus
 
+>50% attack
+https://en.bitcoin.it/wiki/Majority_attack
+
 bug bounty
 https://hackerone.com/github?type=team
 
