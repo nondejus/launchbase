@@ -1035,6 +1035,9 @@ https://paolocirio.net/work/capture/
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
+nsa
+https://www.doorbraak.eu/gebladerte/11497f97.htm
+
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
 
