@@ -105,18 +105,6 @@ https://github.com/bitcoin-dot-org/Bitcoin.org
 bitcoin forum.org
 https://bitcointalk.org
 
-secp256k1
-https://en.bitcoin.it/wiki/Secp256k1
-
-bitcoin core secp256k1
-https://github.com/bitcoin-core/secp256k1
-
-script   
-https://en.bitcoin.it/wiki/Script
-
-btcdeb   
-https://github.com/bitcoin-core/btcdeb
-
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
@@ -176,6 +164,18 @@ https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
 bugzilla
 https://gcc.gnu.org/bugzilla/
+
+secp256k1
+https://en.bitcoin.it/wiki/Secp256k1
+
+bitcoin core secp256k1
+https://github.com/bitcoin-core/secp256k1
+
+script   
+https://en.bitcoin.it/wiki/Script
+
+btcdeb   
+https://github.com/bitcoin-core/btcdeb
 
 bug bounty
 https://hackerone.com/github?type=team
