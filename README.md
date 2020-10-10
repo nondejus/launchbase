@@ -1359,6 +1359,9 @@ https://en.m.wikipedia.org/wiki/Quantitative_easing
 eurooean troika
 https://en.m.wikipedia.org/wiki/European_troika
 
+austerity
+https://en.m.wikipedia.org/wiki/Austerity
+
 ecb
 https://github.com/expersso/ecb
 
