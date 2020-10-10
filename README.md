@@ -186,6 +186,9 @@ https://github.com/libbitcoin/libbitcoin-consensus
 51% attack
 https://en.bitcoin.it/wiki/Majority_attack
 
+The Byzantine Generals' Problem
+https://bitcointalk.org/oldSiteFiles/byzantine.html
+
 bug bounty
 https://hackerone.com/github?type=team
 
