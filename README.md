@@ -1038,8 +1038,11 @@ https://en.m.wikipedia.org/wiki/Poortgebouw
 nsa
 https://www.doorbraak.eu/gebladerte/11497f97.htm
 
-landbouwbelang
+landbouwbelang wiki
 https://en.m.wikipedia.org/wiki/Landbouwbelang_(squat)
+
+landbouwbelang
+https://landbouwbelang.org
 
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
