@@ -2,7 +2,8 @@ launchbase
 ==========
 
 
-anagram: 'a hook to satanism'
+anagram
+[a hook to satanism]
 
 
 cypherpunk
