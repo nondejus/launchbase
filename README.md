@@ -996,6 +996,9 @@ https://tahoe-lafs.org/trac/pycryptopp
 i lived in a squat
 https://www.thelocal.de/20080227/10367
 
+indymedia
+https://indymedia.org
+
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
