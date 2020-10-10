@@ -234,6 +234,9 @@ https://github.com/libvirt/libvirt
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
+casascius
+https://www.casascius.com/
+
 bitoin dot com
 https://en.m.wikipedia.org/wiki/Bitcoin.com
 
