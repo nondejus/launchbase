@@ -177,6 +177,12 @@ https://en.bitcoin.it/wiki/Script
 btcdeb   
 https://github.com/bitcoin-core/btcdeb
 
+bitcoin consensus
+https://en.bitcoin.it/wiki/Consensus
+
+libbitcoin consensus
+https://github.com/libbitcoin/libbitcoin-consensus
+
 bug bounty
 https://hackerone.com/github?type=team
 
