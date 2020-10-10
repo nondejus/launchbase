@@ -1347,6 +1347,9 @@ https://github.com/libra/libra
 hyperinflation
 https://en.m.wikipedia.org/wiki/Hyperinflation
 
+9 trillion
+https://news.bitcoin.com/9-trillion-in-stimulus-injections-the-feds-2020-pump-eclipses-two-centuries-of-usd-creation/
+
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
 
