@@ -1344,6 +1344,9 @@ https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 libra
 https://github.com/libra/libra
 
+hyperinflation
+https://en.m.wikipedia.org/wiki/Hyperinflation
+
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
 
