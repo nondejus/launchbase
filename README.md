@@ -507,9 +507,6 @@ https://en.bitcoin.it/wiki/Colored_Coins
 colored coins sdk
 https://github.com/Colored-Coins/colored-coins-sdk
 
-copcoin 0.1
-https://github.com/COPCoin/copcoin-0.1
-
 bitcoimagazone wiki
 https://en.m.wikipedia.org/wiki/Bitcoin_Magazine
 
