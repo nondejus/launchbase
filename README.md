@@ -1020,9 +1020,6 @@ https://www.thelocal.de/20080227/10367
 indymedia
 https://indymedia.org
 
-counterfeiting money and coining history
-http://www.capitalpunishmentuk.org/burning.html
-
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
@@ -1052,6 +1049,9 @@ https://github.com/Vangos/kinect-2-face-hd
 
 unity3d kinect
 https://hackaday.io/project/13213-unity3d-and-kinect-for-face-tracking
+
+counterfeiting money and coining history
+http://www.capitalpunishmentuk.org/burning.html
 
 blender 3d
 https://github.com/indyjo/bitwrk
