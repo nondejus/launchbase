@@ -1035,6 +1035,9 @@ https://en.m.wikipedia.org/wiki/Guerrilla_art
 surveillance
 https://en.m.wikipedia.org/wiki/Surveillance
 
+xkeyscore
+https://en.m.wikipedia.org/wiki/XKeyscore
+
 openkinect
 https://openkinect.org/wiki/Main_Page
 
