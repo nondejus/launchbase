@@ -1020,6 +1020,9 @@ https://www.thelocal.de/20080227/10367
 indymedia
 https://indymedia.org
 
+counterfeiting money and coining history
+http://www.capitalpunishmentuk.org/burning.html
+
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
