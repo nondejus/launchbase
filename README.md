@@ -174,6 +174,9 @@ https://github.com/bitcoin-core/secp256k1
 md5
 https://en.m.wikipedia.org/wiki/MD5
 
+ripemd160
+https://en.bitcoin.it/wiki/RIPEMD-160
+
 script   
 https://en.bitcoin.it/wiki/Script
 
