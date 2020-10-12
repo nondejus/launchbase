@@ -900,6 +900,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+huobi wiki
+https://en.m.wikipedia.org/wiki/Huobi
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
