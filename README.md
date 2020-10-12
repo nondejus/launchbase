@@ -1425,6 +1425,9 @@ https://en.m.wikipedia.org/wiki/Quantitative_easing
 eurooean troika
 https://en.m.wikipedia.org/wiki/European_troika
 
+legalty of bitcoin
+https://en.m.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
+
 austerity
 https://en.m.wikipedia.org/wiki/Austerity
 
