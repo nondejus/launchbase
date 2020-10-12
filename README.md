@@ -297,6 +297,9 @@ https://github.com/nondejus/x64dbg
 bitcoin mining
 https://en.bitcoin.it/wiki/Mining_software
 
+artforz
+https://en.bitcoin.it/wiki/ArtForz
+
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
 
