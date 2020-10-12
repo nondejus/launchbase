@@ -69,11 +69,14 @@ https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 bitcoin sourceforge
 https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
-wxwidgets
-https://github.com/wxWidgets/wxPython-Classic
+bitcoin changelog
+https://en.bitcoin.it/wiki/Changelog
 
 bitcoin 0.1.0
 https://github.com/fkysly/bitcoin0.1.0
+
+wxwidgets
+https://github.com/wxWidgets/wxPython-Classic
 
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
