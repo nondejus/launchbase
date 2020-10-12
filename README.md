@@ -375,6 +375,9 @@ https://pastebin.com/UW7iT5fj
 linode hack discussion
 https://news.ycombinator.com/item?id=3654110
 
+linode hack bitcointalk
+https://bitcointalk.org/index.php?topic=66916.0
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
