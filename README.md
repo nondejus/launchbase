@@ -589,7 +589,7 @@ cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
 jaxx
-https://github.com/MitchellCash/Jaxx-Codebase
+https://github.com/Jaxx-io/Jaxx
 
 Useful primitives for wallets
 https://github.com/nondejus/libwally-core
