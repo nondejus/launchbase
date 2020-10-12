@@ -1302,6 +1302,9 @@ https://github.com/nondejus/defi-sdk
 sovryn      
 https://sovryn.app
 
+curve contract
+https://github.com/curvefi/curve-contract
+
 peggy
 https://github.com/ProxideFi/peggy
 
