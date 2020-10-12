@@ -900,11 +900,14 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+huobi
+https://github.com/HuobiRDCenter/huobi_Python
+
 huobi wiki
 https://en.m.wikipedia.org/wiki/Huobi
 
-huobi
-https://github.com/HuobiRDCenter/huobi_Python
+huobi <dot> com
+https://huobi.com
 
 bitonic      
 https://bitonic.nl/en/
