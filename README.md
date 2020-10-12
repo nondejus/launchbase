@@ -159,6 +159,9 @@ https://github.com/nondejus/bitnodes
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
 
+bitcoin cve
+https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETURN_bugs
+
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
