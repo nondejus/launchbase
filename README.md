@@ -945,6 +945,9 @@ https://github.com/jedmccaleb/stellarterm
 coinbase     
 https://coinbase.com
 
+legality of bitcoin
+https://en.m.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
+
 caitlinf long  
 https://caitlin-long.com/about-caitlin/
 
@@ -1294,16 +1297,16 @@ app uniswap
 https://app.uniswap.org
 
 tokenized bitcoin (on ethereum)
-https://btconethereum.com/
+https://btconethereum.com
+
+curve contract
+https://github.com/curvefi/curve-contract
 
 DeFi
 https://github.com/nondejus/defi-sdk
 
 sovryn      
 https://sovryn.app
-
-curve contract
-https://github.com/curvefi/curve-contract
 
 peggy
 https://github.com/ProxideFi/peggy
@@ -1427,9 +1430,6 @@ https://en.m.wikipedia.org/wiki/Quantitative_easing
 
 eurooean troika
 https://en.m.wikipedia.org/wiki/European_troika
-
-legality of bitcoin
-https://en.m.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
 
 austerity
 https://en.m.wikipedia.org/wiki/Austerity
