@@ -303,6 +303,9 @@ https://en.bitcoin.it/wiki/Mining_software
 artforz
 https://en.bitcoin.it/wiki/ArtForz
 
+rpcminer mod
+https://github.com/colinrgodsey/rpcminer-mod
+
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
 
@@ -326,9 +329,6 @@ https://github.com/jgarzik/cpuminer
 
 diablominer
 https://github.com/Diablo-D3/DiabloMiner
-
-rpcminer mod
-https://github.com/colinrgodsey/rpcminer-mod
 
 cgminer
 https://github.com/ckolivas/cgminer
