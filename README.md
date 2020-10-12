@@ -588,6 +588,9 @@ https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
+jaxx
+https://github.com/MitchellCash/Jaxx-Codebase
+
 Useful primitives for wallets
 https://github.com/nondejus/libwally-core
 
