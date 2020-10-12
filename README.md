@@ -906,8 +906,8 @@ https://github.com/HuobiRDCenter/huobi_Python
 huobi wiki
 https://en.m.wikipedia.org/wiki/Huobi
 
-huobi <dot> com
-https://huobi.com
+huobi exchange
+https://m.huobi.com
 
 bitonic      
 https://bitonic.nl/en/
