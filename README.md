@@ -1143,6 +1143,9 @@ http://cryptohippie.net
 birmask
 https://bitmask.net
 
+atomic swap
+https://github.com/meherett/swap
+
 steamr
 https://github.com/nondejus/streamr-client-java
 
