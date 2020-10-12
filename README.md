@@ -105,10 +105,10 @@ https://bitcoin.org
 bitcoin dot org
 https://github.com/bitcoin-dot-org/Bitcoin.org
 
-bitcoin forum.org
+bitcoin forum
 https://bitcointalk.org
 
-bitcoin forum history
+bitcoin forum legacy
 https://bitcointalk.org/index.php?topic=4322078.0
 
 bitcoin api
