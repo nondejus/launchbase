@@ -498,6 +498,15 @@ https://www.mtgox.com
 mtgox wiki
 https://en.m.wikipedia.org/wiki/Mt._Gox
 
+btc-e
+https://en.m.wikipedia.org/wiki/BTC-e
+
+btc-e api
+https://github.com/CodeReclaimers/btce-api
+
+alexander vinnik
+http://crypto.marketswiki.com/index.php?title=Alexander_Vinnik
+
 tradehill
 https://github.com/sferik/tradehill
 
@@ -512,12 +521,6 @@ https://en.bitcoin.it/wiki/VirWoX
 
 iran bitcoin
 https://en.bitcoin.it/wiki/Iran_bitcoin
-
-btc-e
-https://en.m.wikipedia.org/wiki/BTC-e
-
-btc-e api
-https://github.com/CodeReclaimers/btce-api
 
 coingecko api
 https://www.coingecko.com/api/documentations/v3
