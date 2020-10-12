@@ -108,6 +108,9 @@ https://github.com/bitcoin-dot-org/Bitcoin.org
 bitcoin forum.org
 https://bitcointalk.org
 
+bitcoin forum history
+https://bitcointalk.org/index.php?topic=4322078.0
+
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
