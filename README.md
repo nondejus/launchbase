@@ -1041,6 +1041,9 @@ https://en.m.wikipedia.org/wiki/Surveillance
 xkeyscore
 https://en.m.wikipedia.org/wiki/XKeyscore
 
+openpgpjs
+https://github.com/nondejus/openpgpjs
+
 openkinect
 https://openkinect.org/wiki/Main_Page
 
