@@ -927,10 +927,10 @@ https://bisq.wiki/Main_Page
 bisq
 https://github.com/bisq-network/bisq
 
-bip 0044
+bisq wallet - bip 0044
 https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki
 
-slip 0044
+bisq registered coin type 142 - slip 0044
 https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
 bisq network stats
