@@ -1062,6 +1062,39 @@ https://en.bitcoin.it/wiki/Category:History
 cryptocurrency
 https://en.m.wikipedia.org/wiki/Cryptocurrency
 
+web monetazation
+https://en.m.wikipedia.org/wiki/Website_monetization
+
+ripple wiki
+https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
+
+rippled 
+https://github.com/ripple/rippled/commit/e9ae645e3b94c6ebeec36e4f8f83aaf519ea7e12
+
+xrp ledger full history 
+https://xrpl.ws
+
+xrp ledger 
+https://livenet.xrpl.org/
+
+xumm sdk 
+https://github.com/XRPL-Labs/XUMM-SDK
+
+xrpscan 
+https://xrpscan.com
+
+xrpchat 
+https://www.xrpchat.com
+
+interledger 
+https://interledger.org
+
+interledger open payments 
+https://github.com/interledger/open-payments
+
+xpring sdk 
+https://github.com/xpring-eng/Xpring-SDK
+
 chia           
 https://www.chia.net
 
@@ -1457,37 +1490,3 @@ https://github.com/nondejus/accept-sdk-ios
 
 simplicity
 https://github.com/nondejus/simplicity
-
-web monetazation
-https://en.m.wikipedia.org/wiki/Website_monetization
-
-ripple wiki
-https://en.m.wikipedia.org/wiki/Ripple_(payment_protocol)
-
-rippled
-https://github.com/ripple/rippled/commit/e9ae645e3b94c6ebeec36e4f8f83aaf519ea7e12
-
-xrp ledger full history
-https://xrpl.ws
-
-xrp ledger
-https://livenet.xrpl.org/
-
-xumm sdk
-https://github.com/XRPL-Labs/XUMM-SDK
-
-xrpscan
-https://xrpscan.com
-
-xrpchat
-https://www.xrpchat.com
-
-interledger
-https://interledger.org
-
-interledger open payments
-https://github.com/interledger/open-payments
-
-xpring sdk
-https://github.com/xpring-eng/Xpring-SDK
-
