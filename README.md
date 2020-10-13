@@ -921,6 +921,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+bisq
+https://github.com/bisq-network/bisq
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
