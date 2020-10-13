@@ -1077,9 +1077,6 @@ https://xrpl.ws
 xrp ledger 
 https://livenet.xrpl.org/
 
-xumm sdk 
-https://github.com/XRPL-Labs/XUMM-SDK
-
 xrpscan 
 https://xrpscan.com
 
@@ -1094,6 +1091,12 @@ https://github.com/interledger/open-payments
 
 xpring sdk 
 https://github.com/xpring-eng/Xpring-SDK
+
+xumm sdk 
+https://github.com/XRPL-Labs/XUMM-SDK
+
+authorize.net in-app-payments
+https://github.com/nondejus/accept-sdk-ios
 
 chia           
 https://www.chia.net
@@ -1484,9 +1487,6 @@ https://github.com/cdecker/lnbook
 
 xud exchange union
 https://github.com/ExchangeUnion/xud
-
-authorize.net in-app-payments
-https://github.com/nondejus/accept-sdk-ios
 
 simplicity
 https://github.com/nondejus/simplicity
