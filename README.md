@@ -459,6 +459,9 @@ https://github.com/OPUASF/UASF
 namecoin dns alternative based on bitcoin
 https://bluishcoder.co.nz/2011/05/12/namecoin-a-dns-alternative-based-on-bitcoin.html
 
+namecoin forum
+https://forum.namecoin.org
+
 namecoin 
 https://github.com/namecoin/namecoin-core
 
