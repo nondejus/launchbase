@@ -468,6 +468,12 @@ https://github.com/vinced/namecoin
 namecoin 
 https://github.com/namecoin/namecoin-core
 
+merged mining
+https://en.bitcoin.it/wiki/Merged_mining_specification
+
+lirecoin wiki
+https://en.m.wikipedia.org/wiki/Litecoin
+
 scryot
 https://en.m.wikipedia.org/wiki/Scrypt
 
