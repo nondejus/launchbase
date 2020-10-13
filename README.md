@@ -1245,6 +1245,9 @@ https://github.com/ethereum/cbc-casper/wiki
 erc20 token
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
+ethereum list tokens
+https://github.com/ethereum-lists/tokens
+
 busd contract
 https://github.com/nondejus/busd-contract
 
