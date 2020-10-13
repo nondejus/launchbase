@@ -108,7 +108,7 @@ https://github.com/bitcoin-dot-org/Bitcoin.org
 bitcoin forum
 https://bitcointalk.org
 
-EFF Toward Censorship-Resistant Digital Currency
+EFF 2011-01-20
 https://www.eff.org/deeplinks/2011/01/bitcoin-step-toward-censorship-resistant
 
 bitcoin forum legacy
