@@ -1116,17 +1116,8 @@ https://github.com/Vangos/kinect-2-face-hd
 unity3d kinect
 https://hackaday.io/project/13213-unity3d-and-kinect-for-face-tracking
 
-counterfeiting money and coining history
-http://www.capitalpunishmentuk.org/burning.html
-
 blender 3d
 https://github.com/indyjo/bitwrk
-
-ban facial recognition europe!  
-https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-europe
-
-capture
-https://paolocirio.net/work/capture/
 
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
@@ -1142,6 +1133,15 @@ https://www.ecb.europa.eu/euro/html/digitaleuro.en.html
 
 cbdc
 https://en.m.wikipedia.org/wiki/Central_bank_digital_currency
+
+ban facial recognition europe!  
+https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-europe
+
+capture
+https://paolocirio.net/work/capture/
+
+counterfeiting money and coining history
+http://www.capitalpunishmentuk.org/burning.html
 
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
