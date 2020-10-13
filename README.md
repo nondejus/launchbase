@@ -108,6 +108,9 @@ https://github.com/bitcoin-dot-org/Bitcoin.org
 bitcoin forum
 https://bitcointalk.org
 
+EFF Toward Censorship-Resistant Digital Currency
+https://www.eff.org/deeplinks/2011/01/bitcoin-step-toward-censorship-resistant
+
 bitcoin forum legacy
 https://bitcointalk.org/index.php?topic=4322078.0
 
@@ -1247,9 +1250,6 @@ https://github.com/OrchidTechnologies/orchid
 
 john gilmore (2010-08-15)
 https://web.archive.org/web/20100427075340/http://www.toad.com/gnu/
-
-eff     
-https://www.eff.org
 
 crypto events 
 https://cryptoevents.global/bitcoin-blockchain-conferences-in-europe/
