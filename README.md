@@ -507,6 +507,9 @@ https://en.bitcoin.it/wiki/Bitcoinica
 bitcoinica press release
 https://www.reddit.com/r/Bitcoin/comments/w6xen/bitcoinica_press_release/
 
+zhou tong
+https://cryptoanarchy.wiki/people/zhou-tong
+
 riseup
 https://riseup.net/en/about-us/press/fbi-seizes-anonymous-remailer
 
