@@ -1140,6 +1140,9 @@ https://en.m.wikipedia.org/wiki/Surveillance
 cointelpro
 https://en.m.wikipedia.org/wiki/COINTELPRO
 
+bitmessage
+https://github.com/Bitmessage/PyBitmessage
+
 xkeyscore
 https://en.m.wikipedia.org/wiki/XKeyscore
 
