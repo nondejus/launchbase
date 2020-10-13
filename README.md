@@ -462,6 +462,9 @@ https://bluishcoder.co.nz/2011/05/12/namecoin-a-dns-alternative-based-on-bitcoin
 namecoin forum
 https://forum.namecoin.org
 
+namecoin legacy
+https://github.com/vinced/namecoin
+
 namecoin 
 https://github.com/namecoin/namecoin-core
 
