@@ -456,6 +456,9 @@ https://www.elliptic.co/our-thinking/heartbleed-vulnerability-bitcoin-cryptograp
 uasf
 https://github.com/OPUASF/UASF
 
+namecoin dns alternative based on bitcoin
+https://bluishcoder.co.nz/2011/05/12/namecoin-a-dns-alternative-based-on-bitcoin.html
+
 namecoin 
 https://github.com/namecoin/namecoin-core
 
