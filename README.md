@@ -1464,6 +1464,9 @@ https://github.com/XRPL-Labs/XUMM-SDK
 xrpscan
 https://xrpscan.com
 
+xrpchat
+https://www.xrpchat.com
+
 interledger
 https://interledger.org
 
