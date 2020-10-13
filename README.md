@@ -1128,6 +1128,21 @@ https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-eu
 capture
 https://paolocirio.net/work/capture/
 
+libra wiki
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
+
+libra
+https://github.com/libra/libra
+
+ecb
+https://github.com/expersso/ecb
+
+digital euro
+https://www.ecb.europa.eu/euro/html/digitaleuro.en.html
+
+cbdc
+https://en.m.wikipedia.org/wiki/Central_bank_digital_currency
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
@@ -1458,12 +1473,6 @@ https://github.com/interledger/open-payments
 xpring sdk
 https://github.com/xpring-eng/Xpring-SDK
 
-libra wiki
-https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
-
-libra
-https://github.com/libra/libra
-
 hyperinflation
 https://en.m.wikipedia.org/wiki/Hyperinflation
 
@@ -1478,12 +1487,3 @@ https://en.m.wikipedia.org/wiki/European_troika
 
 austerity
 https://en.m.wikipedia.org/wiki/Austerity
-
-ecb
-https://github.com/expersso/ecb
-
-digital euro
-https://www.ecb.europa.eu/euro/html/digitaleuro.en.html
-
-cbdc
-https://en.m.wikipedia.org/wiki/Central_bank_digital_currency
