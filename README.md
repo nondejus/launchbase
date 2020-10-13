@@ -924,6 +924,9 @@ https://docs.kraken.com/websockets/
 bisq
 https://github.com/bisq-network/bisq
 
+bisq wiki
+https://bisq.wiki/Main_Page
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
