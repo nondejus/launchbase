@@ -921,11 +921,14 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+bisq wiki
+https://bisq.wiki/Main_Page
+
 bisq
 https://github.com/bisq-network/bisq
 
-bisq wiki
-https://bisq.wiki/Main_Page
+bisq network stats
+https://bisq.network/stats/
 
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
