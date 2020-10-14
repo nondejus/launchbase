@@ -1149,14 +1149,20 @@ https://en.m.wikipedia.org/wiki/Banksy
 lastplak
 http://lastplak.com/artists/
 
-surveillance
-https://en.m.wikipedia.org/wiki/Surveillance
+arabic calligraphy
+https://en.m.wikipedia.org/wiki/Arabic_calligraphy
+
+chinese calligraphy
+https://en.m.wikipedia.org/wiki/Chinese_calligraphy
 
 cointelpro
 https://en.m.wikipedia.org/wiki/COINTELPRO
 
 bitmessage
 https://github.com/Bitmessage/PyBitmessage
+
+surveillance
+https://en.m.wikipedia.org/wiki/Surveillance
 
 xkeyscore
 https://en.m.wikipedia.org/wiki/XKeyscore
