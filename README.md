@@ -261,9 +261,6 @@ https://crypto.stackexchange.com
 gitian      
 https://gitian.org
 
-libvirt
-https://github.com/libvirt/libvirt
-
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
 
