@@ -1152,6 +1152,9 @@ http://lastplak.com/artists/
 arabic calligraphy
 https://en.m.wikipedia.org/wiki/Arabic_calligraphy
 
+calligraffiti
+https://en.m.wikipedia.org/wiki/Calligraffiti
+
 chinese calligraphy
 https://en.m.wikipedia.org/wiki/Chinese_calligraphy
 
