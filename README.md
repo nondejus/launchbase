@@ -1143,6 +1143,9 @@ https://www.wikiart.org/en/stay-high-149
 trump blimp
 https://en.m.wikipedia.org/wiki/Donald_Trump_baby_balloon
 
+banksy
+https://en.m.wikipedia.org/wiki/Banksy
+
 lastplak
 http://lastplak.com/artists/
 
