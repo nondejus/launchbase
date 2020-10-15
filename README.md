@@ -48,6 +48,9 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
+bitcoin no-chargeback
+https://en.m.wikipedia.org/wiki/Chargeback
+
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
 
