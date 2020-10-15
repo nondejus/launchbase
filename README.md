@@ -48,8 +48,11 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
-bitcoin no-chargeback
+chargeback
 https://en.m.wikipedia.org/wiki/Chargeback
+
+irreversible transactions
+https://en.bitcoin.it/wiki/Irreversible_Transactions
 
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
