@@ -48,9 +48,6 @@ https://github.com/weidai11/cryptopp
 bitcoin wiki
 https://en.bitcoin.it
 
-chargeback
-https://en.m.wikipedia.org/wiki/Chargeback
-
 irreversible transactions
 https://en.bitcoin.it/wiki/Irreversible_Transactions
 
