@@ -1245,6 +1245,12 @@ https://en.m.wikipedia.org/wiki/Quantitative_easing
 eurooean troika
 https://en.m.wikipedia.org/wiki/European_troika
 
+asymmetric warfare
+https://en.m.wikipedia.org/wiki/Asymmetric_warfare
+
+artificial intelligence arms race
+https://en.m.wikipedia.org/wiki/Artificial_intelligence_arms_race
+
 austerity
 https://en.m.wikipedia.org/wiki/Austerity
 
@@ -1523,6 +1529,3 @@ https://github.com/ExchangeUnion/xud
 
 simplicity
 https://github.com/nondejus/simplicity
-
-artificial intelligence arms race
-https://en.m.wikipedia.org/wiki/Artificial_intelligence_arms_race
