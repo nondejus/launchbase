@@ -1116,14 +1116,14 @@ https://github.com/Chia-Network/chiabip158
 bittorrent v2
 https://blog.libtorrent.org/2020/09/bittorrent-v2/
 
-filecoin
-https://filecoin.io
-
 lotus
 https://github.com/filecoin-project/lotus
 
 ipfs
 https://github.com/ipfs/go-ipfs#system-requirements
+
+filecoin   
+https://filecoin.io
 
 pycryptopp
 https://tahoe-lafs.org/trac/pycryptopp
