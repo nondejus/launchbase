@@ -165,6 +165,9 @@ https://bitnodes.io/
 bitnodes 
 https://github.com/nondejus/bitnodes
 
+bitcoin atm radar
+https://coinatmradar.com
+
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
 
@@ -1520,9 +1523,6 @@ https://1ml.com/statistics
 
 raspiblitz
 https://github.com/rootzoll/raspiblitz
-
-coin atm radar
-https://coinatmradar.com/country/83/bitcoin-atm-greece/
 
 lnbook
 https://github.com/cdecker/lnbook
