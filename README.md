@@ -1524,6 +1524,9 @@ https://1ml.com/statistics
 raspiblitz
 https://github.com/rootzoll/raspiblitz
 
+adafruit blog
+https://blog.adafruit.com/category/bitcoin/
+
 lnbook
 https://github.com/cdecker/lnbook
 
