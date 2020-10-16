@@ -1523,3 +1523,6 @@ https://github.com/ExchangeUnion/xud
 
 simplicity
 https://github.com/nondejus/simplicity
+
+artificial intelligence arms race
+https://en.m.wikipedia.org/wiki/Artificial_intelligence_arms_race
