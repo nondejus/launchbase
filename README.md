@@ -153,6 +153,9 @@ https://bitcoinwisdom.io/
 bitcoin transaction fees 
 https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
 
+blockchaincommons
+https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
+
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
