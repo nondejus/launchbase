@@ -1551,6 +1551,9 @@ https://github.com/rootzoll/raspiblitz
 adafruit blog
 https://blog.adafruit.com/category/bitcoin/
 
+umbrel
+https://github.com/getumbrel/umbrel-os
+
 lnbook
 https://github.com/cdecker/lnbook
 
