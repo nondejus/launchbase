@@ -1293,6 +1293,9 @@ https://www.ccc.de
 followthemoney
 https://www.followthemoney.org
 
+afis biometric
+https://github.com/hjort/pgafis
+
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
 
