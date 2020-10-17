@@ -279,6 +279,9 @@ https://en.bitcoin.it/wiki/Tonal_Bitcoin
 bitcoin knots
 https://github.com/bitcoinknots/bitcoin
 
+spesmilo
+https://github.com/spesmilo/electrum
+
 casascius
 https://www.casascius.com
 
