@@ -1290,9 +1290,6 @@ https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
 ccc
 https://www.ccc.de
 
-followthemoney
-https://www.followthemoney.org
-
 afis biometric
 https://github.com/hjort/pgafis
 
