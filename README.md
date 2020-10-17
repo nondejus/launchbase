@@ -1296,6 +1296,9 @@ https://www.followthemoney.org
 afis biometric
 https://github.com/hjort/pgafis
 
+fingerprint scanner
+https://learn.adafruit.com/adafruit-optical-fingerprint-sensor?view=all
+
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
 
