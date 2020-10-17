@@ -276,6 +276,9 @@ https://cs.m.wikipedia.org/wiki/Bitcoin
 tonal bitcoin
 https://en.bitcoin.it/wiki/Tonal_Bitcoin
 
+bitcoin knots
+https://github.com/bitcoinknots/bitcoin
+
 casascius
 https://www.casascius.com
 
