@@ -1182,6 +1182,12 @@ https://github.com/Bitmessage/PyBitmessage
 surveillance
 https://en.m.wikipedia.org/wiki/Surveillance
 
+stroomstootwapen
+https://nl.m.wikipedia.org/wiki/Stroomstootwapen
+
+electroshock weapon
+https://en.m.wikipedia.org/wiki/Electroshock_weapon
+
 xkeyscore
 https://en.m.wikipedia.org/wiki/XKeyscore
 
