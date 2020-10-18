@@ -1562,3 +1562,6 @@ https://github.com/nondejus/simplicity
 
 noise protocol
 https://noiseprotocol.org
+
+noise explorer
+https://noiseexplorer.com
