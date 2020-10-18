@@ -117,6 +117,9 @@ https://bitcointalk.org/index.php?topic=4322078.0
 EFF 2011-01-20
 https://www.eff.org/deeplinks/2011/01/bitcoin-step-toward-censorship-resistant
 
+transcripts
+http://diyhpl.us/wiki/transcripts/
+
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
