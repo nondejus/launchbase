@@ -1559,3 +1559,6 @@ https://github.com/ExchangeUnion/xud
 
 simplicity
 https://github.com/nondejus/simplicity
+
+noise protocol
+https://noiseprotocol.org
