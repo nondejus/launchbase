@@ -1155,6 +1155,9 @@ https://indymedia.org
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
 
+steal this book
+http://tenant.net/Community/steal/steal.html
+
 blauwe aanslag den haag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
