@@ -327,9 +327,6 @@ https://github.com/nondejus/x64dbg
 bitcoin mining
 https://en.bitcoin.it/wiki/Mining_software
 
-OH! Open Hardware for Chip Designers
-https://github.com/aolofsson/oh
-
 artforz
 https://en.bitcoin.it/wiki/ArtForz
 
@@ -857,6 +854,9 @@ https://m.youtube.com/watch?v=y3dqhixzGVo
 
 bitcoin miningsim
 https://github.com/gavinandresen/bitcoin_miningsim
+
+open hardware for chip designers
+https://github.com/aolofsson/oh
 
 sha256 animation
 https://github.com/nondejus/sha256-animation
