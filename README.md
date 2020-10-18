@@ -327,6 +327,9 @@ https://github.com/nondejus/x64dbg
 bitcoin mining
 https://en.bitcoin.it/wiki/Mining_software
 
+OH! Open Hardware for Chip Designers
+https://github.com/aolofsson/oh
+
 artforz
 https://en.bitcoin.it/wiki/ArtForz
 
