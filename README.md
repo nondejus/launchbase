@@ -1248,8 +1248,8 @@ https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-eu
 capture
 https://paolocirio.net/work/capture/
 
-uncle fester
-http://www.unclefesterbooks.com/products.html
+(bookburning section) uncle fester
+http://www.unclefesterbooks.com
 
 counterfeiting money and coining history
 http://www.capitalpunishmentuk.org/burning.html
