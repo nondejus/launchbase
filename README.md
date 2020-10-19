@@ -84,6 +84,9 @@ https://github.com/wxWidgets/wxPython-Classic
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
 
+github wiki
+https://en.m.wikipedia.org/wiki/GitHub
+
 bitcoin github
 https://github.com/bitcoin/bitcoin
 
