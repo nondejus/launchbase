@@ -126,6 +126,9 @@ http://diyhpl.us/wiki/transcripts/
 bitcoin api
 https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
+univalue
+https://github.com/bitcoin-core/univalue
+
 bitcoincharts
 https://bitcoincharts.com/about/
 
