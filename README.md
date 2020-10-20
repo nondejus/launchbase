@@ -1143,8 +1143,8 @@ https://github.com/ipfs/go-ipfs#system-requirements
 filecoin   
 https://filecoin.io
 
-imkey
-https://github.com/consenlabs/imkey-core
+imtoken
+https://github.com/consenlabs/token-core
 
 pycryptopp
 https://tahoe-lafs.org/trac/pycryptopp
