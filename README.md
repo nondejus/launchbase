@@ -720,9 +720,6 @@ https://github.com/nondejus/heartbleed-PoC
 dusting attack 
 https://academy.binance.com/security/what-is-a-dusting-attack%3famp=1
 
-secp256k1
-https://github.com/sipa/secp256k1
-
 poclbm 
 https://github.com/m0mchil/poclbm
 
