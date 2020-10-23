@@ -84,6 +84,9 @@ https://github.com/wxWidgets/wxPython-Classic
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
 
+bitcoin transaction fee history
+https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
