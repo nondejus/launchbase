@@ -966,6 +966,9 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
+bithumb
+https://github.com/bithumb-pro/bthmcpp
+
 bisq wiki
 https://bisq.wiki/Main_Page
 
