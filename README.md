@@ -327,6 +327,9 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
+Tesla
+https://en.m.wikipedia.org/wiki/Tesla_(microarchitecture)
+
 x64dbg
 https://github.com/nondejus/x64dbg
 
