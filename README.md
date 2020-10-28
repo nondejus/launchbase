@@ -330,6 +330,9 @@ https://en.m.wikipedia.org/wiki/CUDA
 Tesla
 https://en.m.wikipedia.org/wiki/Tesla_(microarchitecture)
 
+Volta
+https://en.m.wikipedia.org/wiki/Volta_(microarchitecture)
+
 x64dbg
 https://github.com/nondejus/x64dbg
 
