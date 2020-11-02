@@ -72,6 +72,12 @@ https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 invoice address
 https://en.bitcoin.it/wiki/Invoice_address
 
+vanitygen
+https://github.com/samr7/vanitygen
+
+vanitysearch
+https://github.com/JeanLucPons/VanitySearch
+
 bitcoin sourceforge
 https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
@@ -452,12 +458,6 @@ https://github.com/justino/p2pool-ui-punchy
 
 eloipool
 https://github.com/luke-jr/eloipool
-
-vanitygen
-https://github.com/samr7/vanitygen
-
-vanitysearch
-https://github.com/JeanLucPons/VanitySearch
 
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
