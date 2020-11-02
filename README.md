@@ -69,6 +69,9 @@ https://en.m.wikipedia.org/wiki/Unspent_transaction_output
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
+invoice address
+https://en.bitcoin.it/wiki/Invoice_address
+
 bitcoin sourceforge
 https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
