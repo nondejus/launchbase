@@ -549,6 +549,9 @@ https://github.com/AgoristRadio/RealityExploitRoundtable
 ghostguns
 https://github.com/ghostguns/80lower
 
+the new radical
+https://en.m.wikipedia.org/wiki/The_New_Radical
+
 supercop
 http://bench.cr.yp.to/supercop.html
 
