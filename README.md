@@ -18,6 +18,9 @@ https://lists.cpunks.org/pipermail/cypherpunks/
 bitcoin-dev
 https://lists.ozlabs.org/pipermail/bitcoin-dev-moderation/
 
+bitcoin-core-dev
+https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-April/000000.html
+
 hashcash
 http://www.hashcash.org
 
