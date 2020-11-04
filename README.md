@@ -1317,6 +1317,9 @@ https://en.m.wikipedia.org/wiki/Austerity
 hacktic    
 https://hacktic.nl
 
+wij vertrouwen stemcomputers niet
+http://wijvertrouwenstemcomputersniet.nl/English
+
 ccc wiki
 https://en.m.wikipedia.org/wiki/Chaos_Computer_Club
 
