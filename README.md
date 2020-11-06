@@ -96,7 +96,7 @@ https://github.com/wxWidgets/wxPython-Classic
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
 
-0x143C9F41D8F056DD PGP     
+0x143C9F41D8F056DD   
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
 github wiki
