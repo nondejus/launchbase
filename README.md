@@ -813,6 +813,12 @@ https://en.m.wikipedia.org/wiki/Bitcoin_Cash
 bitcoin abc
 https://github.com/Bitcoin-ABC/bitcoin-abc
 
+blockchair bitcoin cash
+https://blockchair.com/bitcoin-cash
+
+blockchair bitcoin abc
+https://blockchair.com/bitcoin-abc
+
 bitcoin unlimited
 https://github.com/BitcoinUnlimited/BitcoinUnlimited
 
