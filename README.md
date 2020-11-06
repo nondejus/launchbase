@@ -96,6 +96,9 @@ https://github.com/wxWidgets/wxPython-Classic
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
 
+0x143C9F41D8F056DD PGP     
+https://pgp.key-server.io/search/0x143C9F41D8F056DD
+
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
@@ -1085,9 +1088,6 @@ https://github.com/bitcoin-core/bitcoin-maintainer-tools
 
 bitcoincore
 https://doxygen.bitcoincore.org/
-
-0x143C9F41D8F056DD PGP     
-https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
 bitcoinops taproot
 https://github.com/bitcoinops/taproot-workshop
