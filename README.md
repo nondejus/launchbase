@@ -189,6 +189,9 @@ https://github.com/nondejus/bitnodes
 bitcoin atm radar
 https://coinatmradar.com
 
+blockchair
+https://blockchair.com
+
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
 
