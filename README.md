@@ -177,9 +177,6 @@ https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
 blockchaincommons
 https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
-bitcoin vault explorer
-https://explorer.bitcoinvault.global/
-
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
