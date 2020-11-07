@@ -117,6 +117,9 @@ http://www.erisian.com.au/meetbot/bitcoin-core-dev/
 bitcoin core review   
 https://bitcoincore.reviews
 
+rust bitcoin
+https://github.com/rust-bitcoin/rust-bitcoin
+
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
