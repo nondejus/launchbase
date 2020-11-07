@@ -99,6 +99,9 @@ https://en.bitcoin.it/wiki/Category:History
 0x143C9F41D8F056DD   
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
+(when pgp.key-server.io doesn't work)
+https://github.com/nondejus/pgp.key-server.io/tree/main/search/0x143C9F41D8F056DD
+
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
