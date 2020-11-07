@@ -117,6 +117,9 @@ http://www.erisian.com.au/meetbot/bitcoin-core-dev/
 bitcoin core review   
 https://bitcoincore.reviews
 
+bitcoin explorer
+https://github.com/janoside/btc-rpc-explorer
+
 bitcoinacks
 https://bitcoinacks.com
 
