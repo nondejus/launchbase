@@ -840,6 +840,9 @@ https://blockchair.com/bitcoin-abc
 bitcoin unlimited
 https://github.com/BitcoinUnlimited/BitcoinUnlimited
 
+bchd
+https://github.com/gcash/bchd
+
 instawalket
 https://github.com/finway-china/django-bitcoin-instawallet
 
