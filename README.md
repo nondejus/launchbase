@@ -1029,6 +1029,9 @@ https://bisq.network/stats/
 bisq price indices
 https://bisq.wiki/Bisq_Price_Indices
 
+algorand
+https://github.com/algorand/go-algorand
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
