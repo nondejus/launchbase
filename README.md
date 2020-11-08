@@ -1026,6 +1026,9 @@ https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 bisq network stats
 https://bisq.network/stats/
 
+bisq price indices
+https://bisq.wiki/Bisq_Price_Indices
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
