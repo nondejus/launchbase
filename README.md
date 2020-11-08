@@ -1029,9 +1029,6 @@ https://bisq.network/stats/
 bisq price indices
 https://bisq.wiki/Bisq_Price_Indices
 
-algorand
-https://github.com/algorand/go-algorand
-
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
@@ -1541,6 +1538,12 @@ https://btconethereum.com
 
 curve contract
 https://github.com/curvefi/curve-contract
+
+algorand
+https://github.com/algorand/go-algorand
+
+algorand-dev
+https://developer.algorand.org
 
 DeFi
 https://github.com/nondejus/defi-sdk
