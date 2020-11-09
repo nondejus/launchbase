@@ -120,6 +120,9 @@ https://github.com/Blockstream/green_cli
 liquid explorer
 https://blockstream.info/liquid/
 
+bitcoin liquid explorer
+https://github.com/Blockstream/esplora
+
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
