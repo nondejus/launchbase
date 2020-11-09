@@ -126,6 +126,9 @@ https://github.com/Blockstream/esplora
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
+gitcoin hackathon
+https://gitcoin.co/hackathon/skydb/onboard
+
 bitcoin github
 https://github.com/bitcoin/bitcoin
 
