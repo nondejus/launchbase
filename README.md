@@ -126,9 +126,6 @@ https://github.com/Blockstream/esplora
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
 
-gitcoin hackathon
-https://gitcoin.co/hackathon/skydb/onboard
-
 bitcoin github
 https://github.com/bitcoin/bitcoin
 
@@ -1217,6 +1214,9 @@ https://filecoin.io
 
 imtoken
 https://github.com/consenlabs/token-core
+
+gitcoin hackathon
+https://gitcoin.co/hackathon/skydb/onboard
 
 pycryptopp
 https://tahoe-lafs.org/trac/pycryptopp
