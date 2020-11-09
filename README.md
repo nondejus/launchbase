@@ -105,11 +105,14 @@ https://github.com/nondejus/pgp.key-server.io/tree/main/search/0x143C9F41D8F056D
 php-proxy-keyserver
 https://github.com/nondejus/php-proxy-keyserver
 
-green cli
-https://github.com/Blockstream/green_cli
+greenaddress wiki
+https://en.bitcoinwiki.org/wiki/Amp/GreenAddress
 
 greenaddress
 https://greenaddress.it
+
+green cli
+https://github.com/Blockstream/green_cli
 
 github wiki
 https://en.m.wikipedia.org/wiki/GitHub
