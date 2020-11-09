@@ -199,7 +199,10 @@ blockchain exploter github
 https://github.com/nondejus/blockchain.info
 
 bitcoinwisdom
-https://bitcoinwisdom.io/
+https://bitcoinwisdom.io
+
+bitstamp markets
+https://www.bitstamp.net/markets/
 
 bitcoin transaction fees 
 https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
