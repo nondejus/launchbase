@@ -1560,6 +1560,9 @@ https://app.uniswap.org
 tokenized bitcoin (on ethereum)
 https://btconethereum.com
 
+pax contracts
+https://github.com/paxosglobal/pax-contracts
+
 curve contract
 https://github.com/curvefi/curve-contract
 
