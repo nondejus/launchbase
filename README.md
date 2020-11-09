@@ -1233,8 +1233,11 @@ https://en.m.wikipedia.org/wiki/Freedom_Press
 steal this book
 http://tenant.net/Community/steal/steal.html
 
-blauwe aanslag den haag
+blauwe aanslag, den haag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
+
+indymedia blauwe aanslag, den haag
+https://www.indymedia.nl/nl/2003/10/14172.shtml
 
 otpor
 https://en.m.wikipedia.org/wiki/Otpor
