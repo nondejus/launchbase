@@ -1566,6 +1566,9 @@ https://github.com/paxosglobal/pax-contracts
 ethplorer pax token
 https://ethplorer.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1
 
+ethplorer
+https://github.com/nondejus/Ethplorer
+
 curve contract
 https://github.com/curvefi/curve-contract
 
