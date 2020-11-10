@@ -1041,6 +1041,9 @@ https://docs.kraken.com/websockets/
 bithumb
 https://github.com/bithumb-pro/bthmcpp
 
+bisq
+https://en.bitcoin.it/wiki/Bisq
+
 bisq wiki
 https://bisq.wiki/Main_Page
 
