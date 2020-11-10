@@ -306,6 +306,9 @@ https://bitcointalk.org/index.php?topic=1347.0
 satoshilabs slips
 https://github.com/satoshilabs/slips
 
+stratum v2
+https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners
+
 mullvad wiki
 https://en.m.wikipedia.org/wiki/Mullvad
 
