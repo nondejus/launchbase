@@ -306,9 +306,6 @@ https://bitcointalk.org/index.php?topic=1347.0
 satoshilabs slips
 https://github.com/satoshilabs/slips
 
-stratum v2
-https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners
-
 mullvad wiki
 https://en.m.wikipedia.org/wiki/Mullvad
 
@@ -488,6 +485,9 @@ https://slushpool.com/home/
 
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
+
+stratum v2
+https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners
 
 btcguild
 https://web.archive.org/web/20110727214951/http://btcguild.com/
