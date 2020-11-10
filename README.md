@@ -426,6 +426,9 @@ https://github.com/ckolivas/cgminer
 bfgminer
 https://github.com/luke-jr/bfgminer
 
+antminer
+https://github.com/AntMiner/AntGen1
+
 bitcoin abe
 https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
 
