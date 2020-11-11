@@ -1503,6 +1503,9 @@ https://github.com/ethereum/go-ethereum
 core geth
 https://github.com/etclabscore/core-geth
 
+geth-v1-9-0
+https://blog.ethereum.org/2019/07/10/geth-v1-9-0/
+
 long range attack
 https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/
 
