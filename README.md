@@ -1503,7 +1503,7 @@ https://github.com/ethereum/go-ethereum
 core geth
 https://github.com/etclabscore/core-geth
 
-geth-v1-9-0
+geth v1.9.0
 https://blog.ethereum.org/2019/07/10/geth-v1-9-0/
 
 long range attack
