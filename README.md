@@ -1521,9 +1521,6 @@ https://txpool.zengo.com/#0,24h
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
-xio
-https://xio.to/advancedsearch/?m=100
-
 openzkp
 https://github.com/0xProject/OpenZKP
 
@@ -1586,6 +1583,9 @@ https://github.com/Uniswap/uniswap-v2-core
 
 app uniswap
 https://app.uniswap.org
+
+xio
+https://xio.to/advancedsearch/?m=100
 
 tokenized bitcoin (on ethereum)
 https://btconethereum.com
