@@ -1473,6 +1473,9 @@ https://github.com/ethereum/web3.py
 ethereum forum
 https://ethereum-magicians.org/
 
+ethereum mainnet statistics
+https://ethernodes.org
+
 cbc casper
 https://github.com/ethereum/cbc-casper/wiki
 
