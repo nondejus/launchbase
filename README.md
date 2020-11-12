@@ -1074,6 +1074,9 @@ https://bisq.wiki/Bisq_Price_Indices
 Bisq Network Improvement Proposals
 https://github.com/bisq-network/proposals
 
+opendex
+https://github.com/opendexnetwork/opendex
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
