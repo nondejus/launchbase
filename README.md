@@ -43,6 +43,9 @@ proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
 
 bmoney
+https://en.bitcoin.it/wiki/B-money
+
+wei dai bmoney
 https://en.m.wikipedia.org/wiki/Wei_Dai#b-money
 
 wei dai
