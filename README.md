@@ -1071,6 +1071,9 @@ https://bisq.network/stats/
 bisq price indices
 https://bisq.wiki/Bisq_Price_Indices
 
+Bisq Network Improvement Proposals
+https://github.com/bisq-network/proposals
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
