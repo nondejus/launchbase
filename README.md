@@ -42,6 +42,9 @@ https://github.com/halfinney/bc_key
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
 
+bmoney
+https://en.m.wikipedia.org/wiki/Wei_Dai#b-money
+
 wei dai
 http://www.weidai.com/bmoney.txt
 
