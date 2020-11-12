@@ -1446,6 +1446,9 @@ https://en.m.wikipedia.org/wiki/Smart_contract
 capstone
 https://github.com/aquynh/capstone
 
+0x
+https://0x.org
+
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
 
