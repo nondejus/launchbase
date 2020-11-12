@@ -45,10 +45,10 @@ https://en.m.wikipedia.org/wiki/Proof_of_work
 bmoney
 https://en.bitcoin.it/wiki/B-money
 
-wei dai bmoney
+wei dai
 https://en.m.wikipedia.org/wiki/Wei_Dai#b-money
 
-wei dai
+wei dai bmoney
 http://www.weidai.com/bmoney.txt
 
 crypto++
