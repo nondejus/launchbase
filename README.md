@@ -1356,6 +1356,9 @@ https://ban-facial-recognition.wesign.it/droitshumains/ban-facial-recognition-eu
 capture
 https://paolocirio.net/work/capture/
 
+wcwallet
+https://github.com/hemnathmouli/WC-Wallet
+
 (bookburning section) uncle fester
 http://www.unclefesterbooks.com
 
