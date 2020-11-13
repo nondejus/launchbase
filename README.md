@@ -111,6 +111,9 @@ https://github.com/nondejus/pgp.key-server.io/tree/main/search/0x143C9F41D8F056D
 php-proxy-keyserver
 https://github.com/nondejus/php-proxy-keyserver
 
+openpgpjs
+https://github.com/nondejus/openpgpjs
+
 green adress
 https://en.bitcoin.it/wiki/Green_address
 
@@ -1340,9 +1343,6 @@ https://en.m.wikipedia.org/wiki/Electroshock_weapon
 
 xkeyscore
 https://en.m.wikipedia.org/wiki/XKeyscore
-
-openpgpjs
-https://github.com/nondejus/openpgpjs
 
 openkinect
 https://openkinect.org/wiki/Main_Page
