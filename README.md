@@ -1464,6 +1464,9 @@ https://github.com/aquynh/capstone
 0x
 https://0x.org
 
+btckeysplit
+https://github.com/vbuterin/btckeysplit
+
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
 
