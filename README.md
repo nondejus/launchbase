@@ -750,6 +750,9 @@ https://github.com/BlenderVR/yofrankie
 blender
 https://github.com/blender/blender
 
+usd
+https://github.com/PixarAnimationStudios/USD
+
 blender usd
 https://code.blender.org/2019/07/first-steps-with-universal-scene-description/
 
