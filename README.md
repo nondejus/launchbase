@@ -759,6 +759,12 @@ https://code.blender.org/2019/07/first-steps-with-universal-scene-description/
 blender usd workgroup
 https://lists.blender.org/mailman/listinfo/bf-usd
 
+dragonchain wiki
+https://en.m.wikipedia.org/wiki/Dragonchain
+
+dragonchain
+https://github.com/Dragonchain/Dragonchain
+
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
 
