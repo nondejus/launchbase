@@ -1239,7 +1239,10 @@ https://github.com/xpring-eng/Xpring-SDK
 xumm sdk 
 https://github.com/XRPL-Labs/XUMM-SDK
 
-xumm app google play
+xumm app
+https://xumm.app
+
+xumm google play
 https://play.google.com/store/apps/details?id=com.xrpllabs.xumm&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dxumm+xrp+wc+wallet+plugin&pcampaignid=APPU_1_o_GuX72aG821kwWi35GACQ
 
 ledger hardware wallet
