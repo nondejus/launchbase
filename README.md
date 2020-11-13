@@ -1272,6 +1272,9 @@ https://tahoe-lafs.org/trac/pycryptopp
 i lived in a squat
 https://www.thelocal.de/20080227/10367
 
+abstract art
+https://en.m.wikipedia.org/wiki/Abstract_art
+
 indymedia
 https://indymedia.org
 
