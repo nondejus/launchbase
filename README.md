@@ -1221,6 +1221,9 @@ https://github.com/xpring-eng/Xpring-SDK
 xumm sdk 
 https://github.com/XRPL-Labs/XUMM-SDK
 
+ledger hardware wallet
+https://www.xrptoolkit.com/get-wallet
+
 authorize.net in-app-payments
 https://github.com/nondejus/accept-sdk-ios
 
