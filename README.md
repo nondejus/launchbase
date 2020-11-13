@@ -744,11 +744,17 @@ https://en.m.wikipedia.org/wiki/Simple_DirectMedia_Layer
 sdl collide
 https://sourceforge.net/projects/sdl-collide/
 
+blenderVR yofrankie
+https://github.com/BlenderVR/yofrankie
+
 blender
 https://github.com/blender/blender
 
-blenderVR yofrankie
-https://github.com/BlenderVR/yofrankie
+blender usd
+https://code.blender.org/2019/07/first-steps-with-universal-scene-description/
+
+blender usd workgroup
+https://lists.blender.org/mailman/listinfo/bf-usd
 
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
