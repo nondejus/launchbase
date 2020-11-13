@@ -489,9 +489,6 @@ https://github.com/trezor/connect
 trezor wallet account addresses
 https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
 
-cryptosteel
-https://github.com/cryptosteel/cryptosteel
-
 slushpool
 https://slushpool.com/home/
 
@@ -500,6 +497,12 @@ https://github.com/slush0/stratum-mining-proxy
 
 stratum v2
 https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners
+
+tassic
+https://github.com/tropicsquare/tassic
+
+cryptosteel
+https://github.com/cryptosteel/cryptosteel
 
 btcguild
 https://web.archive.org/web/20110727214951/http://btcguild.com/
