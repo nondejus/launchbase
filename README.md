@@ -72,6 +72,9 @@ https://en.bitcoin.it/wiki/Genesis_block
 satoshi unit
 https://en.bitcoin.it/wiki/Satoshi_(unit)
 
+controlled supply
+https://en.bitcoin.it/wiki/Controlled_supply
+
 utxo   
 https://en.m.wikipedia.org/wiki/Unspent_transaction_output
 
