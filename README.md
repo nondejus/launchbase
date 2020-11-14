@@ -1104,6 +1104,9 @@ https://github.com/bisq-network/proposals
 opendex
 https://github.com/opendexnetwork/opendex
 
+zeromq
+https://zeromq.org
+
 huobi
 https://github.com/HuobiRDCenter/huobi_Python
 
