@@ -42,6 +42,12 @@ https://github.com/halfinney/bc_key
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
 
+proof of stake
+https://en.m.wikipedia.org/wiki/Proof_of_stake
+
+proof of stake crypto generator
+https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
+
 bmoney
 https://en.bitcoin.it/wiki/B-money
 
