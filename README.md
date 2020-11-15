@@ -243,6 +243,9 @@ https://github.com/nondejus/bitnodes
 bitcoin atm radar
 https://coinatmradar.com
 
+bircoin seeder
+https://github.com/sipa/bitcoin-seeder
+
 blockchair
 https://blockchair.com
 
