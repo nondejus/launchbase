@@ -39,15 +39,6 @@ https://cryptome.org/2014/09/hal-finney-cpunks-1992.htm
 hal finney bc_key
 https://github.com/halfinney/bc_key
 
-proof of work
-https://en.m.wikipedia.org/wiki/Proof_of_work
-
-proof of stake
-https://en.m.wikipedia.org/wiki/Proof_of_stake
-
-proof of stake crypto generator
-https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
-
 bmoney
 https://en.bitcoin.it/wiki/B-money
 
@@ -110,6 +101,15 @@ https://github.com/wxWidgets/wxPython-Classic
 
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
+
+proof of work
+https://en.m.wikipedia.org/wiki/Proof_of_work
+
+proof of stake
+https://en.m.wikipedia.org/wiki/Proof_of_stake
+
+proof of stake crypto generator
+https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
 
 debug.setHead(0x143C9F41D8F056DD)   
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
