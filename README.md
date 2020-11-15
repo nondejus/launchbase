@@ -552,6 +552,9 @@ https://github.com/harding/ref-mast
 bitcoin dev kit
 https://bitcoindevkit.org/
 
+carnivote
+http://r-s-g.org/carnivore
+
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
@@ -1349,9 +1352,6 @@ https://en.m.wikipedia.org/wiki/COINTELPRO
 
 contemporary art
 https://en.m.wikipedia.org/wiki/Contemporary_art
-
-carnivote
-http://r-s-g.org/carnivore
 
 bitmessage
 https://github.com/Bitmessage/PyBitmessage
