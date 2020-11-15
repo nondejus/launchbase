@@ -555,6 +555,9 @@ https://bitcoindevkit.org/
 carnivote
 http://r-s-g.org/carnivore
 
+carnivore wiki
+https://en.m.wikipedia.org/wiki/Carnivore_(software)
+
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
