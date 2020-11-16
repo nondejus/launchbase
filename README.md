@@ -576,6 +576,9 @@ https://openwrt.org
 openwrt git
 https://git.openwrt.org/openwrt/openwrt.git
 
+ekfiddle
+https://github.com/malwareinfosec/EKFiddle
+
 bc seedtool cli
 https://github.com/BlockchainCommons/bc-seedtool-cli
 
