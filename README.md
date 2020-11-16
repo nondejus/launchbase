@@ -1707,6 +1707,9 @@ https://github.com/Uniswap/uniswap-v2-core
 app uniswap
 https://app.uniswap.org
 
+uniswap vision
+https://uniswap.vision
+
 xio
 https://xio.to/advancedsearch/?m=100
 
