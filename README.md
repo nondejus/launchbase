@@ -1590,6 +1590,9 @@ https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec1235
 ethereum web3
 https://github.com/ethereum/web3.py
 
+ethereum eip
+https://github.com/ethereum/EIPs
+
 ethereum forum
 https://ethereum-magicians.org/
 
