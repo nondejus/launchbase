@@ -171,6 +171,9 @@ https://github.com/rust-bitcoin/rust-bitcoin
 rust clightning rpc
 https://github.com/laanwj/rust-clightning-rpc
 
+frontier
+https://github.com/paritytech/frontier
+
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
