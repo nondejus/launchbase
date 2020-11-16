@@ -570,6 +570,9 @@ https://github.com/jnewbery/bitcoin-wireshark
 bitnodes
 https://github.com/slush0/bitnodes
 
+openwrt
+https://git.openwrt.org/openwrt/openwrt.git
+
 bc seedtool cli
 https://github.com/BlockchainCommons/bc-seedtool-cli
 
