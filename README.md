@@ -639,6 +639,9 @@ https://github.com/litecoin-project/litecoin
 electrum ltc
 https://electrum-ltc.org/
 
+dogecoin
+https://github.com/dogecoin/dogecoin
+
 britcoin
 https://github.com/Brit-Coin/britcoin
 
