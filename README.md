@@ -576,6 +576,9 @@ https://openwrt.org
 openwrt git
 https://git.openwrt.org/openwrt/openwrt.git
 
+https everywhere
+https://github.com/EFForg/https-everywhere
+
 ekfiddle
 https://github.com/malwareinfosec/EKFiddle
 
