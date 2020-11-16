@@ -57,6 +57,9 @@ https://en.bitcoin.it
 irreversible transactions
 https://en.bitcoin.it/wiki/Irreversible_Transactions
 
+confirnation
+https://en.bitcoin.it/wiki/Confirmation 
+
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
 
