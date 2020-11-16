@@ -159,6 +159,12 @@ http://www.erisian.com.au/meetbot/bitcoin-core-dev/
 bitcoin core review   
 https://bitcoincore.reviews
 
+rustup
+https://github.com/rust-lang/rustup
+
+rust crypto
+https://github.com/RustCrypto
+
 rust bitcoin
 https://github.com/rust-bitcoin/rust-bitcoin
 
@@ -1013,9 +1019,6 @@ https://github.com/nondejus/sha256-animation
 
 special hash
 https://ehash.iaik.tugraz.at/wiki/Spectral_Hash
-
-rust crypto
-https://github.com/RustCrypto
 
 buttelproofs
 https://github.com/isislovecruft/bulletproofs
