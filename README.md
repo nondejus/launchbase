@@ -1677,6 +1677,9 @@ https://github.com/ethereumbook/ethereumbook
 substrate
 https://github.com/paritytech/substrate
 
+substrate.io
+https://www.substrate.io
+
 polkadot
 https://github.com/paritytech/polkadot
 
