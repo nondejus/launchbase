@@ -165,9 +165,6 @@ https://bitcoincore.org/bin/
 bitcoin core review   
 https://bitcoincore.reviews
 
-mining insights
-https://insights.braiins.com
-
 rustup
 https://github.com/rust-lang/rustup
 
@@ -224,6 +221,9 @@ https://github.com/chaincodelabs/bitcoinperf
 
 bitcoin mining distribution
 https://github.com/in3rsha/bitcoin-mining-distribution
+
+mining insights
+https://insights.braiins.com
 
 blockchain info
 https://blockchain.info
