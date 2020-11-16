@@ -171,9 +171,6 @@ https://github.com/rust-bitcoin/rust-bitcoin
 rust clightning rpc
 https://github.com/laanwj/rust-clightning-rpc
 
-frontier
-https://github.com/paritytech/frontier
-
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
@@ -1562,6 +1559,9 @@ https://en.m.wikipedia.org/wiki/Ethereum
 
 ethereum evm
 https://github.com/ethereum/evmone
+
+frontier
+https://github.com/paritytech/frontier
 
 pos
 https://en.m.wikipedia.org/wiki/Proof_of_stake
