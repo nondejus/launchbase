@@ -159,6 +159,9 @@ https://codespeed.bitcoinperf.com/changes/
 bitcoin core dev meetbot
 http://www.erisian.com.au/meetbot/bitcoin-core-dev/
 
+Index of /bin/bitcoin-core-0.20.0
+https://bitcoincore.org/bin/bitcoin-core-0.20.0/
+
 bitcoin core review   
 https://bitcoincore.reviews
 
