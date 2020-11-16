@@ -168,6 +168,9 @@ https://github.com/RustCrypto
 rust bitcoin
 https://github.com/rust-bitcoin/rust-bitcoin
 
+rust clightning rpc
+https://github.com/laanwj/rust-clightning-rpc
+
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
