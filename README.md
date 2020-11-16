@@ -571,6 +571,9 @@ bitnodes
 https://github.com/slush0/bitnodes
 
 openwrt
+https://openwrt.org
+
+openwrt git
 https://git.openwrt.org/openwrt/openwrt.git
 
 bc seedtool cli
