@@ -843,6 +843,9 @@ https://github.com/calafou/coinjoin
 whirlpool samouraiwallet chaumian coinjoin
 https://github.com/Samourai-Wallet/Whirlpool
 
+0XT
+https://oxt.me
+
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
