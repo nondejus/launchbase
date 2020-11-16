@@ -567,6 +567,9 @@ https://github.com/wireshark/wireshark
 bitcoin wireshark
 https://github.com/jnewbery/bitcoin-wireshark
 
+bitnodes
+https://github.com/slush0/bitnodes
+
 bc seedtool cli
 https://github.com/BlockchainCommons/bc-seedtool-cli
 
