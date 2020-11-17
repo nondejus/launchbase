@@ -1503,6 +1503,9 @@ https://en.m.wikipedia.org/wiki/Artificial_intelligence_arms_race
 austerity
 https://en.m.wikipedia.org/wiki/Austerity
 
+brexit
+https://en.m.wikipedia.org/wiki/Brexit
+
 hacktic    
 https://hacktic.nl
 
