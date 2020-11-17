@@ -1113,11 +1113,11 @@ https://web.archive.org/web/20130416034846/https://www.bitstamp.net/
 bitstamp 
 https://bitstamp.net
 
+gemini
+https://github.com/mtusman/gemini-python
+
 cpptrader
 https://github.com/nondejus/CppTrader
-
-pax contracts
-https://github.com/nondejus/pax-contracts
 
 bitfinex honey framework backtest
 https://github.com/nondejus/bfx-hf-backtest
@@ -1127,9 +1127,6 @@ https://github.com/nondejus/bfx-hf-server
 
 bitfinex honeyframework data server
 https://github.com/nondejus/bfx-hf-data-server
-
-gemini
-https://github.com/nondejus/gemini-python
 
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
