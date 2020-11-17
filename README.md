@@ -1563,9 +1563,6 @@ https://github.com/meherett/swap
 steamr
 https://github.com/nondejus/streamr-client-java
 
-smart contract
-https://en.m.wikipedia.org/wiki/Smart_contract
-
 capstone
 https://github.com/aquynh/capstone
 
@@ -1578,6 +1575,12 @@ https://www.magicalcryptofriends.com/about
 magical cryptoconference 2020
 https://www.magicalcryptoconference.com/2020-vr
 
+karma
+https://github.com/sirin-labs/karma.js
+
+district0x
+https://district0x.io/
+
 0x
 https://0x.org
 
@@ -1586,6 +1589,9 @@ https://github.com/vbuterin/btckeysplit
 
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
+
+smart contract
+https://en.m.wikipedia.org/wiki/Smart_contract
 
 ethereum evm
 https://github.com/ethereum/evmone
@@ -1787,12 +1793,6 @@ https://sovryn.app
 
 peggy
 https://github.com/ProxideFi/peggy
-
-karma
-https://github.com/sirin-labs/karma.js
-
-district0x
-https://district0x.io/
 
 confidential transactions
 https://elementsproject.org/features/confidential-transactions
