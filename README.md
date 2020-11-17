@@ -1746,6 +1746,9 @@ https://uniswap.vision
 balancer-exchange
 https://github.com/balancer-labs/balancer-exchange
 
+balancer exchange
+https://balancer.exchange
+
 xio
 https://xio.to/advancedsearch/?m=100
 
