@@ -405,6 +405,9 @@ https://en.bitcoin.it/wiki/Difficulty
 bitcoin halving
 https://www.bitcoinhalving.com/talks/what-is-the-halving-with-amiti-uttarwar
 
+learn me a bitcoin
+https://learnmeabitcoin.com
+
 leveldb
 https://bitcoin.org/en/release/v0.8.1#how-to-upgrade
 
