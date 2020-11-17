@@ -1206,6 +1206,9 @@ https://github.com/jedmccaleb/stellarterm
 coinbase     
 https://coinbase.com
 
+bitcoingold
+https://bitcoingold.org/
+
 legality of bitcoin
 https://en.m.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
 
@@ -1566,6 +1569,15 @@ https://en.m.wikipedia.org/wiki/Smart_contract
 capstone
 https://github.com/aquynh/capstone
 
+menefactory
+https://github.com/nondejus/memefactory
+
+magical cryptofriends
+https://www.magicalcryptofriends.com/about
+
+magical cryptoconference 2020
+https://www.magicalcryptoconference.com/2020-vr
+
 0x
 https://0x.org
 
@@ -1781,18 +1793,6 @@ https://github.com/sirin-labs/karma.js
 
 district0x
 https://district0x.io/
-
-menefactory
-https://github.com/nondejus/memefactory
-
-magical cryptofriends
-https://www.magicalcryptofriends.com/about
-
-magical cryptoconference 2020
-https://www.magicalcryptoconference.com/2020-vr
-
-bitcoingold
-https://bitcoingold.org/
 
 confidential transactions
 https://elementsproject.org/features/confidential-transactions
