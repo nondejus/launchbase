@@ -1755,8 +1755,11 @@ https://github.com/algorand/go-algorand
 algorand-dev
 https://developer.algorand.org
 
-DeFi
+defi
 https://github.com/nondejus/defi-sdk
+
+defi pulse
+https://defipulse.com
 
 sovryn      
 https://sovryn.app
