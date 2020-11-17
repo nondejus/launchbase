@@ -1755,6 +1755,9 @@ https://github.com/algorand/go-algorand
 algorand-dev
 https://developer.algorand.org
 
+defi wuki
+https://en.m.wikipedia.org/wiki/Decentralized_finance
+
 defi
 https://github.com/nondejus/defi-sdk
 
