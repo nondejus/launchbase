@@ -1749,6 +1749,9 @@ https://github.com/balancer-labs/balancer-exchange
 balancer exchange
 https://balancer.exchange
 
+balancer finance
+https://balancer.finance
+
 xio
 https://xio.to/advancedsearch/?m=100
 
