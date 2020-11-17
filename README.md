@@ -1743,6 +1743,9 @@ https://app.uniswap.org
 uniswap vision
 https://uniswap.vision
 
+balancer-exchange
+https://github.com/balancer-labs/balancer-exchange
+
 xio
 https://xio.to/advancedsearch/?m=100
 
