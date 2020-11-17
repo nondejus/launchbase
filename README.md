@@ -1755,6 +1755,9 @@ https://github.com/algorand/go-algorand
 algorand-dev
 https://developer.algorand.org
 
+makerdao
+https://github.com/makerdao/dai.js
+
 defi wuki
 https://en.m.wikipedia.org/wiki/Decentralized_finance
 
