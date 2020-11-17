@@ -1626,12 +1626,6 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 ethereum list tokens
 https://github.com/ethereum-lists/tokens
 
-busd contract
-https://github.com/nondejus/busd-contract
-
-usdn erc-20
-https://telegra.ph/Almost-everything-you-should-know-about-USDN-ERC-20-and-how-to-get-it-10-08
-
 compound-protocol
 https://github.com/nondejus/compound-protocol
 
@@ -1737,12 +1731,6 @@ https://xio.to/advancedsearch/?m=100
 tokenized bitcoin (on ethereum)
 https://btconethereum.com
 
-pax contracts
-https://github.com/paxosglobal/pax-contracts
-
-ethplorer pax token
-https://ethplorer.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1
-
 ethplorer
 https://github.com/nondejus/Ethplorer
 
@@ -1754,6 +1742,18 @@ https://github.com/algorand/go-algorand
 
 algorand-dev
 https://developer.algorand.org
+
+busd contract
+https://github.com/nondejus/busd-contract
+
+usdn erc-20
+https://telegra.ph/Almost-everything-you-should-know-about-USDN-ERC-20-and-how-to-get-it-10-08
+
+pax contracts
+https://github.com/paxosglobal/pax-contracts
+
+ethplorer pax token
+https://ethplorer.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1
 
 makerdao dai
 https://www.npmjs.com/package/@makerdao/dai?source=post_page---------------------------
