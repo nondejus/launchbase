@@ -282,6 +282,9 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
+mifare classic
+https://github.com/ikarus23/MifareClassicTool
+
 bugzilla
 https://gcc.gnu.org/bugzilla/
 
