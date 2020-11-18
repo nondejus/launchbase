@@ -177,6 +177,9 @@ https://github.com/rust-bitcoin/rust-bitcoin
 rust clightning rpc
 https://github.com/laanwj/rust-clightning-rpc
 
+dalek
+https://dalek.rs
+
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
