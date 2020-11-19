@@ -1473,11 +1473,14 @@ http://www.unclefesterbooks.com
 counterfeiting money and coining history
 http://www.capitalpunishmentuk.org/burning.html
 
+nsa
+https://www.doorbraak.eu/gebladerte/11497f97.htm
+
 poortgebouw rotterdam
 https://en.m.wikipedia.org/wiki/Poortgebouw
 
-nsa
-https://www.doorbraak.eu/gebladerte/11497f97.htm
+hondstraat huis met de strik
+https://mestreechtersteerke.nl/pag-hethuismetdestrik.htm
 
 landbouwbelang
 https://en.m.wikipedia.org/wiki/Landbouwbelang_(squat)
