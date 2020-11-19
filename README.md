@@ -1764,6 +1764,9 @@ https://github.com/XinFinOrg/XDPoSChain
 xinfin org
 https://xinfin.org
 
+xinfin network
+https://xinfin.network/#stats
+
 xio
 https://xio.to/advancedsearch/?m=100
 
