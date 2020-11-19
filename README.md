@@ -1758,6 +1758,12 @@ https://balancer.exchange
 balancer finance
 https://balancer.finance
 
+xinfin
+https://github.com/XinFinOrg/XDPoSChain
+
+xinfin org
+https://xinfin.org
+
 xio
 https://xio.to/advancedsearch/?m=100
 
