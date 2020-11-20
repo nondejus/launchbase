@@ -42,11 +42,11 @@ https://github.com/halfinney/bc_key
 bmoney
 https://en.bitcoin.it/wiki/B-money
 
-wei dai
+wei dai wiki
 https://en.m.wikipedia.org/wiki/Wei_Dai#b-money
 
-wei dai bmoney
-http://www.weidai.com/bmoney.txt
+wei dai
+http://www.weidai.com
 
 crypto++
 https://github.com/weidai11/cryptopp
