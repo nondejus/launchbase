@@ -117,9 +117,6 @@ https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
 debug.setHead(0x143C9F41D8F056DD)   
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
-(when pgp.key-server.io doesn't work)
-https://github.com/nondejus/pgp.key-server.io/tree/main/search/0x143C9F41D8F056DD
-
 php-proxy-keyserver
 https://github.com/nondejus/php-proxy-keyserver
 
@@ -434,15 +431,6 @@ https://en.m.wikipedia.org/wiki/Tesla_(microarchitecture)
 
 Volta
 https://en.m.wikipedia.org/wiki/Volta_(microarchitecture)
-
-ollydbg
-http://www.ollydbg.de
-
-radare
-https://www.radare.org/r/
-
-x64dbg
-https://github.com/nondejus/x64dbg
 
 bitcoin mining
 https://en.bitcoin.it/wiki/Mining_software
@@ -1871,6 +1859,15 @@ https://github.com/lightningnetwork/lnd
 
 lightningnetwork statistics
 https://1ml.com/statistics
+
+ollydbg
+http://www.ollydbg.de
+
+radare
+https://www.radare.org/r/
+
+x64dbg
+https://github.com/nondejus/x64dbg
 
 raspiblitz
 https://github.com/rootzoll/raspiblitz
