@@ -750,6 +750,9 @@ https://en.m.wikipedia.org/wiki/CoinDesk
 coindesk
 https://www.coindesk.com/
 
+TheBitcoinZine
+https://github.com/TheBitcoinZine/TheBitcoinZine
+
 1bitcoin
 https://1bitcoin.wiki
 
