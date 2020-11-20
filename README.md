@@ -126,7 +126,7 @@ https://github.com/nondejus/php-proxy-keyserver
 openpgpjs
 https://github.com/nondejus/openpgpjs
 
-green adress
+green address
 https://en.bitcoin.it/wiki/Green_address
 
 greenaddress wiki
