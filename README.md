@@ -435,6 +435,12 @@ https://en.m.wikipedia.org/wiki/Tesla_(microarchitecture)
 Volta
 https://en.m.wikipedia.org/wiki/Volta_(microarchitecture)
 
+ollydbg
+http://www.ollydbg.de
+
+radare
+https://www.radare.org/r/
+
 x64dbg
 https://github.com/nondejus/x64dbg
 
