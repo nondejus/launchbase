@@ -108,12 +108,6 @@ https://en.bitcoin.it/wiki/Category:History
 proof of work
 https://en.m.wikipedia.org/wiki/Proof_of_work
 
-proof of stake
-https://en.m.wikipedia.org/wiki/Proof_of_stake
-
-proof of stake crypto generator
-https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
-
 debug.setHead(0x143C9F41D8F056DD)   
 https://pgp.key-server.io/search/0x143C9F41D8F056DD
 
@@ -1620,8 +1614,11 @@ https://github.com/ethereum/evmone
 frontier
 https://github.com/paritytech/frontier
 
-pos
+proof of stake
 https://en.m.wikipedia.org/wiki/Proof_of_stake
+
+proof of stake crypto generator
+https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
 
 pos eth
 https://eth.wiki/en/concepts/proof-of-stake-faqs
