@@ -1161,6 +1161,9 @@ https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 bisq network stats
 https://bisq.network/stats/
 
+bisq mempool
+https://mempool.emzy.de/bisq
+
 bisq price indices
 https://bisq.wiki/Bisq_Price_Indices
 
