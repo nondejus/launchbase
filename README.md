@@ -246,6 +246,9 @@ https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
 blockchaincommons
 https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
+libwally swift
+https://github.com/blockchain/libwally-swift
+
 sf bitcoin devs
 https://www.sfbitcoindevs.org
 
