@@ -1750,8 +1750,8 @@ https://github.com/nondejus/mediafire-fuse
 de as (anarchistisch tijdschrift)
 https://www.tijdschrift-de-as.nl/
 
-uncle fester
-http://www.unclefesterbooks.com
+eurooean troika
+https://en.m.wikipedia.org/wiki/European_troika
 
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
@@ -1761,6 +1761,9 @@ https://indymedia.org
 
 steal this book
 http://tenant.net/Community/steal/steal.html
+
+quantitative easing
+https://en.m.wikipedia.org/wiki/Quantitative_easing
 
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
@@ -1773,6 +1776,9 @@ http://le-libertaire.net
 
 calafou
 https://archive.calafou.org
+
+brexit
+https://en.m.wikipedia.org/wiki/Brexit
 
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
