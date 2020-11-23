@@ -308,12 +308,6 @@ https://en.bitcoin.it/wiki/Majority_attack
 The Byzantine Generals' Problem
 https://bitcointalk.org/oldSiteFiles/byzantine.html
 
-bug bounty
-https://hackerone.com/github?type=team
-
-loic (across the street)
-https://github.com/PresidentObama/LOIC
-
 bitcoinfoundation
 https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
 
@@ -410,10 +404,10 @@ https://en.m.wikipedia.org/wiki/Radeon_HD_5000_series
 nvidia cuda
 https://en.m.wikipedia.org/wiki/CUDA
 
-Tesla
+tesla
 https://en.m.wikipedia.org/wiki/Tesla_(microarchitecture)
 
-Volta
+volta
 https://en.m.wikipedia.org/wiki/Volta_(microarchitecture)
 
 bitcoin mining
@@ -427,9 +421,6 @@ https://github.com/colinrgodsey/rpcminer-mod
 
 remote rpc pooled mining (2010-12-24)
 https://bitcointalk.org/index.php?topic=1458.0
-
-mediafire
-https://github.com/nondejus/mediafire-fuse
 
 puddinpop bitcoin remote rpc
 http://www.mediafire.com/file/ve608cl5mk1ka3l/bitcoin-remote-rpc-20110227-src.zip/file
