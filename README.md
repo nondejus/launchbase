@@ -1765,6 +1765,9 @@ http://tenant.net/Community/steal/steal.html
 quantitative easing
 https://en.m.wikipedia.org/wiki/Quantitative_easing
 
+blauwe aanslag turks-koerdische bibliotheek, den haag 
+https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
+
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
 
