@@ -1739,3 +1739,34 @@ https://noiseprotocol.org
 
 noise explorer
 https://noiseexplorer.com
+
+
+complementary
+bookburning section
+
+uncle fester
+http://www.unclefesterbooks.com
+
+indymedia
+https://indymedia.org
+
+freedom press
+https://en.m.wikipedia.org/wiki/Freedom_Press
+
+steal this book
+http://tenant.net/Community/steal/steal.html
+
+counterfeiting money and coining history
+http://www.capitalpunishmentuk.org/burning.html
+
+anarchist bookfair amsterdam
+https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
+
+de as (anarchistisch tijdschrift)
+https://www.tijdschrift-de-as.nl/
+
+le libertaire
+http://le-libertaire.net
+
+anarchist bookstore
+https://en.m.wikipedia.org/wiki/Bound_Together
