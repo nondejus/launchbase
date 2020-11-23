@@ -1777,6 +1777,9 @@ http://le-libertaire.net
 calafou
 https://archive.calafou.org
 
+trump blimp
+https://en.m.wikipedia.org/wiki/Donald_Trump_baby_balloon
+
 brexit
 https://en.m.wikipedia.org/wiki/Brexit
 
