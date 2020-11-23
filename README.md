@@ -1780,6 +1780,12 @@ http://le-libertaire.net
 calafou  
 https://archive.calafou.org
 
+ztohoven
+https://en.m.wikipedia.org/wiki/Ztohoven
+
+trump blimp
+https://en.m.wikipedia.org/wiki/Donald_Trump_baby_balloon
+
 brexit
 https://en.m.wikipedia.org/wiki/Brexit
 
