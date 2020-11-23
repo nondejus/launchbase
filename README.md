@@ -1744,6 +1744,9 @@ https://noiseexplorer.com
 
 ## bookburning section
 
+mediafire
+https://github.com/nondejus/mediafire-fuse
+
 de as (anarchistisch tijdschrift)
 https://www.tijdschrift-de-as.nl/
 
