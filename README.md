@@ -1750,20 +1750,20 @@ https://www.tijdschrift-de-as.nl/
 uncle fester
 http://www.unclefesterbooks.com
 
-indymedia
-https://indymedia.org
-
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
+
+indymedia
+https://indymedia.org
 
 steal this book
 http://tenant.net/Community/steal/steal.html
 
-counterfeiting money and coining history
-http://www.capitalpunishmentuk.org/burning.html
-
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
+
+counterfeiting money and coining history
+http://www.capitalpunishmentuk.org/burning.html
 
 le libertaire
 http://le-libertaire.net
