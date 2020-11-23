@@ -62,6 +62,9 @@ https://en.bitcoin.it/wiki/Confirmation
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
 
+bitcoincharts
+https://bitcoincharts.com
+
 Y2038
 https://en.m.wikipedia.org/wiki/Year_2038_problem
 
@@ -1249,9 +1252,6 @@ https://github.com/zone117x/node-multi-hashing
 
 xkcd     
 https://xkcd.com/177/
-
-bitcoincharts
-https://bitcoincharts.com
 
 sierrachartfeed
 https://github.com/slush0/sierrachartfeed
