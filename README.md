@@ -131,8 +131,8 @@ https://greenaddress.it
 green cli
 https://github.com/Blockstream/green_cli
 
-liquid explorer
-https://blockstream.info/liquid/
+bitcoin explorer
+https://blockstream.info/
 
 bitcoin liquid explorer
 https://github.com/Blockstream/esplora
