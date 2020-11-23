@@ -1786,6 +1786,9 @@ https://en.m.wikipedia.org/wiki/Ztohoven
 trump blimp
 https://en.m.wikipedia.org/wiki/Donald_Trump_baby_balloon
 
+austerity
+https://en.m.wikipedia.org/wiki/Austerity
+
 brexit
 https://en.m.wikipedia.org/wiki/Brexit
 
