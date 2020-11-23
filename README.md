@@ -1774,11 +1774,8 @@ http://www.capitalpunishmentuk.org/burning.html
 le libertaire  
 http://le-libertaire.net
 
-calafou
+calafou  
 https://archive.calafou.org
-
-trump blimp
-https://en.m.wikipedia.org/wiki/Donald_Trump_baby_balloon
 
 brexit
 https://en.m.wikipedia.org/wiki/Brexit
