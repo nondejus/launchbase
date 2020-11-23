@@ -1768,8 +1768,11 @@ https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterda
 counterfeiting money and coining history
 http://www.capitalpunishmentuk.org/burning.html
 
-le libertaire
+le libertaire  
 http://le-libertaire.net
+
+calafou
+https://archive.calafou.org
 
 anarchist bookstore
 https://en.m.wikipedia.org/wiki/Bound_Together
