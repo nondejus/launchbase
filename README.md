@@ -1208,9 +1208,6 @@ https://caitlin-long.com/about-caitlin/
 wyohackaton
 https://wyohackathon.io
 
-uniswap
-https://github.com/Uniswap/uniswap-lib
-
 brian armstrong
 https://www.brianarmstrong.org/
 
@@ -1430,12 +1427,6 @@ https://hackaday.io/project/13213-unity3d-and-kinect-for-face-tracking
 blender 3d
 https://github.com/indyjo/bitwrk
 
-libra wiki
-https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
-
-libra
-https://github.com/libra/libra
-
 ecb
 https://github.com/expersso/ecb
 
@@ -1523,6 +1514,15 @@ https://github.com/hjort/pgafis
 fingerprint scanner
 https://learn.adafruit.com/adafruit-optical-fingerprint-sensor?view=all
 
+tor
+https://gitweb.torproject.org/tor.git
+
+bitcoin tor
+https://en.bitcoin.it/wiki/Tor
+
+bitcoin core tor
+https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
+
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
 
@@ -1544,14 +1544,11 @@ https://ristretto.group/why_ristretto.html
 dalek
 https://dalek.rs
 
-tor
-https://gitweb.torproject.org/tor.git
+libra wiki
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
 
-bitcoin tor
-https://en.bitcoin.it/wiki/Tor
-
-bitcoin core tor
-https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
+libra
+https://github.com/libra/libra
 
 john gilmore (2010-08-15)
 https://web.archive.org/web/20100427075340/http://www.toad.com/gnu/
@@ -1750,6 +1747,9 @@ https://github.com/GNSPS/solidity-bytes-utils
 
 solidity bug
 https://solidity.ethereum.org/2020/10/07/solidity-dynamic-array-cleanup-bug/
+
+uniswap
+https://github.com/Uniswap/uniswap-lib
 
 uniswap v2
 https://uniswap.org/blog/uni/
