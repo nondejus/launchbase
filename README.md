@@ -1744,9 +1744,6 @@ https://noiseexplorer.com
 
 ## bookburning section
 
-room 641A  
-https://en.m.wikipedia.org/wiki/Room_641A
-
 mediafire
 https://github.com/nondejus/mediafire-fuse
 
