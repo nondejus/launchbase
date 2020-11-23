@@ -1750,6 +1750,9 @@ https://en.m.wikipedia.org/wiki/Room_641A
 mediafire
 https://github.com/nondejus/mediafire-fuse
 
+uncle fester
+http://www.unclefesterbooks.com
+
 de as (anarchistisch tijdschrift)
 https://www.tijdschrift-de-as.nl/
 
