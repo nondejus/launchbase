@@ -156,21 +156,6 @@ https://bitcoincore.org/bin/
 bitcoin core review   
 https://bitcoincore.reviews
 
-rustup
-https://github.com/rust-lang/rustup
-
-rust crypto
-https://github.com/RustCrypto
-
-rust bitcoin
-https://github.com/rust-bitcoin/rust-bitcoin
-
-rust clightning rpc
-https://github.com/laanwj/rust-clightning-rpc
-
-dalek
-https://dalek.rs
-
 bitcoin explorer
 https://github.com/janoside/btc-rpc-explorer
 
@@ -1544,6 +1529,24 @@ https://learn.adafruit.com/adafruit-optical-fingerprint-sensor?view=all
 
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
+
+rustup
+https://github.com/rust-lang/rustup
+
+rust crypto
+https://github.com/RustCrypto
+
+rust bitcoin
+https://github.com/rust-bitcoin/rust-bitcoin
+
+rust clightning rpc
+https://github.com/laanwj/rust-clightning-rpc
+
+why ristretto
+https://ristretto.group/why_ristretto.html
+
+dalek
+https://dalek.rs
 
 tor
 https://gitweb.torproject.org/tor.git
