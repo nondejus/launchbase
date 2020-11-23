@@ -1765,11 +1765,11 @@ https://indymedia.org
 steal this book
 http://tenant.net/Community/steal/steal.html
 
-quantitative easing
-https://en.m.wikipedia.org/wiki/Quantitative_easing
-
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
+
+quantitative easing
+https://en.m.wikipedia.org/wiki/Quantitative_easing
 
 counterfeiting money and coining history
 http://www.capitalpunishmentuk.org/burning.html
