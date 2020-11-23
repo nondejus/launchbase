@@ -1744,6 +1744,9 @@ https://noiseexplorer.com
 
 ## bookburning section
 
+de as (anarchistisch tijdschrift)
+https://www.tijdschrift-de-as.nl/
+
 uncle fester
 http://www.unclefesterbooks.com
 
@@ -1761,9 +1764,6 @@ http://www.capitalpunishmentuk.org/burning.html
 
 anarchist bookfair amsterdam
 https://anarchistbookfairamsterdam.blackblogs.org/en/anarchist-bookfair-amsterdam-2/
-
-de as (anarchistisch tijdschrift)
-https://www.tijdschrift-de-as.nl/
 
 le libertaire
 http://le-libertaire.net
