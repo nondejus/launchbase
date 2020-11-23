@@ -1777,7 +1777,7 @@ http://www.capitalpunishmentuk.org/burning.html
 le libertaire  
 http://le-libertaire.net
 
-blauwe aanslag (turks-koerdische bibliotheek, restaurant linke soep, bioscoop eisenstein, drukkerij/redactie krakersblad de zwarte)
+blauwe aanslag
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
 calafou  
