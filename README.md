@@ -1557,12 +1557,6 @@ https://en.bitcoin.it/wiki/Tor
 bitcoin core tor
 https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
 
-orchid crypto vpn
-https://github.com/OrchidTechnologies/orchid
-
-orchid
-https://github.com/OrchidTechnologies/orchid
-
 john gilmore (2010-08-15)
 https://web.archive.org/web/20100427075340/http://www.toad.com/gnu/
 
@@ -1575,17 +1569,20 @@ https://www.paralelnipolis.cz/event/hcpp20/
 cryptohippie
 http://cryptohippie.net
 
-birmask
+bitmask
 https://bitmask.net
+
+orchid crypto vpn
+https://github.com/OrchidTechnologies/orchid
+
+orchid
+https://github.com/OrchidTechnologies/orchid
 
 atomic swap
 https://github.com/meherett/swap
 
 steamr
 https://github.com/nondejus/streamr-client-java
-
-capstone
-https://github.com/aquynh/capstone
 
 menefactory
 https://github.com/nondejus/memefactory
@@ -1886,6 +1883,9 @@ https://www.radare.org/r/
 
 x64dbg
 https://github.com/nondejus/x64dbg
+
+capstone
+https://github.com/aquynh/capstone
 
 raspiblitz
 https://github.com/rootzoll/raspiblitz
