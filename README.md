@@ -311,7 +311,7 @@ https://bitcointalk.org/oldSiteFiles/byzantine.html
 bug bounty
 https://hackerone.com/github?type=team
 
-loic (dc, across the street)
+loic (across the street)
 https://github.com/PresidentObama/LOIC
 
 bitcoinfoundation
