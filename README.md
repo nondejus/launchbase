@@ -551,9 +551,6 @@ https://github.com/harding/ref-mast
 bitcoin dev kit
 https://bitcoindevkit.org/
 
-room 641A | 0x659C7DDA (斜線)
-https://en.m.wikipedia.org/wiki/Room_641A
-
 processing
 https://processingfoundation.org
 
