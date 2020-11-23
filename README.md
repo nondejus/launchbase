@@ -1756,11 +1756,11 @@ http://www.unclefesterbooks.com
 de as (anarchistisch tijdschrift)
 https://www.tijdschrift-de-as.nl/
 
-eurooean troika
-https://en.m.wikipedia.org/wiki/European_troika
-
 freedom press
 https://en.m.wikipedia.org/wiki/Freedom_Press
+
+eurooean troika
+https://en.m.wikipedia.org/wiki/European_troika
 
 indymedia
 https://indymedia.org
@@ -1780,7 +1780,7 @@ http://www.capitalpunishmentuk.org/burning.html
 le libertaire  
 http://le-libertaire.net
 
-blauwe aanslag turks-koerdische bibliotheek, den haag 
+blauwe aanslag; turks-koerdische bibliotheek
 https://nl.m.wikipedia.org/wiki/De_Blauwe_Aanslag
 
 calafou  
