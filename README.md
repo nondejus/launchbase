@@ -1717,6 +1717,9 @@ https://blog.adafruit.com/category/bitcoin/
 bitcoin atm
 https://en.m.wikipedia.org/wiki/Bitcoin_ATM
 
+coin atm radar
+https://coinatmradar.com
+
 bleskomat v1
 raspberrypi https://github.com/samotari/bleskomat-v1-raspberrypi
 
