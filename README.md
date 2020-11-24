@@ -2,8 +2,6 @@ launchbase
 ==========
 
 
-anagram (a hook to satanism)
-
 
 cypherpunk
 https://en.m.wikipedia.org/wiki/Cypherpunk
