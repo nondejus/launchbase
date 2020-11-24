@@ -750,12 +750,6 @@ https://www.bloq.com/
 medium
 https://medium.com/
 
-bitcoin atm
-https://en.m.wikipedia.org/wiki/Bitcoin_ATM
-
-bleskomat v1 raspberrypi
-https://github.com/samotari/bleskomat-v1-raspberrypi
-
 pyton bitcoin server/node
 https://github.com/mikegogulski/caesure
 
@@ -1719,6 +1713,12 @@ https://github.com/rootzoll/raspiblitz
 
 adafruit blog
 https://blog.adafruit.com/category/bitcoin/
+
+bitcoin atm
+https://en.m.wikipedia.org/wiki/Bitcoin_ATM
+
+bleskomat v1
+raspberrypi https://github.com/samotari/bleskomat-v1-raspberrypi
 
 umbrel
 https://github.com/getumbrel/umbrel-os
