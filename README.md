@@ -1461,6 +1461,9 @@ https://en.m.wikipedia.org/wiki/Proof_of_stake
 proof of stake crypto generator
 https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
 
+distributed consensus from proof of stake is impossible
+https://www.semanticscholar.org/paper/Distributed-Consensus-from-Proof-of-Stake-is-Poelstra/9d1cb62f7fde9b03882567ee01adba31b7108276#citing-papers
+
 pos eth
 https://eth.wiki/en/concepts/proof-of-stake-faqs
 
