@@ -1440,20 +1440,23 @@ https://district0x.io/
 0x
 https://0x.org
 
+distributed consensus from proof of stake is impossible
+https://www.semanticscholar.org/paper/Distributed-Consensus-from-Proof-of-Stake-is-Poelstra/9d1cb62f7fde9b03882567ee01adba31b7108276#citing-papers
+
 btckeysplit
 https://github.com/vbuterin/btckeysplit
+
+gavin wood
+http://gavwood.com
+
+frontier
+https://github.com/paritytech/frontier
 
 ethereum
 https://en.m.wikipedia.org/wiki/Ethereum
 
-smart contract
-https://en.m.wikipedia.org/wiki/Smart_contract
-
-ethereum evm
-https://github.com/ethereum/evmone
-
-frontier
-https://github.com/paritytech/frontier
+ethereum
+https://github.com/ethereum
 
 proof of stake
 https://en.m.wikipedia.org/wiki/Proof_of_stake
@@ -1461,26 +1464,8 @@ https://en.m.wikipedia.org/wiki/Proof_of_stake
 proof of stake crypto generator
 https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator
 
-distributed consensus from proof of stake is impossible
-https://www.semanticscholar.org/paper/Distributed-Consensus-from-Proof-of-Stake-is-Poelstra/9d1cb62f7fde9b03882567ee01adba31b7108276#citing-papers
-
 pos eth
 https://eth.wiki/en/concepts/proof-of-stake-faqs
-
-ethereum
-https://github.com/ethereum
-
-sha3
-https://en.m.wikipedia.org/wiki/SHA-3
-
-keccak
-https://github.com/nondejus/keccak
-
-ethash
-https://github.com/ethereum/ethash
-
-gavin wood
-http://gavwood.com/
 
 ethereum wiki
 https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a
@@ -1496,6 +1481,21 @@ https://ethereum-magicians.org/
 
 ethereum mainnet statistics
 https://ethernodes.org
+
+smart contract
+https://en.m.wikipedia.org/wiki/Smart_contract
+
+ethereum evm
+https://github.com/ethereum/evmone
+
+sha3
+https://en.m.wikipedia.org/wiki/SHA-3
+
+keccak
+https://github.com/nondejus/keccak
+
+ethash
+https://github.com/ethereum/ethash
 
 cbc casper
 https://github.com/ethereum/cbc-casper/wiki
