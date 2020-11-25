@@ -954,6 +954,15 @@ https://www.coinomi.com
 mimblewimble
 https://github.com/mimblewimble/grin
 
+grin miner
+https://github.com/mimblewimble/grin-miner
+
+grin pool
+https://github.com/grin-pool/grin-pool
+
+grin explorer
+https://github.com/mimblewimble/grin-explorer
+
 darkwallet
 https://github.com/darkwallet/darkwallet
 
