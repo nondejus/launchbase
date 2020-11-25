@@ -36,7 +36,7 @@ https://cryptome.org/2014/09/hal-finney-cpunks-1992.htm
 hal finney bc_key
 https://github.com/halfinney/bc_key
 
-bmoney
+b-money
 https://en.bitcoin.it/wiki/B-money
 
 wei dai wiki
