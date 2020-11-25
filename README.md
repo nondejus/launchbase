@@ -954,6 +954,9 @@ https://www.coinomi.com
 mimblewimble
 https://github.com/mimblewimble/grin
 
+secp256k1-mw
+https://github.com/apoelstra/secp256k1-mw
+
 secp256k1-zkp
 https://github.com/mimblewimble/secp256k1-zkp
 
