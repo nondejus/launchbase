@@ -954,6 +954,12 @@ https://www.coinomi.com
 mimblewimble
 https://github.com/mimblewimble/grin
 
+secp256k1-zkp
+https://github.com/mimblewimble/secp256k1-zkp
+
+rust-secp256k1-zkp
+https://github.com/mimblewimble/rust-secp256k1-zkp
+
 grin wallet
 https://github.com/mimblewimble/grin-wallet
 
