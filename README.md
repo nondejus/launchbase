@@ -1242,6 +1242,9 @@ https://github.com/bitcoinops/taproot-workshop
 bitcoin optech
 https://bitcoinops.org/en/publications/
 
+brink
+https://brink.dev
+
 satoshilabs
 https://github.com/satoshilabs/slips
 
