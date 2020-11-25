@@ -237,6 +237,9 @@ https://www.sfbitcoindevs.org
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
+bircoin seeder
+https://github.com/sipa/bitcoin-seeder
+
 getpeerinfo
 https://bitcoin-rpc.github.io/en/doc/0.17.99/rpc/network/getpeerinfo/
 
@@ -248,9 +251,6 @@ https://github.com/nondejus/bitnodes
 
 bitcoin atm radar
 https://coinatmradar.com
-
-bircoin seeder
-https://github.com/sipa/bitcoin-seeder
 
 blockchair
 https://blockchair.com
