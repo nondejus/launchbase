@@ -1476,17 +1476,20 @@ https://eth.wiki/en/concepts/proof-of-stake-faqs
 ethereum wiki
 https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs/499c882f3ec123537fc2fccd57eaa29e6032fe4a
 
-ethereum web3
-https://github.com/ethereum/web3.py
+ethereum yellowpaper
+https://github.com/ethereum/yellowpaper
 
 ethereum eip
 https://github.com/ethereum/EIPs
 
 ethereum forum
-https://ethereum-magicians.org/
+https://ethereum-magicians.org
 
 ethereum mainnet statistics
 https://ethernodes.org
+
+ethereum web3
+https://github.com/ethereum/web3.py
 
 smart contract
 https://en.m.wikipedia.org/wiki/Smart_contract
