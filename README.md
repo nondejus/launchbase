@@ -174,6 +174,9 @@ https://bitcointalk.org
 bitcoin forum legacy
 https://bitcointalk.org/index.php?topic=4322078.0
 
+bitcoin irc
+https://en.bitcoin.it/wiki/IRC_channels
+
 EFF 2011-01-20
 https://www.eff.org/deeplinks/2011/01/bitcoin-step-toward-censorship-resistant
 
