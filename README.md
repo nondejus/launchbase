@@ -1452,8 +1452,11 @@ http://gavwood.com
 frontier
 https://github.com/paritytech/frontier
 
-ethereum
+ethereum wiki
 https://en.m.wikipedia.org/wiki/Ethereum
+
+ethereum org
+https://ethereum.org
 
 ethereum
 https://github.com/ethereum
