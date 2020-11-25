@@ -531,8 +531,11 @@ https://github.com/justino/p2pool-ui-punchy
 eloipool
 https://github.com/luke-jr/eloipool
 
-miniscript 
-https://github.com/rust-bitcoin/rust-miniscript
+poolin
+https://www.poolin.com
+
+taproot activation
+https://taprootactivation.com
 
 taproot workshop
 https://github.com/bitcoinops/taproot-workshop
@@ -545,6 +548,9 @@ https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mas
 
 ref mast
 https://github.com/harding/ref-mast
+
+miniscript 
+https://github.com/rust-bitcoin/rust-miniscript
 
 bitcoin dev kit
 https://bitcoindevkit.org/
