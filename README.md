@@ -954,6 +954,9 @@ https://www.coinomi.com
 mimblewimble
 https://github.com/mimblewimble/grin
 
+grin wallet
+https://github.com/mimblewimble/grin-wallet
+
 grin miner
 https://github.com/mimblewimble/grin-miner
 
