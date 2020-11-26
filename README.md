@@ -1551,6 +1551,9 @@ https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with
 ethereum istanbul
 https://eips.ethereum.org/EIPS/eip-1679
 
+ZoKrates
+https://github.com/Zokrates/ZoKrates
+
 librustzcash
 https://github.com/zcash/librustzcash
 
