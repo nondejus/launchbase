@@ -228,6 +228,9 @@ https://www.bitstamp.net/markets/
 bitcoin transaction fees 
 https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
 
+bitcoin hardware wallet interface
+https://github.com/bitcoin-core/HWI
+
 blockchaincommons
 https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
