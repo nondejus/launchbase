@@ -525,6 +525,9 @@ https://m.youtube.com/watch?feature=youtu.be&v=NOIqfTwNZK0
 coldcard
 https://github.com/Coldcard
 
+coinkite blog
+https://blog.coinkite.com
+
 slushpool
 https://slushpool.com/home/
 
