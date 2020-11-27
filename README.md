@@ -531,6 +531,9 @@ https://github.com/Coldcard
 coinkite blog
 https://blog.coinkite.com
 
+bitbox
+https://github.com/digitalbitbox/bitbox02-firmware
+
 slushpool
 https://slushpool.com/home/
 
