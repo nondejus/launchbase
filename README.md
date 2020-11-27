@@ -519,6 +519,9 @@ https://github.com/cryptosteel/cryptosteel
 cryptonist
 https://cryptonist.ru
 
+cryptonist youtube
+https://m.youtube.com/watch?feature=youtu.be&v=NOIqfTwNZK0
+
 slushpool
 https://slushpool.com/home/
 
