@@ -507,6 +507,9 @@ https://github.com/trezor/connect
 trezor wallet account addresses
 https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
 
+BIP-143 VULNERABILITY
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-August/014843.html
+
 nano-s
 https://github.com/LedgerHQ/ledger-nano-s
 
