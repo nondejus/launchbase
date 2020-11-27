@@ -507,6 +507,18 @@ https://github.com/trezor/connect
 trezor wallet account addresses
 https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
 
+nano-s
+https://github.com/LedgerHQ/ledger-nano-s
+
+app bitcoin nano-s
+https://github.com/LedgerHQ/app-bitcoin
+
+cryptosteel
+https://github.com/cryptosteel/cryptosteel
+
+cryptonist
+https://cryptonist.ru
+
 slushpool
 https://slushpool.com/home/
 
@@ -518,9 +530,6 @@ https://braiins.com/blog/data-privacy-and-security-for-bitcoin-miners
 
 tassic
 https://github.com/tropicsquare/tassic
-
-cryptosteel
-https://github.com/cryptosteel/cryptosteel
 
 btcguild
 https://web.archive.org/web/20110727214951/http://btcguild.com/
@@ -621,7 +630,7 @@ https://github.com/namecoin/namecoin-core
 merged mining
 https://en.bitcoin.it/wiki/Merged_mining_specification
 
-lirecoin wiki
+litecoin wiki
 https://en.m.wikipedia.org/wiki/Litecoin
 
 scryot
@@ -1026,12 +1035,6 @@ https://en.m.wikipedia.org/wiki/Contactless_smart_card
 coldcatd ckcc protocol
 https://github.com/Coldcard/ckcc-protocol
 
-nano-s
-https://github.com/LedgerHQ/ledger-nano-s
-
-app bitcoin nano-s
-https://github.com/LedgerHQ/app-bitcoin
-
 sha2
 https://en.m.wikipedia.org/wiki/SHA-2
 
@@ -1050,7 +1053,7 @@ https://github.com/nondejus/sha256-animation
 special hash
 https://ehash.iaik.tugraz.at/wiki/Spectral_Hash
 
-buttelproofs
+bulletproofs
 https://github.com/isislovecruft/bulletproofs
 
 otr
