@@ -1518,6 +1518,9 @@ https://ethereum-magicians.org
 ethereum mainnet statistics
 https://ethernodes.org
 
+kauri-io/archive
+https://github.com/kauri-io/archive/
+
 ethereum web3
 https://github.com/ethereum/web3.py
 
