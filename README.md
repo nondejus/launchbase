@@ -270,6 +270,9 @@ https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETUR
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
+qemu cve
+https://www.cvedetails.com/vulnerability-list.php?vendor_id=7506
+
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
