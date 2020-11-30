@@ -1197,6 +1197,9 @@ https://bisq.wiki/Bisq_Price_Indices
 Bisq Network Improvement Proposals
 https://github.com/bisq-network/proposals
 
+bisq latest BSQ transactions
+https://bsq.bisq.cc
+
 opendex
 https://github.com/opendexnetwork/opendex
 
