@@ -519,6 +519,9 @@ https://github.com/LedgerHQ/ledger-nano-s
 app bitcoin nano-s
 https://github.com/LedgerHQ/app-bitcoin
 
+shapeshift hdwallet
+https://github.com/shapeshift/hdwallet
+
 cryptosteel
 https://github.com/cryptosteel/cryptosteel
 
