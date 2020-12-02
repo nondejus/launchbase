@@ -825,12 +825,6 @@ https://github.com/Jaxx-io/Jaxx
 Useful primitives for wallets
 https://github.com/nondejus/libwally-core
 
-simple directmedia layer
-https://en.m.wikipedia.org/wiki/Simple_DirectMedia_Layer
-
-sdl collide
-https://sourceforge.net/projects/sdl-collide/
-
 blenderVR yofrankie
 https://github.com/BlenderVR/yofrankie
 
