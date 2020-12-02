@@ -837,6 +837,12 @@ https://github.com/BlenderVR/yofrankie
 blender
 https://github.com/blender/blender
 
+gimp
+https://www.gimp.org
+
+audacity
+https://github.com/audacity/audacity
+
 usd
 https://github.com/PixarAnimationStudios/USD
 
@@ -851,9 +857,6 @@ https://en.m.wikipedia.org/wiki/Dragonchain
 
 dragonchain
 https://github.com/Dragonchain/Dragonchain
-
-gimp
-https://www.gimp.org
 
 nbitcoin
 https://github.com/MetacoSA/NBitcoin
