@@ -510,6 +510,9 @@ https://github.com/trezor/connect
 trezor wallet account addresses
 https://blog.trezor.io/wallet-accounts-and-addresses-bdfa6b66b037
 
+trezor x tor project
+https://satoshilabs.com/trezor-tor-open-call.html
+
 BIP-143 VULNERABILITY
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-August/014843.html
 
