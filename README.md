@@ -1284,6 +1284,39 @@ https://github.com/bitcoin-core/bitcoin-maintainer-tools
 bitcoincore
 https://doxygen.bitcoincore.org/
 
+tor
+https://gitweb.torproject.org/tor.git
+
+bitcoin tor
+https://en.bitcoin.it/wiki/Tor
+
+bitcoin core tor
+https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
+
+darksearch
+https://darksearch.io
+
+dblp     
+https://dblp.uni-trier.de/pid/b/MBellare.html
+
+rustup
+https://github.com/rust-lang/rustup
+
+rust crypto
+https://github.com/RustCrypto
+
+rust bitcoin
+https://github.com/rust-bitcoin/rust-bitcoin
+
+rust clightning rpc
+https://github.com/laanwj/rust-clightning-rpc
+
+why ristretto
+https://ristretto.group/why_ristretto.html
+
+dalek
+https://dalek.rs
+
 bitcoinops taproot
 https://github.com/bitcoinops/taproot-workshop
 
@@ -1403,36 +1436,6 @@ https://github.com/hjort/pgafis
 
 fingerprint scanner
 https://learn.adafruit.com/adafruit-optical-fingerprint-sensor?view=all
-
-tor
-https://gitweb.torproject.org/tor.git
-
-bitcoin tor
-https://en.bitcoin.it/wiki/Tor
-
-bitcoin core tor
-https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
-
-dblp     
-https://dblp.uni-trier.de/pid/b/MBellare.html
-
-rustup
-https://github.com/rust-lang/rustup
-
-rust crypto
-https://github.com/RustCrypto
-
-rust bitcoin
-https://github.com/rust-bitcoin/rust-bitcoin
-
-rust clightning rpc
-https://github.com/laanwj/rust-clightning-rpc
-
-why ristretto
-https://ristretto.group/why_ristretto.html
-
-dalek
-https://dalek.rs
 
 libra wiki
 https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
