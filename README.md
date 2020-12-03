@@ -1296,6 +1296,9 @@ https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
 darksearch
 https://darksearch.io
 
+torbot
+https://github.com/shivankar-madaan/TorBoT
+
 dblp     
 https://dblp.uni-trier.de/pid/b/MBellare.html
 
