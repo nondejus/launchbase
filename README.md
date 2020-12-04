@@ -1602,6 +1602,9 @@ https://github.com/zcash/librustzcash
 ethereum txpool
 https://txpool.zengo.com/#0,24h
 
+eth contract metadata
+https://github.com/autonomoussoftware/eth-contract-metadata
+
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
