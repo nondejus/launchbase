@@ -282,6 +282,9 @@ https://gcc.gnu.org/bugzilla/
 protocol
 https://en.bitcoin.it/wiki/Protocol_documentation
 
+bitauth
+https://github.com/bitpay/bitauth
+
 MD5
 https://en.m.wikipedia.org/wiki/MD5
 
