@@ -1488,6 +1488,9 @@ https://www.magicalcryptofriends.com/about
 magical cryptoconference 2020
 https://www.magicalcryptoconference.com/2020-vr
 
+elements
+https://github.com/ElementsProject/elements
+
 karma
 https://github.com/sirin-labs/karma.js
 
