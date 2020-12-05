@@ -1611,6 +1611,9 @@ https://github.com/autonomoussoftware/eth-contract-metadata
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
+hyperledger
+https://github.com/hyperledger/besu
+
 openzkp
 https://github.com/0xProject/OpenZKP
 
