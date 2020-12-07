@@ -1500,6 +1500,9 @@ https://www.magicalcryptoconference.com/2020-vr
 coinmarketcrap
 https://coinmarketcrap.co
 
+coinmarketcap
+https://coinmarketcap.com
+
 elements
 https://github.com/ElementsProject/elements
 
