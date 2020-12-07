@@ -1617,6 +1617,9 @@ https://txpool.zengo.com/#0,24h
 eth contract metadata
 https://github.com/autonomoussoftware/eth-contract-metadata
 
+wETH
+https://github.com/WETH10/WETH10/network/members
+
 ethereum dissectors
 https://github.com/ConsenSys/ethereum-dissectors
 
