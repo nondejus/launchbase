@@ -303,6 +303,9 @@ https://github.com/bitcoin-core/secp256k1
 ctaes
 https://github.com/bitcoin-core/ctaes
 
+bech32 error analysis
+https://gist.github.com/sipa/14c248c288c3880a3b191f978a34508e
+
 script   
 https://en.bitcoin.it/wiki/Script
 
