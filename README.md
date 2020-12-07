@@ -240,6 +240,9 @@ https://github.com/blockchain/libwally-swift
 sf bitcoin devs
 https://www.sfbitcoindevs.org
 
+Raspberry Pi 2 fullnode
+https://github.com/MrChrisJ/fullnode
+
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
