@@ -1497,6 +1497,9 @@ https://www.magicalcryptofriends.com/about
 magical cryptoconference 2020
 https://www.magicalcryptoconference.com/2020-vr
 
+coinmarketcrap
+https://coinmarketcrap.co
+
 elements
 https://github.com/ElementsProject/elements
 
