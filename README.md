@@ -1044,6 +1044,9 @@ https://localbitcoins.com/
 butterfly labs
 https://www.google.com/amp/s/en.bitcoinwiki.org/wiki/Amp/Butterfly_Labs
 
+jalepeno
+https://www.amazon.com/Asic-Bitcoin-Miner-Butterfly-Jalape%C3%B1o/dp/B00DMTTFVG
+
 bitcoingold.org
 https://github.com/BTCGPU/BTCGPU
 
