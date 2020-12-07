@@ -1500,6 +1500,9 @@ https://www.magicalcryptoconference.com/2020-vr
 coinmarketcrap
 https://coinmarketcrap.co
 
+shitcoin
+https://bitcointalk.org/index.php?topic=740159.0
+
 coinmarketcap
 https://coinmarketcap.com
 
