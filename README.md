@@ -1260,11 +1260,14 @@ https://m.bithumb.pro
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
+key recovery service v2
+https://github.com/BitGo/key-recovery-service-v2
+
 coinbase     
 https://coinbase.com
 
 bitcoingold
-https://bitcoingold.org/
+https://bitcoingold.org
 
 legality of bitcoin
 https://en.m.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
