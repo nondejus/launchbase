@@ -1494,6 +1494,9 @@ https://github.com/meherett/swap
 steamr
 https://github.com/nondejus/streamr-client-java
 
+lbry-sdk
+https://github.com/lbryio/lbry-sdk
+
 menefactory
 https://github.com/nondejus/memefactory
 
