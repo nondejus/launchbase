@@ -1497,8 +1497,11 @@ https://github.com/nondejus/streamr-client-java
 lbry
 https://lbry.com
 
-lbry-sdk
+lbry sdk
 https://github.com/lbryio/lbry-sdk
+
+lbry explorer
+https://explorer.lbry.com
 
 menefactory
 https://github.com/nondejus/memefactory
