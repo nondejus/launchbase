@@ -939,6 +939,9 @@ https://github.com/Electric-Coin-Company/observatory
 zcash zip bech32
 https://zips.z.cash/zip-0173
 
+explorer testnet.z.cash
+https://explorer.testnet.z.cash/status
+
 cgminer
 https://github.com/ckolivas/cgminer
 
