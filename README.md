@@ -1668,6 +1668,9 @@ https://ethereum.miningpoolhub.com/index.php?page=statistics&action=blocks
 walletconnect
 https://github.com/shiryakhat/walletconnect-monorepo
 
+eth multisig v2
+https://github.com/BitGo/eth-multisig-v2
+
 ethereumbook
 https://github.com/ethereumbook/ethereumbook
 
