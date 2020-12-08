@@ -936,6 +936,9 @@ https://blockchair.com/bitcoin/mempool/transactions
 zcash observatory
 https://github.com/Electric-Coin-Company/observatory
 
+zcash zip bech32
+https://zips.z.cash/zip-0173
+
 cgminer
 https://github.com/ckolivas/cgminer
 
