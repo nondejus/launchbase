@@ -1746,6 +1746,9 @@ https://btconethereum.com
 ethplorer
 https://github.com/nondejus/Ethplorer
 
+eth2 beaconchain explorer
+https://github.com/gobitfly/eth2-beaconchain-explorer
+
 curve contract
 https://github.com/curvefi/curve-contract
 
