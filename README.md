@@ -1887,6 +1887,9 @@ https://github.com/cdecker/lnbook
 xud exchange union
 https://github.com/ExchangeUnion/xud
 
+open patent
+https://open-patent.org
+
 simplicity
 https://github.com/nondejus/simplicity
 
