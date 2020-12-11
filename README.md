@@ -606,6 +606,9 @@ https://github.com/rust-bitcoin/rust-miniscript
 minsc
 https://github.com/shesek/minsc
 
+minsc Miniscript-based scripting language for Bitcoin contracts
+https://min.sc
+
 bitcoin dev kit
 https://bitcoindevkit.org/
 
