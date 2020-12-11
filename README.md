@@ -1503,8 +1503,11 @@ https://lbry.com
 lbry sdk
 https://github.com/lbryio/lbry-sdk
 
-lbry explorer
+lbry block explorer
 https://explorer.lbry.com/stats
+
+lbry claim explorer
+https://explorer.lbry.com/claims
 
 menefactory
 https://github.com/nondejus/memefactory
