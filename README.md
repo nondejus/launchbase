@@ -1851,6 +1851,9 @@ https://petertodd.org/2017/bitcoin-mining-space-hard-sci-fi
 liquid
 https://github.com/ElementsProject/elements
 
+liquid nerwork
+https://liquid.net
+
 green development kit
 https://github.com/Blockstream/gdk
 
