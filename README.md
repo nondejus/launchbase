@@ -1521,6 +1521,9 @@ https://jwt.io
 upbit exchange
 https://upbit.com/home#
 
+ccxt
+https://github.com/ccxt/ccxt
+
 menefactory
 https://github.com/nondejus/memefactory
 
