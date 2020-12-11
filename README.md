@@ -1284,6 +1284,12 @@ https://groups.google.com/g/stellar-dev
 stellar stack
 https://stellar.stackexchange.com/
 
+stellar blockchain damsung galaxy
+https://www.stellar.org/press-releases/stellar-blockchain-now-available-on-samsung-galaxy-smartphones
+
+stellar-x
+https://www.stellarx.com/markets
+
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
