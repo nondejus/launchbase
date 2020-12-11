@@ -1504,7 +1504,7 @@ lbry sdk
 https://github.com/lbryio/lbry-sdk
 
 lbry explorer
-https://explorer.lbry.com
+https://explorer.lbry.com/stats
 
 menefactory
 https://github.com/nondejus/memefactory
