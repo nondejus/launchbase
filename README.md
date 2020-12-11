@@ -1269,6 +1269,21 @@ https://github.com/nondejus/viabtc_exchange_server
 bithump     
 https://m.bithumb.pro
 
+stellar Ledger explorer
+https://stellar.expert/explorer/public?sort=rating
+
+stellar network explorer
+https://stellarbeat.io
+
+stellar lab
+https://laboratory.stellar.org/#?network=test
+
+stellar dev
+https://groups.google.com/g/stellar-dev
+
+stellar stack
+https://stellar.stackexchange.com/
+
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
