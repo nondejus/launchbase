@@ -603,6 +603,9 @@ https://github.com/harding/ref-mast
 miniscript 
 https://github.com/rust-bitcoin/rust-miniscript
 
+minsc
+https://github.com/shesek/minsc
+
 bitcoin dev kit
 https://bitcoindevkit.org/
 
