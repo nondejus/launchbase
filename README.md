@@ -312,6 +312,33 @@ https://gist.github.com/sipa/14c248c288c3880a3b191f978a34508e
 script   
 https://en.bitcoin.it/wiki/Script
 
+miniscript
+http://bitcoin.sipa.be/miniscript
+
+miniscript rust bitcoin
+https://github.com/rust-bitcoin/rust-miniscript
+
+minsc
+https://github.com/shesek/minsc
+
+minsc Miniscript-based scripting language for Bitcoin contracts
+https://min.sc
+
+taproot activation
+https://taprootactivation.com
+
+taproot workshop
+https://github.com/bitcoinops/taproot-workshop
+
+taproot review
+https://github.com/ajtowns/taproot-review
+
+bitcoin mast
+https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f?source=social.tw
+
+ref mast
+https://github.com/harding/ref-mast
+
 btcdeb   
 https://github.com/bitcoin-core/btcdeb
 
@@ -584,33 +611,6 @@ https://github.com/luke-jr/eloipool
 
 poolin
 https://www.poolin.com
-
-taproot activation
-https://taprootactivation.com
-
-taproot workshop
-https://github.com/bitcoinops/taproot-workshop
-
-taproot review
-https://github.com/ajtowns/taproot-review
-
-bitcoin mast
-https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f?source=social.tw
-
-ref mast
-https://github.com/harding/ref-mast
-
-miniscript
-http://bitcoin.sipa.be/miniscript
-
-miniscript rust bitcoin
-https://github.com/rust-bitcoin/rust-miniscript
-
-minsc
-https://github.com/shesek/minsc
-
-minsc Miniscript-based scripting language for Bitcoin contracts
-https://min.sc
 
 bitcoin dev kit
 https://bitcoindevkit.org/
