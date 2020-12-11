@@ -1503,6 +1503,9 @@ https://lbry.com
 lbry sdk
 https://github.com/lbryio/lbry-sdk
 
+lbry browser/wallet
+https://github.com/lbryio/lbry-desktop
+
 lbry block explorer
 https://explorer.lbry.com/stats
 
