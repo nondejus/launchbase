@@ -600,7 +600,10 @@ https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mas
 ref mast
 https://github.com/harding/ref-mast
 
-miniscript 
+miniscript
+http://bitcoin.sipa.be/miniscript
+
+miniscript rust bitcoin
 https://github.com/rust-bitcoin/rust-miniscript
 
 minsc
