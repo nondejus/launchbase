@@ -1515,6 +1515,9 @@ https://explorer.lbry.com/stats
 lbry claim explorer
 https://explorer.lbry.com/claims
 
+upbit exchange
+https://upbit.com/home#
+
 menefactory
 https://github.com/nondejus/memefactory
 
