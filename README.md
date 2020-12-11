@@ -273,6 +273,9 @@ https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETUR
 bitcoin cve list
 https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
+CVE-2018-17144 (Bitcoin 0.15 allowed double spending certain inputs in the same block. Not exploited)
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17144
+
 qemu cve
 https://www.cvedetails.com/vulnerability-list.php?vendor_id=7506
 
