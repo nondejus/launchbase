@@ -1290,6 +1290,9 @@ https://www.stellar.org/press-releases/stellar-blockchain-now-available-on-samsu
 stellar-x
 https://www.stellarx.com/markets
 
+coinvest
+https://www.coinqvest.com
+
 stellarterm
 https://github.com/jedmccaleb/stellarterm
 
