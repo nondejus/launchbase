@@ -261,6 +261,9 @@ https://github.com/nondejus/bitnodes
 bitcoin atm radar
 https://coinatmradar.com
 
+coinmap
+https://coinmap.org/view/
+
 blockchair
 https://blockchair.com
 
