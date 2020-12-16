@@ -24,6 +24,9 @@ http://www.hashcash.org
 hashcash-org
 https://github.com/hashcash-org/hashcash
 
+adam back keybase
+https://keybase.io/adam3us/sigchain#5c56c5ae34c8af15ba0e7211234d75b57e77d6252a302bbd141000e61e7ef7290f
+
 nakamotoinsritute.org
 https://nakamotoinstitute.org
 
