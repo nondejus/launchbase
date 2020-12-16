@@ -774,6 +774,12 @@ https://www.virwox.com
 virxow wiki
 https://en.bitcoin.it/wiki/VirWoX
 
+bithump
+https://github.com/bithumb-pro/bthmcpp
+
+bithump wiki
+https://en.m.wikipedia.org/wiki/Bithumb
+
 iran bitcoin
 https://en.bitcoin.it/wiki/Iran_bitcoin
 
@@ -1212,8 +1218,8 @@ https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 kraken websockets
 https://docs.kraken.com/websockets/
 
-bithumb
-https://github.com/bithumb-pro/bthmcpp
+bisq archive
+https://lists.bisq.network/pipermail/bisq-github/
 
 bisq
 https://en.bitcoin.it/wiki/Bisq
