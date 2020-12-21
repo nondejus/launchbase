@@ -1254,6 +1254,9 @@ https://github.com/bisq-network/proposals
 bisq latest BSQ transactions
 https://bsq.bisq.cc
 
+bisq markets
+https://bisq.markets
+
 opendex
 https://github.com/opendexnetwork/opendex
 
