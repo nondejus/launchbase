@@ -1257,6 +1257,9 @@ https://bsq.bisq.cc
 bisq markets
 https://bisq.markets
 
+bisq-markets
+https://github.com/bisq-network/bisq-markets
+
 opendex
 https://github.com/opendexnetwork/opendex
 
