@@ -1767,6 +1767,9 @@ https://github.com/paritytech/polkadot
 polkadot subscan
 https://polkadot.subscan.io/
 
+polkadot rococo
+https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/explorer
+
 kusama
 https://kusama.network/
 
