@@ -1767,8 +1767,14 @@ https://github.com/paritytech/polkadot
 polkadot subscan
 https://polkadot.subscan.io/
 
+rococo element room
+https://matrix.to/#/!WuksvCDImqYSxvNmua:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation
+
 polkadot rococo
 https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/explorer
+
+parachain V1 doc
+https://w3f.github.io/parachain-implementers-guide/index.html
 
 kusama
 https://kusama.network/
