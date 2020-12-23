@@ -1767,6 +1767,9 @@ https://github.com/paritytech/polkadot
 polkadot subscan
 https://polkadot.subscan.io/
 
+matrix synapse
+https://github.com/matrix-org/synapse
+
 rococo element room
 https://matrix.to/#/!WuksvCDImqYSxvNmua:matrix.parity.io?via=matrix.parity.io&via=matrix.org&via=web3.foundation
 
