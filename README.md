@@ -549,6 +549,9 @@ https://0bin.net
 0bin
 https://github.com/Tygs/0bin
 
+cryptpad
+https://github.com/xwiki-labs/cryptpad
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
