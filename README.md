@@ -1938,6 +1938,9 @@ https://github.com/Blockstream/gdk
 aqua wallet
 https://github.com/Blockstream/aqua_ios
 
+taler
+https://taler.net
+
 LSAT
 https://github.com/lightninglabs/LSAT
 
