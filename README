@@ -2006,7 +2006,10 @@ radare
 https://www.radare.org/r/
 
 x64dbg
-https://github.com/nondejus/x64dbg
+https://github.com/nondejus/x64dbg 
+
+ddisasm
+https://github.com/GrammaTech/ddisasm
 
 capstone
 https://github.com/aquynh/capstone
