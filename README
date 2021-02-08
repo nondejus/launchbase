@@ -1118,7 +1118,10 @@ gnupg
 https://github.com/gpg/gnupg
 
 gnu zrtp c++
-https://github.com/nondejus/ZRTPCPP
+https://github.com/nondejus/ZRTPCPP 
+
+paperkey 
+https://github.com/dmshaw/paperkey
 
 privatebin
 https://github.com/nondejus/PrivateBin
