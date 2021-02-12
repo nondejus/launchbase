@@ -461,7 +461,10 @@ json rpc
 https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 
 dumb block explorer
-https://bitcoin.jonasschnelli.ch/explorer/
+https://bitcoin.jonasschnelli.ch/explorer
+
+btc rpc explorer
+https://github.com/janoside/btc-rpc-explorer
 
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
