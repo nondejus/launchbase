@@ -187,6 +187,9 @@ https://bitcoincore.reviews
 bitcoin rpc explorer
 https://github.com/janoside/btc-rpc-explorer
 
+explorer btc21
+https://explorer.btc21.org/
+
 bitcoinacks
 https://bitcoinacks.com
 
@@ -463,11 +466,7 @@ https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 dumb block explorer
 https://bitcoin.jonasschnelli.ch/explorer
 
-btc rpc explorer
-https://github.com/janoside/btc-rpc-explorer
 
-explorer btc21
-https://explorer.btc21.org/
 
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
