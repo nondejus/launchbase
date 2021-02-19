@@ -1057,6 +1057,9 @@ https://github.com/primecoin/primecoin
 gmp
 https://gmplib.org
 
+gmp windows port
+https://github.com/gx/gmp
+
 cuda-rsa
 https://github.com/dmatlack/cuda-rsa
 
