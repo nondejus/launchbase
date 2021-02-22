@@ -1316,7 +1316,10 @@ bitpanda
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
 
 kraken websockets
-https://docs.kraken.com/websockets/
+https://docs.kraken.com/websockets
+
+bitrated lib
+https://github.com/bitrated/bitrated-lib
 
 bisq archive
 https://lists.bisq.network/pipermail/bisq-github/
