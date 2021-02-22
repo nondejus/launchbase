@@ -607,6 +607,9 @@ https://github.com/Tygs/0bin
 cryptpad
 https://github.com/xwiki-labs/cryptpad
 
+hardware wallet
+https://en.bitcoin.it/wiki/Hardware_wallet
+
 trezor hardware design
 https://github.com/trezor/trezor-hw
 
@@ -643,10 +646,7 @@ https://cryptonist.ru
 cryptonist youtube
 https://m.youtube.com/watch?feature=youtu.be&v=NOIqfTwNZK0
 
-coldcard
-https://github.com/Coldcard
-
-ckbunker
+coldcard ckbunker
 https://github.com/Coldcard/ckbunker
 
 bitcoinsecurity.guide
