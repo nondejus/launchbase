@@ -352,6 +352,9 @@ https://en.bitcoin.it/wiki/Base58Check_encoding
 libbase58
 https://github.com/luke-jr/libbase58
 
+SHA-2
+https://en.m.wikipedia.org/wiki/SHA-2
+
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
 
