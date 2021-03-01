@@ -349,6 +349,9 @@ https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58
 base58 check
 https://en.bitcoin.it/wiki/Base58Check_encoding
 
+libbase58
+https://github.com/luke-jr/libbase58
+
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
 
