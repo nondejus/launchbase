@@ -1804,6 +1804,9 @@ https://en.m.wikipedia.org/wiki/Smart_contract
 ethereum evm
 https://github.com/ethereum/evmone
 
+wasi crypto
+https://github.com/WebAssembly/wasi-crypto
+
 sha3
 https://en.m.wikipedia.org/wiki/SHA-3
 
