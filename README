@@ -343,6 +343,12 @@ https://en.m.wikipedia.org/wiki/MD5
 RIPEMD-160
 https://en.bitcoin.it/wiki/RIPEMD-160
 
+base58
+https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58
+
+base58 check
+https://en.bitcoin.it/wiki/Base58Check_encoding
+
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
 
