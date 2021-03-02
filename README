@@ -289,8 +289,17 @@ https://github.com/MrChrisJ/fullnode
 bitcoin-cli cpp
 https://github.com/bitcoin/bitcoin/blob/master/src/bitcoin-cli.cpp
 
-bircoin seeder
+bitcoinrpc
+https://github.com/jgarzik/python-bitcoinrpc
+
+timelock
+https://github.com/petertodd/timelock
+
+bitcoinseeder
 https://github.com/sipa/bitcoin-seeder
+
+bitcoin abe
+https://github.com/bitcoin-abe/bitcoin-abe
 
 getpeerinfo
 https://bitcoin-rpc.github.io/en/doc/0.17.99/rpc/network/getpeerinfo/
@@ -363,6 +372,9 @@ https://en.m.wikipedia.org/wiki/SHA-2
 
 sha256 animation
 https://github.com/in3rsha/sha256-animation
+
+poclbm 
+https://github.com/m0mchil/poclbm
 
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
@@ -448,11 +460,23 @@ https://github.com/petertodd/python-bitcoinlib
 btclib
 https://github.com/btclib-org/btclib
 
+gavin anderson
+https://en.m.wikipedia.org/wiki/Gavin_Andresen
+
 bitcoinfoundation
 https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
 
 bitcoinfoundation org
-https://bitcoinfoundation.org/
+https://bitcoinfoundation.org
+
+bitcoin code maintain
+https://laanwj.github.io/
+
+bitcoin-maintainer-tools
+https://github.com/bitcoin-core/bitcoin-maintainer-tools
+
+bitcoincore
+https://doxygen.bitcoincore.org/
 
 bitcoin bips
 https://github.com/bitcoin/bips
@@ -1044,22 +1068,7 @@ https://github.com/nondejus/heartbleed-PoC
 
 dusting attack 
 https://academy.binance.com/security/what-is-a-dusting-attack%3famp=1
-
-poclbm 
-https://github.com/m0mchil/poclbm
-
-bitcoinrpc
-https://github.com/jgarzik/python-bitcoinrpc
-
-timelock
-https://github.com/petertodd/timelock
-
-bitcoinseeder
-https://github.com/sipa/bitcoin-seeder
-
-bitcoin abe
-https://github.com/bitcoin-abe/bitcoin-abe
-
+ 
 bitcoin and liquid explorer
 https://github.com/Blockstream/esplora
 
@@ -1482,25 +1491,13 @@ https://www.brianarmstrong.org/
 
 gdax     
 https://github.com/nondejus/gdax-java
-
-gavin anderson
-https://en.m.wikipedia.org/wiki/Gavin_Andresen
-
+ 
 cat-v sidenote 
 http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 
 MIT digital currency initiative
 https://dci.mit.edu/wladimir-van-der-laan
-
-bitcoin code maintain
-https://laanwj.github.io/
-
-bitcoin-maintainer-tools
-https://github.com/bitcoin-core/bitcoin-maintainer-tools
-
-bitcoincore
-https://doxygen.bitcoincore.org/
-
+ 
 tor
 https://gitweb.torproject.org/tor.git
 
