@@ -178,6 +178,15 @@ https://github.com/bitcoin/bitcoin
 bitcoin core
 https://doxygen.bitcoincore.org
 
+bitcoin code maintain
+https://laanwj.github.io
+
+bitcoin-maintainer-tools
+https://github.com/bitcoin-core/bitcoin-maintainer-tools
+ 
+bitcoin bips
+https://github.com/bitcoin/bips
+
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
@@ -468,19 +477,7 @@ https://en.m.wikipedia.org/wiki/Bitcoin_Foundation
 
 bitcoinfoundation org
 https://bitcoinfoundation.org
-
-bitcoin code maintain
-https://laanwj.github.io/
-
-bitcoin-maintainer-tools
-https://github.com/bitcoin-core/bitcoin-maintainer-tools
-
-bitcoincore
-https://doxygen.bitcoincore.org/
-
-bitcoin bips
-https://github.com/bitcoin/bips
-
+ 
 bip 0050
 https://en.bitcoin.it/wiki/BIP_0050
 
