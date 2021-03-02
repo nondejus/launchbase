@@ -64,14 +64,17 @@ https://en.m.wikipedia.org/wiki/Satoshi
 bitcoin wiki
 https://en.bitcoin.it
 
-genesis block
-https://en.bitcoin.it/wiki/Genesis_block
-
 satoshi unit
 https://en.bitcoin.it/wiki/Satoshi_(unit)
 
 controlled supply
 https://en.bitcoin.it/wiki/Controlled_supply
+
+genesis block
+https://en.bitcoin.it/wiki/Genesis_block
+
+genesis block zero
+https://github.com/Gnaf/GenesisBlockZero
 
 berkeley db
 https://en.m.wikipedia.org/wiki/Berkeley_DB
