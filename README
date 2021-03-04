@@ -94,6 +94,9 @@ https://github.com/nasa8x/node-genesis-block
 ecdsa
 https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 
+secp256k1
+https://github.com/bitcoin-core/secp256k1
+
 berkeley db
 https://en.m.wikipedia.org/wiki/Berkeley_DB
 
