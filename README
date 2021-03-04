@@ -73,6 +73,12 @@ https://en.bitcoin.it/wiki/IRC_channels
 bitcoin sourceforge
 https://sourceforge.net/p/bitcoin/mailman/message/21312004/
 
+bitcoin 0.1.0
+https://github.com/fkysly/bitcoin0.1.0
+
+bitcoind 0.4.3
+http://luke.dashjr.org/~luke-jr/programs/bitcoin/files/bitcoind/
+
 protocol
 https://en.bitcoin.it/wiki/Protocol_documentation
 
@@ -160,20 +166,8 @@ https://github.com/JeanLucPons/VanitySearch
 trezor address validator
 https://github.com/trezor/trezor-address-validator
 
-bitcoin sourceforge
-https://sourceforge.net/p/bitcoin/mailman/message/21312004/
-
 bitcoin changelog
 https://en.bitcoin.it/wiki/Changelog
-
-bitcoin 0.1.0
-https://github.com/fkysly/bitcoin0.1.0
-
-wxwidgets
-https://github.com/wxWidgets/wxPython-Classic
-
-bitcoind 0.4.3
-http://luke.dashjr.org/~luke-jr/programs/bitcoin/files/bitcoind/
 
 bitcoin history
 https://en.bitcoin.it/wiki/Category:History
