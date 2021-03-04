@@ -1369,6 +1369,9 @@ https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki
 bisq registered coin type 142 - slip 0044
 https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
+bip44 constants
+https://github.com/bitcoinjs/bip44-constants
+
 bisq network stats
 https://bisq.network/stats/
 
