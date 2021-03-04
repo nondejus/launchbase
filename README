@@ -97,6 +97,12 @@ https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 secp256k1
 https://github.com/bitcoin-core/secp256k1
 
+bitcoin addresses
+https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
+
+invoice address
+https://en.bitcoin.it/wiki/Invoice_address
+
 berkeley db
 https://en.m.wikipedia.org/wiki/Berkeley_DB
 
@@ -141,12 +147,6 @@ https://www.bitmex.com/app/apiOverview
 
 alpaca
 https://en.bitcoin.it/wiki/Alpaca
-
-bitcoin addresses
-https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
-
-invoice address
-https://en.bitcoin.it/wiki/Invoice_address
 
 vanitygen
 https://github.com/samr7/vanitygen
