@@ -853,9 +853,6 @@ https://en.bitcoin.it/wiki/Britcoin
 britcoin
 https://github.com/Brit-Coin/britcoin
 
-intersango 
-https://github.com/nondejus/intersango
-
 cpuminer
 https://github.com/pooler/cpuminer
 
@@ -930,12 +927,6 @@ https://en.bitcoin.it/wiki/Satoshi_Dice
 
 satoshidice.com
 https://satoshidice.com
-
-colored coins wiki
-https://en.bitcoin.it/wiki/Colored_Coins
-
-colored coins sdk
-https://github.com/Colored-Coins/colored-coins-sdk
 
 bitcoimagazone wiki
 https://en.m.wikipedia.org/wiki/Bitcoin_Magazine
@@ -1350,6 +1341,12 @@ https://docs.kraken.com/websockets
 
 bitrated lib
 https://github.com/bitrated/bitrated-lib
+
+colored coins wiki
+https://en.bitcoin.it/wiki/Colored_Coins
+
+colored coins sdk
+https://github.com/Colored-Coins/colored-coins-sdk
 
 bisq archive
 https://lists.bisq.network/pipermail/bisq-github/
