@@ -139,6 +139,12 @@ https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 secp256k1
 https://github.com/bitcoin-core/secp256k1
 
+libbitcoin
+https://github.com/libbitcoin
+
+libbitcoin <dot> info
+https://libbitcoin.info
+
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
@@ -504,12 +510,6 @@ https://en.bitcoin.it/wiki/Consensus
 
 libbitcoin consensus
 https://github.com/libbitcoin/libbitcoin-consensus
-
-libbitcoin
-https://github.com/libbitcoin
-
-libbitcoin <dot> info
-https://libbitcoin.info
 
 python bitcoinlib
 https://github.com/petertodd/python-bitcoinlib
