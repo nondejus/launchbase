@@ -106,6 +106,33 @@ https://github.com/ahmedbodi/python-genesiscreator
 node genesis block
 https://github.com/nasa8x/node-genesis-block
 
+MD5
+https://en.m.wikipedia.org/wiki/MD5
+
+RIPEMD-160
+https://en.bitcoin.it/wiki/RIPEMD-160
+
+AES
+https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+
+ctaes
+https://github.com/bitcoin-core/ctaes
+
+base58
+https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58
+
+base58 check
+https://en.bitcoin.it/wiki/Base58Check_encoding
+
+libbase58
+https://github.com/luke-jr/libbase58
+
+SHA-2
+https://en.m.wikipedia.org/wiki/SHA-2
+
+sha256 animation
+https://github.com/in3rsha/sha256-animation
+
 ecdsa
 https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 
@@ -405,33 +432,6 @@ https://gcc.gnu.org/bugzilla/
  
 bitauth
 https://github.com/bitpay/bitauth
-
-MD5
-https://en.m.wikipedia.org/wiki/MD5
-
-RIPEMD-160
-https://en.bitcoin.it/wiki/RIPEMD-160
-
-AES
-https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
-
-ctaes
-https://github.com/bitcoin-core/ctaes
-
-base58
-https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58
-
-base58 check
-https://en.bitcoin.it/wiki/Base58Check_encoding
-
-libbase58
-https://github.com/luke-jr/libbase58
-
-SHA-2
-https://en.m.wikipedia.org/wiki/SHA-2
-
-sha256 animation
-https://github.com/in3rsha/sha256-animation
 
 constants
 https://github.com/rust-bitcoin/constants
