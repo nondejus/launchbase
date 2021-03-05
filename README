@@ -574,9 +574,6 @@ https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 dumb block explorer
 https://bitcoin.jonasschnelli.ch/explorer
 
-difficulty    
-https://en.bitcoin.it/wiki/Difficulty
-
 bitcoin halving
 https://www.bitcoinhalving.com/talks/what-is-the-halving-with-amiti-uttarwar
 
@@ -621,16 +618,7 @@ https://github.com/tcatm/oclminer
 
 bitcoin getwork
 https://github.com/m0mchil/bitcoin-getwork
-
-poclbm
-https://github.com/m0mchil/poclbm
-
-poclbm gui
-https://github.com/Kiv/poclbm
-
-cpuminer
-https://github.com/jgarzik/cpuminer
-
+ 
 diablominer
 https://github.com/Diablo-D3/DiabloMiner
 
