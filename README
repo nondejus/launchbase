@@ -1216,6 +1216,9 @@ https://nl.m.wikipedia.org/wiki/Pretty_Good_Privacy
 gnupg
 https://github.com/gpg/gnupg
 
+python gnupg
+https://github.com/nondejus/python-gnupg
+
 libgcrypt
 https://github.com/gpg/libgcrypt
 
