@@ -1504,9 +1504,6 @@ https://github.com/jedmccaleb/stellarterm
 key recovery service v2
 https://github.com/BitGo/key-recovery-service-v2
 
-coinbase     
-https://coinbase.com
-
 bitcoingold
 https://bitcoingold.org
 
@@ -1518,12 +1515,6 @@ https://caitlin-long.com/about-caitlin/
 
 wyohackaton
 https://wyohackathon.io
-
-brian armstrong
-https://www.brianarmstrong.org/
-
-gdax     
-https://github.com/nondejus/gdax-java
  
 cat-v sidenote 
 http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
@@ -1597,6 +1588,9 @@ https://en.bitcoin.it/wiki/Category:History
 coinbase wiki
 https://en.wikipedia.org/wiki/Coinbase
 
+brian armstrong
+https://www.brianarmstrong.org/
+ 
 coinbase
 https://github.com/coinbase
 
@@ -1651,6 +1645,12 @@ https://play.google.com/store/apps/details?id=com.xrpllabs.xumm&hl=en&gl=US&refe
 ledger hardware wallet
 https://www.xrptoolkit.com/get-wallet
 
+libra wiki
+https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
+
+libra
+https://github.com/libra/libra
+
 bithomp
 https://bithomp.com
 
@@ -1701,12 +1701,6 @@ https://github.com/hjort/pgafis
 
 fingerprint scanner
 https://learn.adafruit.com/adafruit-optical-fingerprint-sensor?view=all
-
-libra wiki
-https://en.m.wikipedia.org/wiki/Libra_(digital_currency)
-
-libra
-https://github.com/libra/libra
 
 john gilmore (2010-08-15)
 https://web.archive.org/web/20100427075340/http://www.toad.com/gnu/
