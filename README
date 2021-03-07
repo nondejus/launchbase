@@ -154,6 +154,9 @@ https://libbitcoin.info
 python bitcoinlib
 https://github.com/petertodd/python-bitcoinlib
 
+bitcire
+https://github.com/bitpay/bitcore
+
 btclib
 https://github.com/btclib-org/btclib
 
@@ -468,9 +471,6 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
-
-bitauth
-https://github.com/bitpay/bitauth
 
 constants
 https://github.com/rust-bitcoin/constants
