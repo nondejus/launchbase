@@ -139,6 +139,9 @@ https://github.com/in3rsha/sha256-animation
 ecdsa
 https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 
+secp256k1 wiki
+https://en.bitcoin.it/wiki/Secp256k1
+
 secp256k1
 https://github.com/bitcoin-core/secp256k1
 
@@ -469,9 +472,6 @@ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17144
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
-bugzilla
-https://gcc.gnu.org/bugzilla/
- 
 bitauth
 https://github.com/bitpay/bitauth
 
@@ -483,13 +483,7 @@ https://lib.rs/crates/bitcoin
 
 electrs
 https://github.com/romanz/electrs
- 
-secp256k1
-https://en.bitcoin.it/wiki/Secp256k1
 
-bitcoin core secp256k1
-https://github.com/bitcoin-core/secp256k1
- 
 bitcoin tools
 https://github.com/jmacxx/bitcoin-tool
 
