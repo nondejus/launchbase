@@ -486,6 +486,9 @@ https://github.com/rust-bitcoin/constants
 
 lib rust crates bitcoin
 https://lib.rs/crates/bitcoin
+
+electrs
+https://github.com/romanz/electrs
  
 secp256k1
 https://en.bitcoin.it/wiki/Secp256k1
