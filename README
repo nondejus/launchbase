@@ -190,6 +190,9 @@ https://en.bitcoin.it/wiki/Confirmation
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
 
+getwork 
+https://en.bitcoin.it/wiki/Getwork
+
 bitcoin getwork
 https://github.com/m0mchil/bitcoin-getwork
 
@@ -205,11 +208,20 @@ https://github.com/Kiv/poclbm
 cpuminer
 https://github.com/jgarzik/cpuminer
 
+cgminer
+https://github.com/ckolivas/cgminer
+
+bfgminer
+https://github.com/luke-jr/bfgminer
+
 pushpool
 https://github.com/jgarzik/pushpool
 
 stratum mining proxy
 https://github.com/slush0/stratum-mining-proxy
+
+stratum v2
+https://www.stratumprotocol.org/
 
 p2pool
 https://github.com/p2pool/p2pool
@@ -514,14 +526,17 @@ https://bitcointaproot.org
 bitcoin activation
 https://github.com/BitcoinActivation/bitcoin
 
-taproot workshop
-https://github.com/bitcoinops/taproot-workshop
-
 taproot review
 https://github.com/ajtowns/taproot-review
 
 taproot ringsig
 https://github.com/jonasnick/taproot-ringsig
+
+taproot workshop
+https://github.com/bitcoinops/taproot-workshop
+
+bitcoin optech
+https://bitcoinops.org/en/publications/
 
 bitcoinheaders
 https://bitcoinheaders.net
@@ -646,12 +661,6 @@ https://github.com/tcatm/oclminer
 diablominer
 https://github.com/Diablo-D3/DiabloMiner
 
-cgminer
-https://github.com/ckolivas/cgminer
-
-bfgminer
-https://github.com/luke-jr/bfgminer
-
 antminer
 https://github.com/AntMiner/AntGen1
 
@@ -768,15 +777,6 @@ https://web.archive.org/web/20110727214951/http://btcguild.com/
 
 btcguild bitcointalk
 https://bitcointalk.org/index.php?topic=7760.0
-
-p2ppool
-https://github.com/p2pool/p2pool
-
-p2ppool ui
-https://github.com/justino/p2pool-ui-punchy
-
-merged mining
-https://en.bitcoin.it/wiki/Merged_mining_specification
 
 electrum nmc
 https://github.com/ahmedbodi/electrum-nmc
@@ -1063,9 +1063,6 @@ https://github.com/Samourai-Wallet/Whirlpool
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
-getwork 
-https://en.bitcoin.it/wiki/Getwork
-
 opentimestamps
 https://github.com/opentimestamps/python-opentimestamps
 
@@ -1095,15 +1092,6 @@ https://zips.z.cash/zip-0173
 
 explorer testnet.z.cash
 https://explorer.testnet.z.cash/status
-
-cgminer
-https://github.com/ckolivas/cgminer
-
-openssl
-https://en.m.wikipedia.org/wiki/OpenSSL
-
-genesisblockzero
-https://github.com/Gnaf/GenesisBlockZero
 
 genesishd
 https://github.com/lhartikk/GenesisH0
@@ -1297,9 +1285,6 @@ https://pool.btc.com
 ghash.io
 https://en.m.wikipedia.org/wiki/Ghash.io
 
-ckpool 
-https://bitbucket.org/ckolivas/ckpool/src/master/
-
 bitcoin 0.9.0 -zapwallettxes
 https://bitcoin.org/en/release/v0.9.0#how-to-upgrade
 
@@ -1314,12 +1299,6 @@ https://github.com/nondejus/ether-proxy
 
 ethpool
 https://github.com/bitmaintech/ethpool-core
-
-stratum v2
-https://www.stratumprotocol.org/
-
-braiins
-https://github.com/braiins/braiins
 
 btc china
 https://en.m.wikipedia.org/wiki/BTCC_(company)
@@ -1506,15 +1485,6 @@ http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
 
 MIT digital currency initiative
 https://dci.mit.edu/wladimir-van-der-laan
- 
-tor
-https://gitweb.torproject.org/tor.git
-
-bitcoin tor
-https://en.bitcoin.it/wiki/Tor
-
-bitcoin core tor
-https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
 
 darksearch
 https://darksearch.io
@@ -1542,12 +1512,6 @@ https://ristretto.group/why_ristretto.html
 
 dalek
 https://dalek.rs
-
-bitcoinops taproot
-https://github.com/bitcoinops/taproot-workshop
-
-bitcoin optech
-https://bitcoinops.org/en/publications/
 
 brink
 https://brink.dev
