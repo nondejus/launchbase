@@ -388,15 +388,6 @@ https://bitcoincore.org/bin/
 bitcoin core review   
 https://bitcoincore.reviews
 
-bitcoin rpc explorer
-https://github.com/janoside/btc-rpc-explorer
-
-explorer btc21
-https://explorer.btc21.org/
-
-bitcoinacks
-https://bitcoinacks.com
-
 transcripts
 http://diyhpl.us/wiki/transcripts/
 
@@ -429,9 +420,6 @@ https://blockchain.info
 
 blockchain explorer
 https://www.blockchain.com/explorer
-
-blockchain exploter github
-https://github.com/nondejus/blockchain.info
 
 bitcoinwisdom
 https://bitcoinwisdom.io
@@ -476,7 +464,7 @@ getpeerinfo
 https://bitcoin-rpc.github.io/en/doc/0.17.99/rpc/network/getpeerinfo/
 
 bitnodes.io
-https://bitnodes.io/
+https://bitnodes.io
 
 bitnodes 
 https://github.com/nondejus/bitnodes
@@ -485,7 +473,7 @@ bitcoin atm radar
 https://coinatmradar.com
 
 coinmap
-https://coinmap.org/view/
+https://coinmap.org/view
 
 blockchair
 https://blockchair.com
