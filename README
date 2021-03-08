@@ -307,6 +307,9 @@ https://github.com/romanz/trezor-agent
 trezor address validator
 https://github.com/trezor/trezor-address-validator
 
+bitcoin hwi
+https://github.com/bitcoin-core/HWI
+
 bitcoin changelog
 https://en.bitcoin.it/wiki/Changelog
 
@@ -429,9 +432,6 @@ https://bitinfocharts.com/comparison/bitcoin-median_transaction_fee.html
 
 replace by fee
 https://en.bitcoin.it/wiki/Replace_by_fee
-
-bitcoin hardware wallet interface
-https://github.com/bitcoin-core/HWI
 
 blockchaincommons
 https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
