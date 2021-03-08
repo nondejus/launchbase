@@ -166,6 +166,12 @@ https://github.com/btclib-org/btclib
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
+vanitygen
+https://github.com/samr7/vanitygen
+
+vanitysearch
+https://github.com/JeanLucPons/VanitySearch
+
 invoice address
 https://en.bitcoin.it/wiki/Invoice_address
 
@@ -270,12 +276,6 @@ https://github.com/bisq-network/bisq
 
 alpaca
 https://en.bitcoin.it/wiki/Alpaca
-
-vanitygen
-https://github.com/samr7/vanitygen
-
-vanitysearch
-https://github.com/JeanLucPons/VanitySearch
 
 gnupg
 https://en.wikipedia.org/wiki/GNU_Privacy_Guard
