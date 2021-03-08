@@ -217,18 +217,21 @@ https://github.com/luke-jr/bfgminer
 pushpool
 https://github.com/jgarzik/pushpool
 
-stratum mining proxy
-https://github.com/slush0/stratum-mining-proxy
-
-stratum v2
-https://www.stratumprotocol.org/
-
 p2pool
 https://github.com/p2pool/p2pool
 
 ckpool
 https://bitbucket.org/ckolivas/ckpool
 
+stratum mining proxy
+https://github.com/slush0/stratum-mining-proxy
+
+stratum v2
+https://www.stratumprotocol.org
+
+braiins
+https://github.com/braiins/braiins
+ 
 bitcoin network
 https://en.m.wikipedia.org/wiki/Bitcoin_network
 
