@@ -178,6 +178,12 @@ https://en.bitcoin.it/wiki/Invoice_address
 berkeley db
 https://en.m.wikipedia.org/wiki/Berkeley_DB
 
+levelDB
+https://en.wikipedia.org/wiki/LevelDB
+
+bitcoin leveldb
+https://github.com/bitcoin-core/leveldb-old
+
 merkletree 
 https://en.m.wikipedia.org/wiki/Merkle_tree
 
