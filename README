@@ -181,6 +181,9 @@ https://en.m.wikipedia.org/wiki/Berkeley_DB
 wallet.dat
 https://en.bitcoin.it/wiki/Wallet
 
+pywallet
+https://github.com/kangasbros/pywallet
+
 levelDB
 https://en.wikipedia.org/wiki/LevelDB
 
