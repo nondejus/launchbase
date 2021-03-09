@@ -238,6 +238,12 @@ https://github.com/luke-jr/bfgminer
 pushpool
 https://github.com/jgarzik/pushpool
 
+eloipool
+https://github.com/luke-jr/eloipool
+
+wizstats
+https://github.com/wizkid057/wizstats
+
 p2pool
 https://github.com/p2pool/p2pool
 
@@ -817,9 +823,6 @@ https://bitcointalk.org/index.php?topic=7760.0
 electrum nmc
 https://github.com/ahmedbodi/electrum-nmc
 
-eloipool
-https://github.com/luke-jr/eloipool
-
 poolin
 https://www.poolin.com
 
@@ -1099,9 +1102,6 @@ https://github.com/Samourai-Wallet/Whirlpool
 libbitcoin
 https://github.com/genjix/libbitcoin-c-wrapper
 
-opentimestamps
-https://github.com/opentimestamps/python-opentimestamps
-
 double soending
 https://en.m.wikipedia.org/wiki/Double-spending
 
@@ -1308,9 +1308,6 @@ https://github.com/ahmedbodi/miningcore
 
 bitcoin pooled mining reward system
 https://github.com/nondejus/bitcoin-pooled-mining-reward-system
-
-wizstats
-https://github.com/wizkid057/wizstats
 
 btcpool
 https://github.com/btccom/btcpool
