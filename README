@@ -109,9 +109,6 @@ https://github.com/Gnaf/GenesisBlockZero
 genesiscreator
 https://github.com/ahmedbodi/python-genesiscreator
 
-node genesis block
-https://github.com/nasa8x/node-genesis-block
-
 MD5
 https://en.m.wikipedia.org/wiki/MD5
 
@@ -705,22 +702,7 @@ https://github.com/Diablo-D3/DiabloMiner
 
 antminer
 https://github.com/AntMiner/AntGen1
-
-bitcoin abe
-https://raw.githubusercontent.com/bitcoin-abe/bitcoin-abe/master/README.md
-
-libbitcoin tutorial
-https://github.com/nondejus/LibbitcoinTutorial
-
-libbitcoin
-https://github.com/libbitcoin/libbitcoin-system
-
-electrum
-https://github.com/spesmilo/electrum
-
-btcd
-https://github.com/btcsuite/btcd
-
+ 
 bitcoin blockchain insight
 https://insight.bitpay.com
 
@@ -1045,9 +1027,6 @@ https://github.com/cryptonotefoundation/cryptonote
 jaxx
 https://github.com/Jaxx-io/Jaxx
 
-Useful primitives for wallets
-https://github.com/nondejus/libwally-core
-
 blenderVR yofrankie
 https://github.com/BlenderVR/yofrankie
 
@@ -1099,9 +1078,6 @@ https://github.com/bitcoin-teleport/teleport-transactions
 whirlpool samouraiwallet chaumian coinjoin
 https://github.com/Samourai-Wallet/Whirlpool
 
-libbitcoin
-https://github.com/genjix/libbitcoin-c-wrapper
-
 double soending
 https://en.m.wikipedia.org/wiki/Double-spending
 
@@ -1129,11 +1105,11 @@ https://zips.z.cash/zip-0173
 explorer testnet.z.cash
 https://explorer.testnet.z.cash/status
 
+node genesis block
+https://github.com/nasa8x/node-genesis-block
+
 genesishd
 https://github.com/lhartikk/GenesisH0
-
-genesiscreator
-https://github.com/ahmedbodi/python-genesiscreator
 
 freicoin
 https://github.com/freicoin/freicoin
@@ -1251,9 +1227,6 @@ https://samouraiwallet.com/
 
 ronindojo
 https://ronindojo.io
-
-pgp
-https://nl.m.wikipedia.org/wiki/Pretty_Good_Privacy 
 
 libgcrypt
 https://github.com/gpg/libgcrypt
