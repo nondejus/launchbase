@@ -634,9 +634,6 @@ https://en.bitcoin.it/wiki/Tonal_Bitcoin
 bitcoin knots
 https://github.com/bitcoinknots/bitcoin
 
-spesmilo
-https://github.com/spesmilo/electrum
-
 casascius
 https://www.casascius.com
 
@@ -1210,9 +1207,6 @@ https://github.com/darkwallet/darkwallet
 blockstream green development kit
 https://github.com/nondejus/gdk
 
-localbitcoins.com
-https://localbitcoins.com/
-
 butterfly labs
 https://www.google.com/amp/s/en.bitcoinwiki.org/wiki/Amp/Butterfly_Labs
 
@@ -1324,9 +1318,6 @@ https://bitstamp.net
 gemini
 https://github.com/mtusman/gemini-python
 
-cpptrader
-https://github.com/nondejus/CppTrader
-
 bitfinex honey framework backtest
 https://github.com/nondejus/bfx-hf-backtest
 
@@ -1338,9 +1329,6 @@ https://github.com/nondejus/bfx-hf-data-server
 
 bitpanda    
 https://github.com/bitpanda-labs/bitpanda-pro-sdk-py
-
-kraken websockets
-https://docs.kraken.com/websockets
 
 bitrated lib
 https://github.com/bitrated/bitrated-lib
