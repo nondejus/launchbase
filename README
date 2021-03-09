@@ -493,21 +493,6 @@ https://www.sfbitcoindevs.org
 Raspberry Pi 2 fullnode
 https://github.com/MrChrisJ/fullnode
 
-bitcoinrpc
-https://github.com/jgarzik/python-bitcoinrpc
-
-timelock
-https://github.com/petertodd/timelock
-
-bitcoinseeder
-https://github.com/sipa/bitcoin-seeder
-
-bitcoin abe
-https://github.com/bitcoin-abe/bitcoin-abe
-
-getpeerinfo
-https://bitcoin-rpc.github.io/en/doc/0.17.99/rpc/network/getpeerinfo/
-
 bitnodes.io
 https://bitnodes.io
 
