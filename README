@@ -523,8 +523,14 @@ https://coinmap.org/view
 blockchair
 https://blockchair.com
 
+bitcoin testnet wiki
+https://en.bitcoin.it/wiki/Bitcoin_faucet
+ 
 bitcoin testnet
 https://github.com/freewil/bitcoin-testnet-box
+
+lightning faucet
+https://github.com/lightninglabs/lightning-faucet
 
 bitcoin cve
 https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETURN_bugs
