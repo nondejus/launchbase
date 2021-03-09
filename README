@@ -124,6 +124,9 @@ https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 ctaes
 https://github.com/bitcoin-core/ctaes
 
+base16
+https://en.wikipedia.org/wiki/Hexadecimal
+
 base58
 https://en.wikipedia.org/wiki/Binary-to-text_encoding#Base58
 
