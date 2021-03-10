@@ -445,6 +445,9 @@ https://github.com/bitcoin-core/bitcoin-maintainer-tools
 bitcoin bips
 https://github.com/bitcoin/bips
 
+satoshilabs slips
+https://github.com/satoshilabs/slips
+
 bitcoin core benchmark
 https://codespeed.bitcoinperf.com/changes/
 
@@ -547,18 +550,6 @@ https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
 bitcoin security research
 https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
-constants
-https://github.com/rust-bitcoin/constants
-
-lib rust crates bitcoin
-https://lib.rs/crates/bitcoin
-
-electrs
-https://github.com/romanz/electrs
-
-bitcoin tools
-https://github.com/jmacxx/bitcoin-tool
-
 miniscript
 http://bitcoin.sipa.be/miniscript
 
@@ -618,9 +609,6 @@ https://en.bitcoin.it/wiki/Block_size_limit_controversy#:~:text=Originally%2C%20
 
 blocksize limit bitcointalk
 https://bitcointalk.org/index.php?topic=1347.0
-
-satoshilabs slips
-https://github.com/satoshilabs/slips
 
 mullvad wiki
 https://en.m.wikipedia.org/wiki/Mullvad
@@ -739,15 +727,6 @@ https://news.ycombinator.com/item?id=3654110
 linode hack bitcointalk
 https://bitcointalk.org/index.php?topic=66916.0
 
-0bin <dot> net
-https://0bin.net
-
-0bin
-https://github.com/Tygs/0bin
-
-cryptpad
-https://github.com/xwiki-labs/cryptpad
-
 hardware wallet
 https://en.bitcoin.it/wiki/Hardware_wallet
 
@@ -825,15 +804,6 @@ https://www.poolin.com
 
 bitcoin dev kit
 https://bitcoindevkit.org/
-
-processing
-https://processingfoundation.org
-
-carnivote
-http://r-s-g.org/carnivore
-
-carnivore wiki
-https://en.m.wikipedia.org/wiki/Carnivore_(software)
 
 wireshark 
 https://github.com/wireshark/wireshark
@@ -937,12 +907,6 @@ https://github.com/ghostguns/80lower
 the new radical
 https://en.m.wikipedia.org/wiki/The_New_Radical
 
-gun db
-https://github.com/amark/gun
-
-gunstreamer
-https://github.com/mmalmi/GunStreamer
-
 supercop
 http://bench.cr.yp.to/supercop.html
 
@@ -1021,9 +985,6 @@ https://github.com/reddit-archive/fullnode
 managed infrastructure for building on blockchain networks
 https://www.bloq.com/
 
-medium
-https://medium.com/
-
 pyton bitcoin server/node
 https://github.com/mikegogulski/caesure
 
@@ -1041,27 +1002,6 @@ https://github.com/cryptonotefoundation/cryptonote
 
 jaxx
 https://github.com/Jaxx-io/Jaxx
-
-blenderVR yofrankie
-https://github.com/BlenderVR/yofrankie
-
-blender
-https://github.com/blender/blender
-
-gimp
-https://www.gimp.org
-
-audacity
-https://github.com/audacity/audacity
-
-usd
-https://github.com/PixarAnimationStudios/USD
-
-blender usd
-https://code.blender.org/2019/07/first-steps-with-universal-scene-description/
-
-blender usd workgroup
-https://lists.blender.org/mailman/listinfo/bf-usd
 
 dragonchain wiki
 https://en.m.wikipedia.org/wiki/Dragonchain
@@ -1222,15 +1162,6 @@ https://github.com/mimblewimble/grin-explorer
 darkwallet
 https://github.com/darkwallet/darkwallet
 
-blockstream green development kit
-https://github.com/nondejus/gdk
-
-butterfly labs
-https://www.google.com/amp/s/en.bitcoinwiki.org/wiki/Amp/Butterfly_Labs
-
-jalepeno
-https://www.amazon.com/Asic-Bitcoin-Miner-Butterfly-Jalape%C3%B1o/dp/B00DMTTFVG
-
 bitcoingold.org
 https://github.com/BTCGPU/BTCGPU
 
@@ -1254,13 +1185,7 @@ https://en.m.wikipedia.org/wiki/Tutanota
 
 tutanota
 https://github.com/tutao/tutanota
-
-privatebin
-https://github.com/nondejus/PrivateBin
-
-contactless smart card
-https://en.m.wikipedia.org/wiki/Contactless_smart_card
-
+ 
 coldcatd ckcc protocol
 https://github.com/Coldcard/ckcc-protocol
  
@@ -1510,6 +1435,15 @@ https://github.com/rust-bitcoin/rust-bitcoin
 rust clightning rpc
 https://github.com/laanwj/rust-clightning-rpc
 
+constants
+https://github.com/rust-bitcoin/constants
+
+lib rust crates bitcoin
+https://lib.rs/crates/bitcoin
+
+electrs
+https://github.com/romanz/electrs
+
 why ristretto
 https://ristretto.group/why_ristretto.html
 
@@ -1518,9 +1452,6 @@ https://dalek.rs
 
 brink
 https://brink.dev
-
-satoshilabs
-https://github.com/satoshilabs/slips
 
 node multi hashing
 https://github.com/zone117x/node-multi-hashing
