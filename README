@@ -463,6 +463,24 @@ https://bitcoincore.org/bin/
 bitcoin core review   
 https://bitcoincore.reviews
 
+bitcoin testnet wiki
+https://en.bitcoin.it/wiki/Bitcoin_faucet
+ 
+bitcoin testnet
+https://github.com/freewil/bitcoin-testnet-box
+
+lightning faucet
+https://github.com/lightninglabs/lightning-faucet
+
+bitcoin cve
+https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETURN_bugs
+
+bitcoin cve list
+https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
+
+bitcoin security research
+https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
+
 transcripts
 http://diyhpl.us/wiki/transcripts/
 
@@ -531,24 +549,6 @@ https://coinmap.org/view
 
 blockchair
 https://blockchair.com
-
-bitcoin testnet wiki
-https://en.bitcoin.it/wiki/Bitcoin_faucet
- 
-bitcoin testnet
-https://github.com/freewil/bitcoin-testnet-box
-
-lightning faucet
-https://github.com/lightninglabs/lightning-faucet
-
-bitcoin cve
-https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETURN_bugs
-
-bitcoin cve list
-https://www.cvedetails.com/vulnerability-list/vendor_id-12094/Bitcoin.html
-
-bitcoin security research
-https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner
 
 miniscript
 http://bitcoin.sipa.be/miniscript
