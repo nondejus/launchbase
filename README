@@ -781,9 +781,6 @@ https://bitcoinsecurity.guide
 bitbox02
 https://github.com/digitalbitbox/bitbox02-firmware
 
-libnunchuk 
-https://github.com/nunchuk-io/libnunchuk
-
 slushpool
 https://slushpool.com/home/
 
@@ -982,9 +979,6 @@ https://web.archive.org/web/20120418065531/http://app.bitlaundry.com/
 GOdl
 https://github.com/HOdlcoin/GOdl
 
-dash
-https://en.m.wikipedia.org/wiki/Dash_(cryptocurrency)
-
 cryptonote
 https://github.com/cryptonotefoundation/cryptonote
 
@@ -1038,15 +1032,6 @@ https://github.com/Blockstream/esplora
 
 blockchair
 https://blockchair.com/bitcoin/mempool/transactions
-
-zcash observatory
-https://github.com/Electric-Coin-Company/observatory
-
-zcash zip bech32
-https://zips.z.cash/zip-0173
-
-explorer testnet.z.cash
-https://explorer.testnet.z.cash/status
 
 node genesis block
 https://github.com/nasa8x/node-genesis-block
