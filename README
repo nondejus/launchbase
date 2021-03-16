@@ -184,6 +184,9 @@ https://github.com/bitpay/bitcore
 btclib
 https://github.com/btclib-org/btclib
 
+waljs
+https://github.com/bloq/waljs
+
 bitcoin addresses
 https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
 
@@ -453,9 +456,6 @@ https://github.com/spesmilo/electrum
 
 libwalley core
 https://github.com/ElementsProject/libwally-core
-
-waljs
-https://github.com/bloq/waljs
 
 btcrecover
 https://github.com/gurnec/btcrecover
