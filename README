@@ -188,9 +188,6 @@ https://github.com/bitpay/bitcore
 btclib
 https://github.com/btclib-org/btclib
 
-tss-lib
-https://github.com/binance-chain/tss-lib
-
 waljs
 https://github.com/bloq/waljs
 
@@ -382,6 +379,9 @@ https://en.wikipedia.org/wiki/Binance
 
 binance
 https://github.com/binance-chain
+
+tss-lib
+https://github.com/binance-chain/tss-lib
 
 kraken wiki
 https://en.wikipedia.org/wiki/Kraken_(company)
