@@ -508,7 +508,7 @@ https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md
 
 bitcoin-maintainer-tools
 https://github.com/bitcoin-core/bitcoin-maintainer-tools
- 
+
 bitcoin bips
 https://github.com/bitcoin/bips
 
@@ -535,6 +535,15 @@ https://github.com/freewil/bitcoin-testnet-box
 
 lightning faucet
 https://github.com/lightninglabs/lightning-faucet
+
+bitcoin knots wiki
+https://en.bitcoin.it/wiki/Bitcoin_Knots
+
+bitcoin knots
+https://github.com/bitcoinknots/bitcoin
+
+tonal bitcoin
+https://en.bitcoin.it/wiki/Tonal_Bitcoin
 
 bitcoin cve
 https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures#LSHIFT_and_RETURN_bugs
@@ -676,15 +685,6 @@ https://gitian.org
 
 bitcoin
 https://cs.m.wikipedia.org/wiki/Bitcoin
-
-tonal bitcoin
-https://en.bitcoin.it/wiki/Tonal_Bitcoin
-
-bitcoin knots wiki
-https://en.bitcoin.it/wiki/Bitcoin_Knots
-
-bitcoin knots
-https://github.com/bitcoinknots/bitcoin
 
 casascius
 https://www.casascius.com
