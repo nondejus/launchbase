@@ -637,8 +637,11 @@ https://github.com/jonasnick/taproot-ringsig
 taproot workshop
 https://github.com/bitcoinops/taproot-workshop
 
-bech32m
+bech32
 https://github.com/sipa/bech32
+
+bech32m
+https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki
 
 bitcoin optech
 https://bitcoinops.org/en/publications/
