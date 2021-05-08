@@ -613,7 +613,7 @@ https://github.com/rust-bitcoin/rust-miniscript
 minsc
 https://github.com/shesek/minsc
 
-minsc Miniscript-based scripting language for Bitcoin contracts
+miniscript-based scripting language for Bitcoin contracts
 https://min.sc
 
 taproot activation proposals
@@ -636,6 +636,9 @@ https://github.com/jonasnick/taproot-ringsig
 
 taproot workshop
 https://github.com/bitcoinops/taproot-workshop
+
+bech32m
+https://github.com/sipa/bech32
 
 bitcoin optech
 https://bitcoinops.org/en/publications/
