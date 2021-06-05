@@ -139,6 +139,9 @@ https://en.bitcoin.it/wiki/Satoshi_(unit)
 
 controlled supply
 https://en.bitcoin.it/wiki/Controlled_supply
+
+block
+https://en.bitcoin.it/wiki/Block
  
 genesis block
 https://en.bitcoin.it/wiki/Genesis_block
@@ -148,9 +151,6 @@ https://github.com/Gnaf/GenesisBlockZero
 
 genesiscreator
 https://github.com/ahmedbodi/python-genesiscreator
-
-block
-https://en.bitcoin.it/wiki/Block
 
 openssl cli
 https://wiki.openssl.org/index.php/Command_Line_Utilities
