@@ -690,6 +690,9 @@ https://github.com/jonasnick/taproot-ringsig
 taproot workshop
 https://github.com/bitcoinops/taproot-workshop
 
+taproot psbt
+https://github.com/achow101/bips/blob/taproot-psbt/bip-taproot-psbt.mediawiki
+
 taproot uses
 https://en.bitcoin.it/wiki/Taproot_Uses
 
