@@ -1839,6 +1839,12 @@ https://github.com/AugurProject/augur
 hyperledger
 https://github.com/hyperledger/besu
 
+quorum
+https://github.com/ConsenSys/quorum
+
+quorum consensys
+https://consensys.net/quorum
+
 openzkp
 https://github.com/0xProject/OpenZKP
 
@@ -1877,9 +1883,6 @@ https://polkadot.js.org
 
 polkadot(js) 
 https://github.com/polkadot-js
-
-quorum
-https://github.com/ConsenSys/quorum
 
 matrix synapse
 https://github.com/matrix-org/synapse 
