@@ -213,9 +213,6 @@ https://github.com/JetBrains
 bitcoinj httpseed
 https://github.com/bitcoinj/httpseed
 
-blockstream wiki
-https://en.wikipedia.org/wiki/Blockstream
-
 libwally core
 https://github.com/greenaddress/libwally-core
 
@@ -227,6 +224,9 @@ https://en.bitcoin.it/wiki/Blockstream_Green
 
 green android
 https://github.com/Blockstream/green_android
+
+blockstream wiki
+https://en.wikipedia.org/wiki/Blockstream
 
 bitcore
 https://github.com/bitpay/bitcore
