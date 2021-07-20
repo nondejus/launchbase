@@ -732,6 +732,9 @@ https://en.bitcoin.it/wiki/Segregated_Witness
 bech32
 https://github.com/sipa/bech32
 
+BIP 0350
+https://en.bitcoin.it/wiki/BIP_0350
+
 bech32m
 https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki
 
