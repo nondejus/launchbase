@@ -102,9 +102,6 @@ https://en.bitcoin.it/wiki/Protocol_documentation
 script
 https://en.bitcoin.it/wiki/Script
 
-bip
-https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals
-
 btcdeb   
 https://github.com/bitcoin-core/btcdeb
 
@@ -191,6 +188,9 @@ https://bitnodes.io
 
 bitcoind
 https://en.bitcoin.it/wiki/Bitcoind
+
+bip
+https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals
 
 libbitcoin
 https://github.com/libbitcoin
