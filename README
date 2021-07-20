@@ -180,12 +180,6 @@ https://en.wikipedia.org/wiki/Checksum
 bitcoin seeder
 https://github.com/sipa/bitcoin-seeder
 
-bitnodes
-https://github.com/bitcoincore-dev/bitnodes
-
-bitnodes.io
-https://bitnodes.io
-
 bitcoind
 https://en.bitcoin.it/wiki/Bitcoind
 
@@ -287,6 +281,12 @@ https://en.bitcoin.it/wiki/BlockExplorer.com
 
 bitcoin abe
 https://github.com/bitcoin-abe/bitcoin-abe
+
+bitnodes
+https://github.com/bitcoincore-dev/bitnodes
+
+bitnodes.io
+https://bitnodes.io
  
 difficulty    
 https://en.bitcoin.it/wiki/Difficulty
