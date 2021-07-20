@@ -720,6 +720,9 @@ https://github.com/achow101/bips/blob/taproot-psbt/bip-taproot-psbt.mediawiki
 taproot uses
 https://en.bitcoin.it/wiki/Taproot_Uses
 
+segregated witness
+https://en.bitcoin.it/wiki/Segregated_Witness
+
 bech32
 https://github.com/sipa/bech32
 
